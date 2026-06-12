@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-06-12T02:04:03.652131 UTC
+# Generated on 2026-06-12T14:26:23.895507 UTC
 
 #PLAYLIST:x direct
 #EXTGRP:x direct
@@ -5235,6 +5235,32 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89086
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89087
 #EXTINF:-1 tvg-id="WashingtonWizards.nba" tvg-name="[NBA] WASHINGTON WIZARDS" group-title="ENG | Sports | NBA/WNBA",[NBA] WASHINGTON WIZARDS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89088
+
+
+==================================================
+
+#PLAYLIST:x dancetv
+#EXTGRP:x dancetv
+
+#GROUP:ENG | Music
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Best of Dance TV" group-title="ENG | Music",Best of Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Deep House District" group-title="ENG | Music",Deep House District
+https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Techno Warehouse" group-title="ENG | Music",Techno Warehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Techno House Terrace" group-title="ENG | Music",Techno House Terrace
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionfour.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="House Floor" group-title="ENG | Music",House Floor
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Minimal" group-title="ENG | Music",Minimal
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionsix.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Mainstream EDM" group-title="ENG | Music",Mainstream EDM
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionseven.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Chill AF Downtempo" group-title="ENG | Music",Chill AF Downtempo
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisioneight.m3u8
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Melodic Techno" group-title="ENG | Music",Melodic Techno
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionnine.m3u8
 
 
 ==================================================
