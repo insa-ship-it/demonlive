@@ -21,7 +21,6 @@ PLAYLISTS = [
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/pluto_us.m3u", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/pluto_gb.m3u", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/ott-news.m3u8", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/drew.m3u8", 
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
