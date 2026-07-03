@@ -15,6 +15,7 @@ PLAYLISTS = [
     "https://github.com/insa-ship-it/hdhr-combo/raw/refs/heads/main/combined_playlist.m3u", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/rocket300.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/247.m3u", 
+    "https://github.com/insa-ship-it/sports/raw/refs/heads/main/power/power.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/events.m3u",
     "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8", 
     "https://github.com/insa-ship-it/Appm3u-combo/raw/refs/heads/main/combined_playlist.m3u", 
