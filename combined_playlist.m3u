@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-07-04T03:23:35.449269 UTC
+# Generated on 2026-07-04T06:48:53.002509 UTC
 
 #PLAYLIST:x direct
 #EXTGRP:x direct
@@ -9719,7 +9719,7 @@ http://example.com/stream
 #EXTGRP:x Roxiestreams
 
 #GROUP:ENG | Live Events
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/football.png?raw=true" group-title="ENG | Live Events",Colombia vs Ghana
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/football.png?raw=true" group-title="ENG | Live Events",Australia vs Egypt
 https://customer-k7esp6o17le0nad2.cloudflarestream.com/e55558e0ecd91f1c75bfb02b727ff650/manifest/video.m3u8
 
 
