@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-07-11T19:07:34.543221 UTC
+# Generated on 2026-07-11T20:52:16.089405 UTC
 
 #PLAYLIST:x direct
 #EXTGRP:x direct
@@ -9729,30 +9729,30 @@ http://example.com/stream
 #GROUP:ENG | Live Events
 #EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="ENG | Live Events",AMA Motocross - Race
 https://admin.formaturamaxi.com.br/sx.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",New York Yankees vs Washington Nationals
-https://admin.formaturamaxi.com.br/mlb6.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Kansas City Royals vs Baltimore Orioles
-https://admin.formaturamaxi.com.br/mlb11.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Atlanta Braves vs St. Louis Cardinals
-https://admin.formaturamaxi.com.br/mlb14.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Toronto Blue Jays vs San Diego Padres
-https://admin.formaturamaxi.com.br/mlb15.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Boston Red Sox vs New York Mets
 https://admin.formaturamaxi.com.br/mlb7.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Philadelphia Phillies vs Detroit Tigers
-https://admin.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Toronto Blue Jays vs San Diego Padres
+https://admin.formaturamaxi.com.br/mlb15.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Kansas City Royals vs Baltimore Orioles
+https://admin.formaturamaxi.com.br/mlb11.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Seattle Mariners vs Tampa Bay Rays
 https://admin.formaturamaxi.com.br/mlb8.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",New York Yankees vs Washington Nationals
+https://admin.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Colorado Rockies vs San Francisco Giants
+https://admin.formaturamaxi.com.br/mlb5.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Atlanta Braves vs St. Louis Cardinals
+https://admin.formaturamaxi.com.br/mlb14.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Philadelphia Phillies vs Detroit Tigers
+https://admin.formaturamaxi.com.br/mlb10.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Cleveland Guardians vs Miami Marlins
 https://admin.formaturamaxi.com.br/mlb9.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Houston Astros vs Texas Rangers
+https://admin.formaturamaxi.com.br/mlb12.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Chicago Cubs vs Cincinnati Reds
 https://admin.formaturamaxi.com.br/mlb13.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Los Angeles Angels vs Minnesota Twins
 https://admin.formaturamaxi.com.br/mlb3.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Colorado Rockies vs San Francisco Giants
-https://admin.formaturamaxi.com.br/mlb5.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Houston Astros vs Texas Rangers
-https://admin.formaturamaxi.com.br/mlb12.m3u8
 #EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="ENG | Live Events",WoO Sprint Cars
 https://admin.formaturamaxi.com.br/flo.m3u8
 
