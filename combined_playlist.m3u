@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-07-14T17:16:43.136267 UTC
+# Generated on 2026-07-14T19:23:12.429248 UTC
 
 #PLAYLIST:x direct
 #EXTGRP:x direct
@@ -9729,7 +9729,7 @@ http://example.com/stream
 #EXTGRP:x Roxiestreams
 
 #GROUP:ENG | Live Events
-#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="ENG | Live Events",High Limit Racing
+#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="ENG | Live Events",WoO Sprint Cars - Race
 https://tedesco.formaturamaxi.com.br/flo.m3u8
 
 
