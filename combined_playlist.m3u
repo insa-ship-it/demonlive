@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-07-19T19:09:45.560705 UTC
+# Generated on 2026-07-19T20:53:12.505126 UTC
 
 #PLAYLIST:x direct
 #EXTGRP:x direct
@@ -10065,6 +10065,16 @@ http://example.com/stream
 
 #PLAYLIST:x Roxiestreams
 #EXTGRP:x Roxiestreams
+
+#GROUP:ENG | Live Events
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",New York Mets vs Philadelphia Phillies
+https://admin2.formaturamaxi.com.br/mlb5.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Texas Rangers vs Atlanta Braves
+https://admin2.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/baseball.png?raw=true" group-title="ENG | Live Events",Los Angeles Dodgers vs New York Yankees
+https://admin2.formaturamaxi.com.br/mlb3.m3u8
+#EXTINF:-1 tvg-id="Sports.Rox.us" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/default.png?raw=true" group-title="ENG | Live Events",Winged 410 Sprint Cars - Huset's Speedway
+https://admin2.formaturamaxi.com.br/flo.m3u8
 
 
 ==================================================
