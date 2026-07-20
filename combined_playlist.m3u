@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-07-20T14:10:39.037215 UTC
+# Generated on 2026-07-20T18:06:28.954483 UTC
 
 #PLAYLIST:x direct
 #EXTGRP:x direct
@@ -2777,6 +2777,8 @@ http://98.111.243.7:5004/auto/v4.1
 http://199.245.173.253:5004/auto/v9.1
 #EXTINF:-1 tvg-id="WNEP-DT.us_locals1" tvg-name="PA | Scranton | ABC WNEP" group-title="ENG | Local | ABC",PA | Scranton | ABC WNEP
 http://68.65.124.50:5004/auto/v16.1
+#EXTINF:-1 tvg-id="ABCWWAY.us" tvg-name="NC | Wilmington | ABC WWAY" group-title="ENG | Local | ABC",NC | Wilmington | ABC WWAY
+http://209.215.122.164:9981/stream/channelid/2097510133?profile=pass
 
 #GROUP:ENG | Entertainment
 #EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff | Lafayette LA" group-title="ENG | Entertainment",Laff | Lafayette LA
@@ -2785,7 +2787,7 @@ http://12.186.20.98:5004/auto/v3.2
 http://12.186.20.98:5004/auto/v3.5
 #EXTINF:-1 tvg-id="Oxygen.us" tvg-name="Oxygen | Alexandria LA" group-title="ENG | Entertainment",Oxygen | Alexandria LA
 http://12.186.20.98:5004/auto/v5.6
-#EXTINF:-1 tvg-id="365BLK.us" tvg-name="365BLK | Alexandria LA" group-title="ENG | Entertainment",365BLK | Alexandria LA
+#EXTINF:-1 tvg-id="365BLK.us" tvg-name="The365 | Alexandria LA" group-title="ENG | Entertainment",The365 | Alexandria LA
 http://12.186.20.98:5004/auto/v5.7
 #EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce | Lake Charles LA" group-title="ENG | Entertainment",Bounce | Lake Charles LA
 http://12.186.20.98:5004/auto/v7.3
@@ -2793,8 +2795,6 @@ http://12.186.20.98:5004/auto/v7.3
 http://12.186.20.98:5004/auto/v7.5
 #EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery | Lake Charles LA" group-title="ENG | Entertainment",ION Mystery | Lake Charles LA
 http://12.186.20.98:5004/auto/v7.6
-#EXTINF:-1 tvg-name="365BLK" group-title="ENG | Entertainment",365BLK | Lake Charles LA
-http://12.186.20.98:5004/auto/v7.7
 #EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey | Lake Charles LA" group-title="ENG | Entertainment",Nosey | Lake Charles LA
 http://12.186.20.98:5004/auto/v29.3
 #EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus | Lake Charles LA" group-title="ENG | Entertainment",ION Plus | Lake Charles LA
@@ -3167,12 +3167,58 @@ http://68.65.124.50:5004/auto/v30.7
 http://68.65.124.50:5004/auto/v56.4
 #EXTINF:-1 tvg-id="Roar.us" tvg-name="ROAR | Hazleton PA" group-title="ENG | Entertainment",ROAR | Hazleton PA
 http://68.65.124.50:5004/auto/v56.5
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus | Wilmington NC" group-title="ENG | Entertainment",ION Plus | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1369088380?profile=pass
+#EXTINF:-1 tvg-id="StartTV.us" tvg-name="START | Wilmington NC" group-title="ENG | Entertainment",START | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/84497042?profile=pass
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce | Wilmington NC" group-title="ENG | Entertainment",Bounce | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1401770459?profile=pass
+#EXTINF:-1 tvg-id="The365.us" tvg-name="The365 | Wilmington NC" group-title="ENG | Entertainment",The365 | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/79409241?profile=pass
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff | Wilmington NC" group-title="ENG | Entertainment",Laff | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/964609105?profile=pass
+#EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery | Wilmington NC" group-title="ENG | Entertainment",ION Mystery | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1509826114?profile=pass
+#EXTINF:-1 tvg-id="TrueCrimeNetwork.us" tvg-name="True Crime | Wilmington NC" group-title="ENG | Entertainment",True Crime | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/23037156?profile=pass
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="Oxygen | Wilmington NC" group-title="ENG | Entertainment",Oxygen | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1745243256?profile=pass
+#EXTINF:-1 tvg-id="BingeTV.us" tvg-name="Binge | Wilmington NC" group-title="ENG | Entertainment",Binge | Wilmington NC W35EF-D
+http://209.215.122.164:9981/stream/channelid/1565587235?profile=pass
+#EXTINF:-1 tvg-id="ZLiving.us" tvg-name="ZLiving | Wilmington NC" group-title="ENG | Entertainment",ZLiving | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/677538263?profile=pass
+#EXTINF:-1 tvg-name="Crime | Wilmington NC (Offline)" group-title="ENG | Entertainment",Crime | Wilmington NC (Offline)
+http://209.215.122.164:9981/stream/channelid/1868931478?profile=pass
+#EXTINF:-1 tvg-id="Fun.Roads.us2" tvg-name="Fun Roads | Wilmington NC" group-title="ENG | Entertainment",Fun Roads | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/449830187?profile=pass
+#EXTINF:-1 tvg-name="Oxygen | Wilmington NC (Offline)" group-title="ENG | Entertainment",Oxygen | Wilmington NC (Offline)
+http://209.215.122.164:9981/stream/channelid/2013306495?profile=pass
+#EXTINF:-1 tvg-id="IonTV.us" tvg-name="ION | Wilmington NC" group-title="ENG | Entertainment",ION | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1915236574?profile=pass
+#EXTINF:-1 tvg-id="Dabl.us" tvg-name="DABL | Wilmington NC" group-title="ENG | Entertainment",DABL | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/516642571?profile=pass
+#EXTINF:-1 tvg-id="ConfessByNosey.us" tvg-name="Confess | Wilmington NC" group-title="ENG | Entertainment",Confess | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/2044194342?profile=pass
+#EXTINF:-1 tvg-id="Nosey.us" tvg-name="Nosey | Wilmington NC" group-title="ENG | Entertainment",Nosey | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/840231474?profile=pass
+#EXTINF:-1 tvg-id="IonTV.us" tvg-name="ION | Wilmington NC (Alt)" group-title="ENG | Entertainment",ION | Wilmington NC (Alt)
+http://209.215.122.164:9981/stream/channelid/198826698?profile=pass
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff | Wilmington NC" group-title="ENG | Entertainment",Laff | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1407030124?profile=pass
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus | Wilmington NC (Alt)" group-title="ENG | Entertainment",ION Plus | Wilmington NC (Alt)
+http://209.215.122.164:9981/stream/channelid/282874669?profile=pass
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED | Wilmington NC" group-title="ENG | Entertainment",BUSTED | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1633930764?profile=pass
+#EXTINF:-1 tvg-id="GameShowCentral.us" tvg-name="Game Show Central | Wilmington NC" group-title="ENG | Entertainment",Game Show Central | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/895635300?profile=pass
+#EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us" tvg-name="Great | Wilmington NC" group-title="ENG | Entertainment",Great | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1671565611?profile=pass
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="Busted | Wilmington NC WQDH" group-title="ENG | Entertainment",Busted | Wilmington NC WQDH
+http://209.215.122.164:9981/stream/channelid/1331921613?profile=pass
 
 #GROUP:ENG | Westerns
 #EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit | Lafayette LA" group-title="ENG | Westerns",Grit | Lafayette LA
 http://12.186.20.98:5004/auto/v3.3
-#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit | Alexandria LA" group-title="ENG | Westerns",Grit | Alexandria LA
-http://12.186.20.98:5004/auto/v5.5
 #EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit | Lake Charles LA" group-title="ENG | Westerns",Grit | Lake Charles LA
 http://12.186.20.98:5004/auto/v7.4
 #EXTINF:-1 tvg-id="Grit.us" tvg-name="GRIT | Chicago IL" group-title="ENG | Westerns",GRIT | Chicago IL
@@ -3207,6 +3253,12 @@ http://199.245.173.253:5004/auto/v18.5
 http://199.245.173.253:5004/auto/v41.2
 #EXTINF:-1 tvg-id="Outlaw.us" tvg-name="Outlaw | Wausau WI" group-title="ENG | Westerns",Outlaw | Wausau WI
 http://173.229.4.248:5004/auto/v7.6
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit | Wilmington NC" group-title="ENG | Westerns",Grit | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/2025269820?profile=pass
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit | Wilmington NC (Alt)" group-title="ENG | Westerns",Grit | Wilmington NC (Alt)
+http://209.215.122.164:9981/stream/channelid/202319832?profile=pass
+#EXTINF:-1 tvg-id="Outlaw.us" tvg-name="Outlaw | Wilmington NC" group-title="ENG | Westerns",Outlaw | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1724239793?profile=pass
 
 #GROUP:ENG | News
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="CourtTV | Lafayette LA" group-title="ENG | News",CourtTV | Lafayette LA
@@ -3267,10 +3319,382 @@ http://199.245.173.253:5004/auto/v18.7
 http://199.245.173.253:5004/auto/v18.8
 #EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-name="Only Source | Scranton PA" group-title="ENG | News",Only Source | Scranton PA
 http://68.65.124.50:5004/auto/v30.12
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="CourtTV | Wilmington NC" group-title="ENG | News",CourtTV | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/745440870?profile=pass
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="CourtTV | Wilmington NC (Alt)" group-title="ENG | News",CourtTV | Wilmington NC (Alt)
+http://209.215.122.164:9981/stream/channelid/1554437567?profile=pass
+
+#GROUP:ENG | Local | NBC
+#EXTINF:-1 tvg-id="NBCKALB.us" tvg-name="LA | Alexandria | NBC KALB (HDHR)" group-title="ENG | Local | NBC",LA | Alexandria | NBC KALB (HDHR)
+http://12.186.20.98:5004/auto/v5.1
+#EXTINF:-1 tvg-id="NBCKPLC.us" tvg-name="LA | Lake Charles | NBC KPLC" group-title="ENG | Local | NBC",LA | Lake Charles | NBC KPLC
+http://12.186.20.98:5004/auto/v7.1
+#EXTINF:-1 tvg-id="NBCWJAC.us" tvg-name="PA | Johnstown | NBC WJAC (HDHR)" group-title="ENG | Local | NBC",PA | Johnstown | NBC WJAC (HDHR)
+http://199.193.59.138:5004/auto/v6.1
+#EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="IL | Chicago | NBC WMAQ HEVC" group-title="ENG | Local | NBC",IL | Chicago | NBC WMAQ HEVC
+http://173.229.4.240:5004/auto/v105.1
+#EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="IL | Chicago | NBC WMAQ" group-title="ENG | Local | NBC",IL | Chicago | NBC WMAQ
+http://173.229.4.240:5004/auto/v5.1
+#EXTINF:-1 tvg-id="NBCWPTV.us" tvg-name="FL | WPB | NBC WPTV" group-title="ENG | Local | NBC",FL | WPB | NBC WPTV
+http://173.229.4.243:5004/auto/v5.11
+#EXTINF:-1 tvg-id="NBCWTVJ.us" tvg-name="FL | Miami | NBC WTVJ" group-title="ENG | Local | NBC",FL | Miami | NBC WTVJ
+http://173.229.4.243:5004/auto/v6.1
+#EXTINF:-1 tvg-id="NBCWTVJ.us" tvg-name="FL | Miami | NBC WTVJ HVEC" group-title="ENG | Local | NBC",FL | Miami | NBC WTVJ HVEC
+http://173.229.4.243:5004/auto/v106.1
+#EXTINF:-1 tvg-id="NBCWPXI.us" tvg-name="PA | Pittsburgh | NBC WPXI" group-title="ENG | Local | NBC",PA | Pittsburgh | NBC WPXI
+http://164.52.224.212:5004/auto/v11.1
+#EXTINF:-1 tvg-id="NBCWPXI.us" tvg-name="PA | Pittsburgh | NBC WPXI" group-title="ENG | Local | NBC",PA | Pittsburgh | NBC WPXI
+http://98.111.243.7:5004/auto/v11.1
+#EXTINF:-1 tvg-id="NBCKMTR.us" tvg-name="OR | Eugene | NBC KMTR" group-title="ENG | Local | NBC",OR | Eugene | NBC KMTR
+http://199.245.173.253:5004/auto/v16.1
+#EXTINF:-1 tvg-id="NBCWJFW.us" tvg-name="WI | Rhinelander | NBC WJFW" group-title="ENG | Local | NBC",WI | Rhinelander | NBC WJFW
+http://173.229.4.248:5004/auto/v12.1
+#EXTINF:-1 tvg-id="NBCWBRE.us" tvg-name="PA | Scranton | NBC WBRE" group-title="ENG | Local | NBC",PA | Scranton | NBC WBRE
+http://68.65.124.50:5004/auto/v28.1
+#EXTINF:-1 tvg-id="NBCWECT.us" tvg-name="NC | Wilmington | NBC WECT" group-title="ENG | Local | NBC",NC | Wilmington | NBC WECT
+http://209.215.122.164:9981/stream/channelid/1667063420?profile=pass
+
+#GROUP:ENG | Local | CBS
+#EXTINF:-1 tvg-id="CBSKALBDT2.us" tvg-name="LA | Alexandria | CBS KALB (HDHR)" group-title="ENG | Local | CBS",LA | Alexandria | CBS KALB (HDHR)
+http://12.186.20.98:5004/auto/v5.2
+#EXTINF:-1 tvg-id="CBSKSWL.us" tvg-name="LA | Lake Charles | CBS K30QV" group-title="ENG | Local | CBS",LA | Lake Charles | CBS K30QV
+http://12.186.20.98:5004/auto/v30.1
+#EXTINF:-1 tvg-id="CBSWBBM.us" tvg-name="IL | Chicago | CBS WBBM" group-title="ENG | Local | CBS",IL | Chicago | CBS WBBM
+http://173.229.4.240:5004/auto/v2.1
+#EXTINF:-1 tvg-id="CBSWBBM.us" tvg-name="IL | Chicago | CBS WBBM HEVC" group-title="ENG | Local | CBS",IL | Chicago | CBS WBBM HEVC
+http://173.229.4.240:5004/auto/v102.1
+#EXTINF:-1 tvg-id="CBSWFOR.us" tvg-name="FL | Miami | CBS WFOR" group-title="ENG | Local | CBS",FL | Miami | CBS WFOR
+http://173.229.4.243:5004/auto/v4.1
+#EXTINF:-1 tvg-id="CBSWFOR.us" tvg-name="FL | Miami | CBS WFOR HVEC" group-title="ENG | Local | CBS",FL | Miami | CBS WFOR HVEC
+http://173.229.4.243:5004/auto/v104.1
+#EXTINF:-1 tvg-id="CBSKDKA.us" tvg-name="PA | Pittsburgh | CBS KDKA" group-title="ENG | Local | CBS",PA | Pittsburgh | CBS KDKA
+http://98.111.243.7:5004/auto/v2.1
+#EXTINF:-1 tvg-id="CBSKVAL.us" tvg-name="OR | Eugene | CBS KVAL" group-title="ENG | Local | CBS",OR | Eugene | CBS KVAL
+http://199.245.173.253:5004/auto/v13.1
+#EXTINF:-1 tvg-id="CBSWSAW.us" tvg-name="WI | Wausau | CBS WSAW" group-title="ENG | Local | CBS",WI | Wausau | CBS WSAW
+http://173.229.4.248:5004/auto/v7.1
+#EXTINF:-1 tvg-id="CBSWSAW.us" tvg-name="WI | Wausau | CBS WSAW (Alt)" group-title="ENG | Local | CBS",WI | Wausau | CBS WSAW (Alt)
+http://173.229.4.248:5004/auto/v7.10
+#EXTINF:-1 tvg-id="CBSWYOU.us" tvg-name="PA | Scranton | CBS WYOU" group-title="ENG | Local | CBS",PA | Scranton | CBS WYOU
+http://68.65.124.50:5004/auto/v22.1
+#EXTINF:-1 tvg-id="CBSWWAY.us" tvg-name="NC | Wilmington | CBS WWAY" group-title="ENG | Local | CBS",NC | Wilmington | CBS WWAY
+http://209.215.122.164:9981/stream/channelid/1323955527?profile=pass
+
+#GROUP:ENG | Local | CW/MY
+#EXTINF:-1 tvg-name="LA | Alexandria | CW KALB (HDHR)" group-title="ENG | Local | CW/MY",LA | Alexandria | CW KALB (HDHR)
+http://12.186.20.98:5004/auto/v5.3
+#EXTINF:-1 tvg-id="CWKPLCDT2.us" tvg-name="LA | Lake Charles | CW KPLC" group-title="ENG | Local | CW/MY",LA | Lake Charles | CW KPLC
+http://12.186.20.98:5004/auto/v7.2
+#EXTINF:-1 tvg-id="CW.Plus.East.us2" tvg-name="PA | Johnstown | CW+" group-title="ENG | Local | CW/MY",PA | Johnstown | CW+
+http://199.193.59.138:5004/auto/v6.4
+#EXTINF:-1 tvg-id="WGNWGN9.us" tvg-name="IL | Chicago | CW WGN" group-title="ENG | Local | CW/MY",IL | Chicago | CW WGN
+http://173.229.4.240:5004/auto/v9.1
+#EXTINF:-1 tvg-id="MYWPWR.us" tvg-name="IN | Gary | MY WPWR" group-title="ENG | Local | CW/MY",IN | Gary | MY WPWR
+http://173.229.4.240:5004/auto/v50.1
+#EXTINF:-1 tvg-id="WGNWGN9.us" tvg-name="IL | Chicago | CW WGN HEVC" group-title="ENG | Local | CW/MY",IL | Chicago | CW WGN HEVC
+http://173.229.4.240:5004/auto/v109.1
+#EXTINF:-1 tvg-id="MYWBFS.us" tvg-name="FL | Miami | CW WBFS" group-title="ENG | Local | CW/MY",FL | Miami | CW WBFS
+http://173.229.4.243:5004/auto/v33.1
+#EXTINF:-1 tvg-id="MYWPNT.us" tvg-name="PA | Pittsburgh | CW/MY WPNT" group-title="ENG | Local | CW/MY",PA | Pittsburgh | CW/MY WPNT
+http://164.52.224.212:5004/auto/v22.1
+#EXTINF:-1 tvg-id="KDKA+WPKD.us" tvg-name="PA | Jeannette | KDKA WPKD" group-title="ENG | Local | CW/MY",PA | Jeannette | KDKA WPKD
+http://98.111.243.7:5004/auto/v19.1
+#EXTINF:-1 tvg-id="MYWPNT.us" tvg-name="PA | Pittsburgh | CW/MY WPNT" group-title="ENG | Local | CW/MY",PA | Pittsburgh | CW/MY WPNT
+http://98.111.243.7:5004/auto/v22.1
+#EXTINF:-1 tvg-id="CW+KMTRDT2.us" tvg-name="OR | Eugene | CW+ KMTR" group-title="ENG | Local | CW/MY",OR | Eugene | CW+ KMTR
+http://199.245.173.253:5004/auto/v16.2
+#EXTINF:-1 tvg-id="KEVU-CD.us_locals1" tvg-name="OR | Eugene | MY KEVU" group-title="ENG | Local | CW/MY",OR | Eugene | MY KEVU
+http://199.245.173.253:5004/auto/v23.1
+#EXTINF:-1 tvg-id="KEVU-CD.us_locals1" tvg-name="OR | Eugene | MY KEVU (Alt)" group-title="ENG | Local | CW/MY",OR | Eugene | MY KEVU (Alt)
+http://199.245.173.253:5004/auto/v34.2
+#EXTINF:-1 tvg-id="WYOW-DT.us_locals1" tvg-name="WI | Wausau | CW WYOW" group-title="ENG | Local | CW/MY",WI | Wausau | CW WYOW
+http://173.229.4.248:5004/auto/v7.4
+#EXTINF:-1 tvg-id="WYOW-DT.us_locals1" tvg-name="WI | Wausau | CW WYOW" group-title="ENG | Local | CW/MY",WI | Wausau | CW WYOW
+http://173.229.4.248:5004/auto/v34.1
+#EXTINF:-1 tvg-id="WSWB-DT.us_locals1" tvg-name="PA | Hazleton | CW WSWB" group-title="ENG | Local | CW/MY",PA | Hazleton | CW WSWB
+http://68.65.124.50:5004/auto/v56.2
+#EXTINF:-1 tvg-id="MYWQMY.us" tvg-name="PA | Williamsport | My WQMY" group-title="ENG | Local | CW/MY",PA | Williamsport | My WQMY
+http://68.65.124.50:5004/auto/v56.3
+#EXTINF:-1 tvg-id="WWAY-DT3.us_locals1" tvg-name="NC | Wilmington | CW WWAY" group-title="ENG | Local | CW/MY",NC | Wilmington | CW WWAY
+http://209.215.122.164:9981/stream/channelid/1730538115?profile=pass
+
+#GROUP:ENG | Sports
+#EXTINF:-1 tvg-id="Gulf.Coast.Sports.and.Entertainment.Network.us2" tvg-name="Gray Sports Network - LA" group-title="ENG | Sports",Gray Sports Network - LA
+http://12.186.20.98:5004/auto/v5.4
+#EXTINF:-1 tvg-id="SportsTVPlus.distro" tvg-name="Sports TV | Miami FL WDFL" group-title="ENG | Sports",Sports TV | Miami FL WDFL
+http://173.229.4.243:5004/auto/v18.6
+#EXTINF:-1 tvg-id="FTFSports.us" tvg-name="FTF Sports | Pittsburgh PA" group-title="ENG | Sports",FTF Sports | Pittsburgh PA
+http://164.52.224.212:5004/auto/v69.4
+#EXTINF:-1 tvg-id="RevN.us2" tvg-name="Rev'n Action | Pittsburgh PA" group-title="ENG | Sports",Rev'n Action | Pittsburgh PA
+http://98.111.243.7:5004/auto/v45.1
+#EXTINF:-1 tvg-id="FTFSports.us" tvg-name="FTF Sports | Pittsburgh PA" group-title="ENG | Sports",FTF Sports | Pittsburgh PA
+http://98.111.243.7:5004/auto/v69.4
+#EXTINF:-1 tvg-id="Fun.Roads.us2" tvg-name="Fun Roads | Eugene OR" group-title="ENG | Sports",Fun Roads | Eugene OR
+http://199.245.173.253:5004/auto/v3.4
+#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="Fubo Sports | Eugene OR 41.6" group-title="ENG | Sports",Fubo Sports | Eugene OR 41.6
+http://199.245.173.253:5004/auto/v41.6
+
+#GROUP:ENG | Kids & Family
+#EXTINF:-1 tvg-id="PBSKLTL.us" tvg-name="LA | Lake Charles | PBS KLTL" group-title="ENG | Kids & Family",LA | Lake Charles | PBS KLTL
+http://12.186.20.98:5004/auto/v18.1
+#EXTINF:-1 tvg-id="PBSKUHTDT3.us" tvg-name="LA | Lake Charles | PBS Kids" group-title="ENG | Kids & Family",LA | Lake Charles | PBS Kids
+http://12.186.20.98:5004/auto/v18.2
+#EXTINF:-1 tvg-id="CREATEKUHTDT2.us" tvg-name="LA | Lake Charles | PBS Create" group-title="ENG | Kids & Family",LA | Lake Charles | PBS Create
+http://12.186.20.98:5004/auto/v18.3
+#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV Toons - Johnstown PA" group-title="ENG | Kids & Family",MeTV Toons - Johnstown PA
+http://199.193.59.138:5004/auto/v50.6
+#EXTINF:-1 tvg-id="PBSWTTW.us" tvg-name="IL | Chicago | PBS WTTW" group-title="ENG | Kids & Family",IL | Chicago | PBS WTTW
+http://173.229.4.240:5004/auto/v11.1
+#EXTINF:-1 tvg-id="PrimeWTTWDT2.us" tvg-name="IL | Chicago | PBS Prime" group-title="ENG | Kids & Family",IL | Chicago | PBS Prime
+http://173.229.4.240:5004/auto/v11.2
+#EXTINF:-1 tvg-id="CREATEKUHTDT2.us" tvg-name="IL | Chicago | PBS Create" group-title="ENG | Kids & Family",IL | Chicago | PBS Create
+http://173.229.4.240:5004/auto/v11.3
+#EXTINF:-1 tvg-id="PBSKUHTDT3.us" tvg-name="IL | Chicago | PBS Kids" group-title="ENG | Kids & Family",IL | Chicago | PBS Kids
+http://173.229.4.240:5004/auto/v11.4
+#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV TOONS | Chicago IL" group-title="ENG | Kids & Family",MeTV TOONS | Chicago IL
+http://173.229.4.240:5004/auto/v26.7
+#EXTINF:-1 tvg-id="PBSWPBT.us" tvg-name="FL | Miami | PBS WPBT" group-title="ENG | Kids & Family",FL | Miami | PBS WPBT
+http://173.229.4.243:5004/auto/v2.1
+#EXTINF:-1 tvg-id="CreateWLIWDT2.us" tvg-name="FL | Miami | PBS Create WPBT" group-title="ENG | Kids & Family",FL | Miami | PBS Create WPBT
+http://173.229.4.243:5004/auto/v2.2
+#EXTINF:-1 tvg-id="WURH-CD.us_locals1" tvg-name="FL | Miami | Health Channel WPBT" group-title="ENG | Kids & Family",FL | Miami | Health Channel WPBT
+http://173.229.4.243:5004/auto/v2.3
+#EXTINF:-1 tvg-id="PBSKidsNYC.us" tvg-name="FL | Miami | PBS Kids WPBT" group-title="ENG | Kids & Family",FL | Miami | PBS Kids WPBT
+http://173.229.4.243:5004/auto/v2.4
+#EXTINF:-1 tvg-id="WURH-CD.us_locals1" tvg-name="FL | Miami | PBS Health Channel WURH" group-title="ENG | Kids & Family",FL | Miami | PBS Health Channel WURH
+http://173.229.4.243:5004/auto/v13.1
+#EXTINF:-1 tvg-id="PBSWLRN.us" tvg-name="FL | Miami | PBS WLRN" group-title="ENG | Kids & Family",FL | Miami | PBS WLRN
+http://173.229.4.243:5004/auto/v17.1
+#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV Toons | Miami FL WBFS" group-title="ENG | Kids & Family",MeTV Toons | Miami FL WBFS
+http://173.229.4.243:5004/auto/v33.7
+#EXTINF:-1 tvg-id="PBSWXEL.us" tvg-name="FL | Boynton BCH | PBS WXEL" group-title="ENG | Kids & Family",FL | Boynton BCH | PBS WXEL
+http://173.229.4.243:5004/auto/v42.1
+#EXTINF:-1 tvg-id="WBEC-DT.us_locals1" tvg-name="FL | Boca Raton | WBEC" group-title="ENG | Kids & Family",FL | Boca Raton | WBEC
+http://173.229.4.243:5004/auto/v63.1
+#EXTINF:-1 tvg-id="TheFloridaChannel.us" tvg-name="FL | Boca Raton | Florida Channel" group-title="ENG | Kids & Family",FL | Boca Raton | Florida Channel
+http://173.229.4.243:5004/auto/v63.2
+#EXTINF:-1 tvg-id="PBSWQED.us" tvg-name="PA | Pittsburgh | PBS WQED" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS WQED
+http://164.52.224.212:5004/auto/v13.1
+#EXTINF:-1 tvg-id="CreateWQEDDT2.us" tvg-name="PA | Pittsburgh | PBS CREATE" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS CREATE
+http://164.52.224.212:5004/auto/v13.2
+#EXTINF:-1 tvg-id="WorldWQEDDT3.us" tvg-name="PA | Pittsburgh | PBS WORLD" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS WORLD
+http://164.52.224.212:5004/auto/v13.3
+#EXTINF:-1 tvg-id="ShowcaseWQEDDT4.us" tvg-name="PA | Pittsburgh | PBS Showcase" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS Showcase
+http://164.52.224.212:5004/auto/v13.4
+#EXTINF:-1 tvg-id="PBSWGBXDT4.us" tvg-name="PA | Pittsburgh | PBS KIDS" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS KIDS
+http://164.52.224.212:5004/auto/v13.5
+#EXTINF:-1 tvg-id="WOSC-CD.us_locals1" tvg-name="MeTV Toons | Pittsburgh PA WOSC-CD" group-title="ENG | Kids & Family",MeTV Toons | Pittsburgh PA WOSC-CD
+http://164.52.224.212:5004/auto/v61.1
+#EXTINF:-1 tvg-id="PBSWQED.us" tvg-name="PA | Pittsburgh | PBS WQED" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS WQED
+http://98.111.243.7:5004/auto/v13.1
+#EXTINF:-1 tvg-id="CreateWQEDDT2.us" tvg-name="PA | Pittsburgh | PBS CREATE" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS CREATE
+http://98.111.243.7:5004/auto/v13.2
+#EXTINF:-1 tvg-id="WorldWQEDDT3.us" tvg-name="PA | Pittsburgh | PBS WORLD" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS WORLD
+http://98.111.243.7:5004/auto/v13.3
+#EXTINF:-1 tvg-id="ShowcaseWQEDDT4.us" tvg-name="PA | Pittsburgh | PBS Showcase" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS Showcase
+http://98.111.243.7:5004/auto/v13.4
+#EXTINF:-1 tvg-id="PBSWGBXDT4.us" tvg-name="PA | Pittsburgh | PBS KIDS" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS KIDS
+http://98.111.243.7:5004/auto/v13.5
+#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV Toons | Pittsburgh PA" group-title="ENG | Kids & Family",MeTV Toons | Pittsburgh PA
+http://98.111.243.7:5004/auto/v61.1
+#EXTINF:-1 tvg-id="PBSKOPB.us" tvg-name="OR | Eugene | PBS KEPB" group-title="ENG | Kids & Family",OR | Eugene | PBS KEPB
+http://199.245.173.253:5004/auto/v28.1
+#EXTINF:-1 tvg-id="WORLD.Channel.us2" tvg-name="OR | Eugene | PBS World" group-title="ENG | Kids & Family",OR | Eugene | PBS World
+http://199.245.173.253:5004/auto/v28.2
+#EXTINF:-1 tvg-id="PBSKidsWestSoCal.us" tvg-name="OR | Eugene | PBS Kids" group-title="ENG | Kids & Family",OR | Eugene | PBS Kids
+http://199.245.173.253:5004/auto/v28.3
+#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV Toons | Eugene OR" group-title="ENG | Kids & Family",MeTV Toons | Eugene OR
+http://199.245.173.253:5004/auto/v9.6
+#EXTINF:-1 tvg-id="PBSWHA.us" tvg-name="WI | Park Falls | PBS WLEF" group-title="ENG | Kids & Family",WI | Park Falls | PBS WLEF
+http://173.229.4.248:5004/auto/v36.1
+#EXTINF:-1 tvg-id="PBSWHADT2.us" tvg-name="WI | Park Falls | Wisconsin Channel" group-title="ENG | Kids & Family",WI | Park Falls | Wisconsin Channel
+http://173.229.4.248:5004/auto/v36.2
+#EXTINF:-1 tvg-id="CREATEKUHTDT2.us" tvg-name="WI | Park Falls | PBS Create" group-title="ENG | Kids & Family",WI | Park Falls | PBS Create
+http://173.229.4.248:5004/auto/v36.3
+#EXTINF:-1 tvg-id="PBSKUHTDT3.us" tvg-name="WI | Park Falls | PBS Kids" group-title="ENG | Kids & Family",WI | Park Falls | PBS Kids
+http://173.229.4.248:5004/auto/v36.4
+#EXTINF:-1 tvg-id="PBSWVIA.us" tvg-name="PA | Scranton | PBS WVIA" group-title="ENG | Kids & Family",PA | Scranton | PBS WVIA
+http://68.65.124.50:5004/auto/v44.1
+#EXTINF:-1 tvg-id="PBSKidsNYC.us" tvg-name="PA | Scranton | PBS Kids" group-title="ENG | Kids & Family",PA | Scranton | PBS Kids
+http://68.65.124.50:5004/auto/v44.2
+#EXTINF:-1 tvg-id="CreateWQEDDT2.us" tvg-name="PA | Scranton | PBS Create" group-title="ENG | Kids & Family",PA | Scranton | PBS Create
+http://68.65.124.50:5004/auto/v44.3
+#EXTINF:-1 tvg-id="PBSWUNL.us" tvg-name="NC | Wilmington | PBS" group-title="ENG | Kids & Family",NC | Wilmington | PBS
+http://209.215.122.164:9981/stream/channelid/409098738?profile=pass
+#EXTINF:-1 tvg-id="PBSKidsNYC.us" tvg-name="NC | Wilmington | PBS ROOTLE" group-title="ENG | Kids & Family",NC | Wilmington | PBS ROOTLE
+http://209.215.122.164:9981/stream/channelid/184528510?profile=pass
+#EXTINF:-1 tvg-id="PBSWUNP.us" tvg-name="UNC-EX" group-title="ENG | Kids & Family",UNC-EX
+http://209.215.122.164:9981/stream/channelid/1927986828?profile=pass
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-name="North Carolina Channel" group-title="ENG | Kids & Family",North Carolina Channel
+http://209.215.122.164:9981/stream/channelid/544643522?profile=pass
+
+#GROUP:ENG | Local | FOX
+#EXTINF:-1 tvg-id="FOXKVHP.us" tvg-name="LA | Lake Charles | FOX KVHP (HDHR)" group-title="ENG | Local | FOX",LA | Lake Charles | FOX KVHP (HDHR)
+http://12.186.20.98:5004/auto/v29.1
+#EXTINF:-1 tvg-id="FOXWFLD.us" tvg-name="IL | Chicago | FOX WFLD" group-title="ENG | Local | FOX",IL | Chicago | FOX WFLD
+http://173.229.4.240:5004/auto/v32.1
+#EXTINF:-1 tvg-id="FOXWFLD.us" tvg-name="IL | Chicago | FOX WFLD HEVC" group-title="ENG | Local | FOX",IL | Chicago | FOX WFLD HEVC
+http://173.229.4.240:5004/auto/v132.1
+#EXTINF:-1 tvg-id="FOXWSVN.us" tvg-name="FL | Miami | FOX WSVN" group-title="ENG | Local | FOX",FL | Miami | FOX WSVN
+http://173.229.4.243:5004/auto/v7.1
+#EXTINF:-1 tvg-id="FOXWFLX.us" tvg-name="FL | WPB | FOX WFLX" group-title="ENG | Local | FOX",FL | WPB | FOX WFLX
+http://173.229.4.243:5004/auto/v29.1
+#EXTINF:-1 tvg-id="FOXWPGH.us" tvg-name="PA | Pittsburgh | FOX WPGH" group-title="ENG | Local | FOX",PA | Pittsburgh | FOX WPGH
+http://164.52.224.212:5004/auto/v53.1
+#EXTINF:-1 tvg-id="FOXWPGH.us" tvg-name="PA | Pittsburgh | FOX WPGH" group-title="ENG | Local | FOX",PA | Pittsburgh | FOX WPGH
+http://98.111.243.7:5004/auto/v53.1
+#EXTINF:-1 tvg-id="FOXKLSR.us" tvg-name="OR | Eugene | FOX KLSR" group-title="ENG | Local | FOX",OR | Eugene | FOX KLSR
+http://199.245.173.253:5004/auto/v34.1
+#EXTINF:-1 tvg-id="FOXWSAWDT3.us" tvg-name="WI | Wausau | FOX WZAW" group-title="ENG | Local | FOX",WI | Wausau | FOX WZAW
+http://173.229.4.248:5004/auto/v7.3
+#EXTINF:-1 tvg-id="FOXWZAW.us" tvg-name="WI | Wausau | FOX WZAW" group-title="ENG | Local | FOX",WI | Wausau | FOX WZAW
+http://173.229.4.248:5004/auto/v33.10
+#EXTINF:-1 tvg-id="FOXWOLF.us" tvg-name="PA | Hazleton | FOX WOLF" group-title="ENG | Local | FOX",PA | Hazleton | FOX WOLF
+http://68.65.124.50:5004/auto/v56.1
+#EXTINF:-1 tvg-id="FOXWSFX.us" tvg-name="NC | Wilmington | FOX WSFX-DT" group-title="ENG | Local | FOX",NC | Wilmington | FOX WSFX-DT
+http://209.215.122.164:9981/stream/channelid/791460933?profile=pass
+
+#GROUP:ESP | Local
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision | Lake Charles LA" group-title="ESP | Local",Univision | Lake Charles LA
+http://12.186.20.98:5004/auto/v29.4
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo | Lake Charles LA" group-title="ESP | Local",Telemundo | Lake Charles LA
+http://12.186.20.98:5004/auto/v30.2
+#EXTINF:-1 tvg-id="WESV-LD.us_locals1" tvg-name="IL | Chicago | Estrella TV" group-title="ESP | Local",IL | Chicago | Estrella TV
+http://173.229.4.240:5004/auto/v40.1
+#EXTINF:-1 tvg-id="UniMasWXFT.us" tvg-name="IL | Aurora | Unimas WXFT" group-title="ESP | Local",IL | Aurora | Unimas WXFT
+http://173.229.4.240:5004/auto/v60.1
+#EXTINF:-1 tvg-id="UnivisionWGBO.us" tvg-name="IL | Juliet | Univision WGBO" group-title="ESP | Local",IL | Juliet | Univision WGBO
+http://173.229.4.240:5004/auto/v66.1
+#EXTINF:-1 tvg-id="UnivisionWGBO.us" tvg-name="IL | Juliet | Univision WGBO HEVC" group-title="ESP | Local",IL | Juliet | Univision WGBO HEVC
+http://173.229.4.240:5004/auto/v166.1
+#EXTINF:-1 tvg-id="MEGATV.pr" tvg-name="Mega TV | Key West FL" group-title="ESP | Local",Mega TV | Key West FL
+http://173.229.4.243:5004/auto/v22.1
+#EXTINF:-1 tvg-id="MEGATV.pr" tvg-name="Mega TV | Key West FL (Alt)" group-title="ESP | Local",Mega TV | Key West FL (Alt)
+http://173.229.4.243:5004/auto/v22.3
+#EXTINF:-1 tvg-id="UnivisionWLTV.us" tvg-name="FL | Miami | Univision WLTV" group-title="ESP | Local",FL | Miami | Univision WLTV
+http://173.229.4.243:5004/auto/v23.1
+#EXTINF:-1 tvg-id="TelemundoWSCV.us" tvg-name="FL | Ft Lauderdale | Telemundo WSCV" group-title="ESP | Local",FL | Ft Lauderdale | Telemundo WSCV
+http://173.229.4.243:5004/auto/v51.1
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="FL | Ft Lauderdale | TeleXitos WSCV" group-title="ESP | Local",FL | Ft Lauderdale | TeleXitos WSCV
+http://173.229.4.243:5004/auto/v51.2
+#EXTINF:-1 tvg-id="TelemundoWSCV.us" tvg-name="FL | WPB | Telemundo WSCV" group-title="ESP | Local",FL | WPB | Telemundo WSCV
+http://173.229.4.243:5004/auto/v51.4
+#EXTINF:-1 tvg-id="UniMasWAMI.us" tvg-name="FL | Hollywood | UniMás WAMI" group-title="ESP | Local",FL | Hollywood | UniMás WAMI
+http://173.229.4.243:5004/auto/v69.1
+#EXTINF:-1 tvg-id="UnivisionWLTV.us" tvg-name="FL | Miami | Univision WLTV HEVC" group-title="ESP | Local",FL | Miami | Univision WLTV HEVC
+http://173.229.4.243:5004/auto/v123.1
+#EXTINF:-1 tvg-id="TelemundoWSCV.us" tvg-name="FL | Ft Lauderdale | Telemundo WSCV HEVC" group-title="ESP | Local",FL | Ft Lauderdale | Telemundo WSCV HEVC
+http://173.229.4.243:5004/auto/v151.1
+#EXTINF:-1 tvg-id="TelemundoKQRE.us" tvg-name="OR | Harrisburg | Telemundo KCES" group-title="ESP | Local",OR | Harrisburg | Telemundo KCES
+http://199.245.173.253:5004/auto/v18.6
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="OR | Harrisburg | Estrella KCES" group-title="ESP | Local",OR | Harrisburg | Estrella KCES
+http://199.245.173.253:5004/auto/v18.9
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="NC | Wilmington | Telemundo" group-title="ESP | Local",NC | Wilmington | Telemundo
+http://209.215.122.164:9981/stream/channelid/1125999090?profile=pass
+#EXTINF:-1 tvg-name="TeleXitos | Wilmington NC" group-title="ESP | Local",TeleXitos | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/167334659?profile=pass
+
+#GROUP:ENG | Movies
+#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies - Johnstown PA" group-title="ENG | Movies",Movies - Johnstown PA
+http://199.193.59.138:5004/auto/v50.4
+#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies! | Chicago IL" group-title="ENG | Movies",Movies! | Chicago IL
+http://173.229.4.240:5004/auto/v32.2
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Juliet IL" group-title="ENG | Movies",MovieSphere Gold | Juliet IL
+http://173.229.4.240:5004/auto/v66.2
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Miami FL WLTV" group-title="ENG | Movies",MovieSphere Gold | Miami FL WLTV
+http://173.229.4.243:5004/auto/v23.4
+#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies! | Miami FL WBFS" group-title="ENG | Movies",Movies! | Miami FL WBFS
+http://173.229.4.243:5004/auto/v33.2
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Pittsburgh PA" group-title="ENG | Movies",MovieSphere Gold | Pittsburgh PA
+http://164.52.224.212:5004/auto/v61.2
+#EXTINF:-1 tvg-id="WPTG-CD.us_locals1" tvg-name="MovieSphere Gold | Pittsburgh PA WPTG-CD" group-title="ENG | Movies",MovieSphere Gold | Pittsburgh PA WPTG-CD
+http://164.52.224.212:5004/auto/v69.1
+#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies! | Jeannette PA" group-title="ENG | Movies",Movies! | Jeannette PA
+http://98.111.243.7:5004/auto/v19.4
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Pittsburgh PA" group-title="ENG | Movies",MovieSphere Gold | Pittsburgh PA
+http://98.111.243.7:5004/auto/v61.2
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Pittsburgh PA WPTG" group-title="ENG | Movies",MovieSphere Gold | Pittsburgh PA WPTG
+http://98.111.243.7:5004/auto/v69.1
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="CINE-4K" group-title="ENG | Movies",CINE-4K
+http://199.245.173.253:5004/auto/v3.12
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Eugene OR" group-title="ENG | Movies",MovieSphere Gold | Eugene OR
+http://199.245.173.253:5004/auto/v15.8
+#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies | Harrisburg OR" group-title="ENG | Movies",Movies | Harrisburg OR
+http://199.245.173.253:5004/auto/v18.4
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Eugene OR (Alt)" group-title="ENG | Movies",MovieSphere Gold | Eugene OR (Alt)
+http://199.245.173.253:5004/auto/v41.3
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Rhinelander WI" group-title="ENG | Movies",MovieSphere Gold | Rhinelander WI
+http://173.229.4.248:5004/auto/v12.6
+#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies | Scranton PA" group-title="ENG | Movies",Movies | Scranton PA
+http://68.65.124.50:5004/auto/v30.8
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Scranton PA" group-title="ENG | Movies",MovieSphere Gold | Scranton PA
+http://68.65.124.50:5004/auto/v30.10
+#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Wilmington NC " group-title="ENG | Movies",MovieSphere Gold | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/898791405?profile=pass
+
+#GROUP:Religion (All Lang)
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="PA | Bethlehem | LighthouseTV" group-title="Religion (All Lang)",PA | Bethlehem | LighthouseTV
+http://199.193.59.138:5004/auto/v50.7
+#EXTINF:-1 tvg-name="IL | Chicago | Daystar (English)" group-title="Religion (All Lang)",IL | Chicago | Daystar (English)
+http://173.229.4.240:5004/auto/v8.1
+#EXTINF:-1 tvg-name="IL | Chicago | Daystar (Español)" group-title="Religion (All Lang)",IL | Chicago | Daystar (Español)
+http://173.229.4.240:5004/auto/v8.2
+#EXTINF:-1 tvg-name="IL | Chicago | Daystar Reflections" group-title="Religion (All Lang)",IL | Chicago | Daystar Reflections
+http://173.229.4.240:5004/auto/v8.3
+#EXTINF:-1 tvg-id="SBNtv.us" tvg-name="Sonlife | Miami FL WDFL" group-title="Religion (All Lang)",Sonlife | Miami FL WDFL
+http://173.229.4.243:5004/auto/v18.5
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Veterans Stone of Hope" group-title="Religion (All Lang)",Veterans Stone of Hope
+http://173.229.4.243:5004/auto/v18.9
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Visión Latina | Key West FL" group-title="Religion (All Lang)",Visión Latina | Key West FL
+http://173.229.4.243:5004/auto/v22.2
+#EXTINF:-1 tvg-id="TBN.us" tvg-name="TBN | Miami FL WHFT" group-title="Religion (All Lang)",TBN | Miami FL WHFT
+http://173.229.4.243:5004/auto/v45.1
+#EXTINF:-1 tvg-id="TBN.Inspire.us2" tvg-name="TBN Inspire | Miami FL WHFT" group-title="Religion (All Lang)",TBN Inspire | Miami FL WHFT
+http://173.229.4.243:5004/auto/v45.3
+#EXTINF:-1 tvg-id="Positiv.us" tvg-name="TBN POSITIV | Miami FL WHFT" group-title="Religion (All Lang)",TBN POSITIV | Miami FL WHFT
+http://173.229.4.243:5004/auto/v45.5
+#EXTINF:-1 tvg-id="SBNtv.us" tvg-name="Sonlife | Pittsburgh PA" group-title="Religion (All Lang)",Sonlife | Pittsburgh PA
+http://164.52.224.212:5004/auto/v61.4
+#EXTINF:-1 tvg-id="DAYSTAR.us" tvg-name="Daystar (ENG) | Pittsburgh PA" group-title="Religion (All Lang)",Daystar (ENG) | Pittsburgh PA
+http://164.52.224.212:5004/auto/v65.1
+#EXTINF:-1 tvg-id="Daystar.Español.us2" tvg-name="Daystar (ESP) | Pittsburgh PA" group-title="Religion (All Lang)",Daystar (ESP) | Pittsburgh PA
+http://164.52.224.212:5004/auto/v65.2
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Daystar 65.3 | Pittsburgh PA" group-title="Religion (All Lang)",Daystar 65.3 | Pittsburgh PA
+http://164.52.224.212:5004/auto/v65.3
+#EXTINF:-1 tvg-id="Mariavision.cl" tvg-name="Mariavisión | Pittsburgh PA" group-title="Religion (All Lang)",Mariavisión | Pittsburgh PA
+http://164.52.224.212:5004/auto/v69.9
+#EXTINF:-1 tvg-id="CornerstoneTV.us" tvg-name="Cornerstone TV | Greensburg PA" group-title="Religion (All Lang)",Cornerstone TV | Greensburg PA
+http://98.111.243.7:5004/auto/v40.1
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Pittsburgh Faith & Family" group-title="Religion (All Lang)",Pittsburgh Faith & Family
+http://98.111.243.7:5004/auto/v40.8
+#EXTINF:-1 tvg-id="SBNtv.us" tvg-name="Sonlife | Pittsburgh PA" group-title="Religion (All Lang)",Sonlife | Pittsburgh PA
+http://98.111.243.7:5004/auto/v61.4
+#EXTINF:-1 tvg-id="DAYSTAR.us" tvg-name="Daystar (ENG) WPDN | Pittsburgh PA" group-title="Religion (All Lang)",Daystar (ENG) WPDN | Pittsburgh PA
+http://98.111.243.7:5004/auto/v65.1
+#EXTINF:-1 tvg-id="Daystar.Español.us2" tvg-name="Daystar (ESP) WPDN | Pittsburgh PA" group-title="Religion (All Lang)",Daystar (ESP) WPDN | Pittsburgh PA
+http://98.111.243.7:5004/auto/v65.2
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Daystar 65.3 WPDN-SD" group-title="Religion (All Lang)",Daystar 65.3
+http://98.111.243.7:5004/auto/v65.3
+#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Mariavisión | Pittsburgh PA" group-title="Religion (All Lang)",Mariavisión | Pittsburgh PA
+http://98.111.243.7:5004/auto/v69.9
+#EXTINF:-1 tvg-id="Religious.Dummy.us " tvg-name="His Word | Harrisburg OR" group-title="Religion (All Lang)",His Word | Harrisburg OR
+http://199.245.173.253:5004/auto/v18.10
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN | Scranton PA W09DJ" group-title="Religion (All Lang)",EWTN | Scranton PA W09DJ
+http://68.65.124.50:5004/auto/v8.1
+#EXTINF:-1 tvg-id="VictoryChannel.us" tvg-name="Victory WRLD-LD" group-title="Religion (All Lang)",Victory WRLD-LD
+http://68.65.124.50:5004/auto/v30.1
+#EXTINF:-1 tvg-id="DAYSTAR.us" tvg-name="Daystar (ENG) | Scranton PA" group-title="Religion (All Lang)",Daystar (ENG) | Scranton PA
+http://68.65.124.50:5004/auto/v30.3
+#EXTINF:-1 tvg-id="Daystar.Español.us2" tvg-name="Daystar (ESP) | Scranton PA" group-title="Religion (All Lang)",Daystar (ESP) | Scranton PA
+http://68.65.124.50:5004/auto/v30.9
+#EXTINF:-1 tvg-id="SBNtv.us" tvg-name="Sonlife | Scranton PA" group-title="Religion (All Lang)",Sonlife | Scranton PA
+http://68.65.124.50:5004/auto/v30.11
+#EXTINF:-1 tvg-id="WBPI-CD.us_locals1" tvg-name="GA | Augusta | WBPI " group-title="Religion (All Lang)",GA | Augusta | WBPI
+http://209.215.122.164:9981/stream/channelid/626117757?profile=pass
+#EXTINF:-1 tvg-id="Biz.TV.us2" tvg-name="BizTV | Wilmington NC" group-title="Religion (All Lang)",BizTV | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/2128540108?profile=pass
 
 #GROUP:Shopping
-#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" group-title="Shopping",QVC
-http://12.186.20.98:5004/auto/v3.6
 #EXTINF:-1 tvg-id="ONTV4U.distro" tvg-name="OnTV4U | Chicago IL" group-title="Shopping",OnTV4U | Chicago IL
 http://173.229.4.240:5004/auto/v23.12
 #EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN | Chicago IL" group-title="Shopping",HSN | Chicago IL
@@ -3357,352 +3781,22 @@ http://199.245.173.253:5004/auto/v41.7
 http://173.229.4.248:5004/auto/v12.4
 #EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC | Rhinelander WI" group-title="Shopping",QVC | Rhinelander WI
 http://173.229.4.248:5004/auto/v12.5
-
-#GROUP:ENG | Local | NBC
-#EXTINF:-1 tvg-id="NBCKALB.us" tvg-name="LA | Alexandria | NBC KALB (HDHR)" group-title="ENG | Local | NBC",LA | Alexandria | NBC KALB (HDHR)
-http://12.186.20.98:5004/auto/v5.1
-#EXTINF:-1 tvg-id="NBCKPLC.us" tvg-name="LA | Lake Charles | NBC KPLC" group-title="ENG | Local | NBC",LA | Lake Charles | NBC KPLC
-http://12.186.20.98:5004/auto/v7.1
-#EXTINF:-1 tvg-id="NBCWJAC.us" tvg-name="PA | Johnstown | NBC WJAC (HDHR)" group-title="ENG | Local | NBC",PA | Johnstown | NBC WJAC (HDHR)
-http://199.193.59.138:5004/auto/v6.1
-#EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="IL | Chicago | NBC WMAQ HEVC" group-title="ENG | Local | NBC",IL | Chicago | NBC WMAQ HEVC
-http://173.229.4.240:5004/auto/v105.1
-#EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="IL | Chicago | NBC WMAQ" group-title="ENG | Local | NBC",IL | Chicago | NBC WMAQ
-http://173.229.4.240:5004/auto/v5.1
-#EXTINF:-1 tvg-id="NBCWPTV.us" tvg-name="FL | WPB | NBC WPTV" group-title="ENG | Local | NBC",FL | WPB | NBC WPTV
-http://173.229.4.243:5004/auto/v5.11
-#EXTINF:-1 tvg-id="NBCWTVJ.us" tvg-name="FL | Miami | NBC WTVJ" group-title="ENG | Local | NBC",FL | Miami | NBC WTVJ
-http://173.229.4.243:5004/auto/v6.1
-#EXTINF:-1 tvg-id="NBCWTVJ.us" tvg-name="FL | Miami | NBC WTVJ HVEC" group-title="ENG | Local | NBC",FL | Miami | NBC WTVJ HVEC
-http://173.229.4.243:5004/auto/v106.1
-#EXTINF:-1 tvg-id="NBCWPXI.us" tvg-name="PA | Pittsburgh | NBC WPXI" group-title="ENG | Local | NBC",PA | Pittsburgh | NBC WPXI
-http://164.52.224.212:5004/auto/v11.1
-#EXTINF:-1 tvg-id="NBCWPXI.us" tvg-name="PA | Pittsburgh | NBC WPXI" group-title="ENG | Local | NBC",PA | Pittsburgh | NBC WPXI
-http://98.111.243.7:5004/auto/v11.1
-#EXTINF:-1 tvg-id="NBCKMTR.us" tvg-name="OR | Eugene | NBC KMTR" group-title="ENG | Local | NBC",OR | Eugene | NBC KMTR
-http://199.245.173.253:5004/auto/v16.1
-#EXTINF:-1 tvg-id="NBCWJFW.us" tvg-name="WI | Rhinelander | NBC WJFW" group-title="ENG | Local | NBC",WI | Rhinelander | NBC WJFW
-http://173.229.4.248:5004/auto/v12.1
-#EXTINF:-1 tvg-id="NBCWBRE.us" tvg-name="PA | Scranton | NBC WBRE" group-title="ENG | Local | NBC",PA | Scranton | NBC WBRE
-http://68.65.124.50:5004/auto/v28.1
-
-#GROUP:ENG | Local | CBS
-#EXTINF:-1 tvg-id="CBSKALBDT2.us" tvg-name="LA | Alexandria | CBS KALB (HDHR)" group-title="ENG | Local | CBS",LA | Alexandria | CBS KALB (HDHR)
-http://12.186.20.98:5004/auto/v5.2
-#EXTINF:-1 tvg-id="CBSKSWL.us" tvg-name="LA | Lake Charles | CBS K30QV" group-title="ENG | Local | CBS",LA | Lake Charles | CBS K30QV
-http://12.186.20.98:5004/auto/v30.1
-#EXTINF:-1 tvg-id="CBSWBBM.us" tvg-name="IL | Chicago | CBS WBBM" group-title="ENG | Local | CBS",IL | Chicago | CBS WBBM
-http://173.229.4.240:5004/auto/v2.1
-#EXTINF:-1 tvg-id="CBSWBBM.us" tvg-name="IL | Chicago | CBS WBBM HEVC" group-title="ENG | Local | CBS",IL | Chicago | CBS WBBM HEVC
-http://173.229.4.240:5004/auto/v102.1
-#EXTINF:-1 tvg-id="CBSWFOR.us" tvg-name="FL | Miami | CBS WFOR" group-title="ENG | Local | CBS",FL | Miami | CBS WFOR
-http://173.229.4.243:5004/auto/v4.1
-#EXTINF:-1 tvg-id="CBSWFOR.us" tvg-name="FL | Miami | CBS WFOR HVEC" group-title="ENG | Local | CBS",FL | Miami | CBS WFOR HVEC
-http://173.229.4.243:5004/auto/v104.1
-#EXTINF:-1 tvg-id="CBSKDKA.us" tvg-name="PA | Pittsburgh | CBS KDKA" group-title="ENG | Local | CBS",PA | Pittsburgh | CBS KDKA
-http://98.111.243.7:5004/auto/v2.1
-#EXTINF:-1 tvg-id="CBSKVAL.us" tvg-name="OR | Eugene | CBS KVAL" group-title="ENG | Local | CBS",OR | Eugene | CBS KVAL
-http://199.245.173.253:5004/auto/v13.1
-#EXTINF:-1 tvg-id="CBSWSAW.us" tvg-name="WI | Wausau | CBS WSAW" group-title="ENG | Local | CBS",WI | Wausau | CBS WSAW
-http://173.229.4.248:5004/auto/v7.1
-#EXTINF:-1 tvg-id="CBSWSAW.us" tvg-name="WI | Wausau | CBS WSAW (Alt)" group-title="ENG | Local | CBS",WI | Wausau | CBS WSAW (Alt)
-http://173.229.4.248:5004/auto/v7.10
-#EXTINF:-1 tvg-id="CBSWYOU.us" tvg-name="PA | Scranton | CBS WYOU" group-title="ENG | Local | CBS",PA | Scranton | CBS WYOU
-http://68.65.124.50:5004/auto/v22.1
-
-#GROUP:ENG | Local | CW/MY
-#EXTINF:-1 tvg-name="LA | Alexandria | CW KALB (HDHR)" group-title="ENG | Local | CW/MY",LA | Alexandria | CW KALB (HDHR)
-http://12.186.20.98:5004/auto/v5.3
-#EXTINF:-1 tvg-id="CWKPLCDT2.us" tvg-name="LA | Lake Charles | CW KPLC" group-title="ENG | Local | CW/MY",LA | Lake Charles | CW KPLC
-http://12.186.20.98:5004/auto/v7.2
-#EXTINF:-1 tvg-id="CW.Plus.East.us2" tvg-name="PA | Johnstown | CW+" group-title="ENG | Local | CW/MY",PA | Johnstown | CW+
-http://199.193.59.138:5004/auto/v6.4
-#EXTINF:-1 tvg-id="WGNWGN9.us" tvg-name="IL | Chicago | CW WGN" group-title="ENG | Local | CW/MY",IL | Chicago | CW WGN
-http://173.229.4.240:5004/auto/v9.1
-#EXTINF:-1 tvg-id="MYWPWR.us" tvg-name="IN | Gary | MY WPWR" group-title="ENG | Local | CW/MY",IN | Gary | MY WPWR
-http://173.229.4.240:5004/auto/v50.1
-#EXTINF:-1 tvg-id="WGNWGN9.us" tvg-name="IL | Chicago | CW WGN HEVC" group-title="ENG | Local | CW/MY",IL | Chicago | CW WGN HEVC
-http://173.229.4.240:5004/auto/v109.1
-#EXTINF:-1 tvg-id="MYWBFS.us" tvg-name="FL | Miami | CW WBFS" group-title="ENG | Local | CW/MY",FL | Miami | CW WBFS
-http://173.229.4.243:5004/auto/v33.1
-#EXTINF:-1 tvg-id="MYWPNT.us" tvg-name="PA | Pittsburgh | CW/MY WPNT" group-title="ENG | Local | CW/MY",PA | Pittsburgh | CW/MY WPNT
-http://164.52.224.212:5004/auto/v22.1
-#EXTINF:-1 tvg-id="KDKA+WPKD.us" tvg-name="PA | Jeannette | KDKA WPKD" group-title="ENG | Local | CW/MY",PA | Jeannette | KDKA WPKD
-http://98.111.243.7:5004/auto/v19.1
-#EXTINF:-1 tvg-id="MYWPNT.us" tvg-name="PA | Pittsburgh | CW/MY WPNT" group-title="ENG | Local | CW/MY",PA | Pittsburgh | CW/MY WPNT
-http://98.111.243.7:5004/auto/v22.1
-#EXTINF:-1 tvg-id="CW+KMTRDT2.us" tvg-name="OR | Eugene | CW+ KMTR" group-title="ENG | Local | CW/MY",OR | Eugene | CW+ KMTR
-http://199.245.173.253:5004/auto/v16.2
-#EXTINF:-1 tvg-id="KEVU-CD.us_locals1" tvg-name="OR | Eugene | MY KEVU" group-title="ENG | Local | CW/MY",OR | Eugene | MY KEVU
-http://199.245.173.253:5004/auto/v23.1
-#EXTINF:-1 tvg-id="KEVU-CD.us_locals1" tvg-name="OR | Eugene | MY KEVU (Alt)" group-title="ENG | Local | CW/MY",OR | Eugene | MY KEVU (Alt)
-http://199.245.173.253:5004/auto/v34.2
-#EXTINF:-1 tvg-id="WYOW-DT.us_locals1" tvg-name="WI | Wausau | CW WYOW" group-title="ENG | Local | CW/MY",WI | Wausau | CW WYOW
-http://173.229.4.248:5004/auto/v7.4
-#EXTINF:-1 tvg-id="WYOW-DT.us_locals1" tvg-name="WI | Wausau | CW WYOW" group-title="ENG | Local | CW/MY",WI | Wausau | CW WYOW
-http://173.229.4.248:5004/auto/v34.1
-#EXTINF:-1 tvg-id="WSWB-DT.us_locals1" tvg-name="PA | Hazleton | CW WSWB" group-title="ENG | Local | CW/MY",PA | Hazleton | CW WSWB
-http://68.65.124.50:5004/auto/v56.2
-#EXTINF:-1 tvg-id="MYWQMY.us" tvg-name="PA | Williamsport | My WQMY" group-title="ENG | Local | CW/MY",PA | Williamsport | My WQMY
-http://68.65.124.50:5004/auto/v56.3
-
-#GROUP:ENG | Sports
-#EXTINF:-1 tvg-id="Gulf.Coast.Sports.and.Entertainment.Network.us2" tvg-name="Gray Sports Network - LA" group-title="ENG | Sports",Gray Sports Network - LA
-http://12.186.20.98:5004/auto/v5.4
-#EXTINF:-1 tvg-id="SportsTVPlus.distro" tvg-name="Sports TV | Miami FL WDFL" group-title="ENG | Sports",Sports TV | Miami FL WDFL
-http://173.229.4.243:5004/auto/v18.6
-#EXTINF:-1 tvg-id="FTFSports.us" tvg-name="FTF Sports | Pittsburgh PA" group-title="ENG | Sports",FTF Sports | Pittsburgh PA
-http://164.52.224.212:5004/auto/v69.4
-#EXTINF:-1 tvg-id="RevN.us2" tvg-name="Rev'n Action | Pittsburgh PA" group-title="ENG | Sports",Rev'n Action | Pittsburgh PA
-http://98.111.243.7:5004/auto/v45.1
-#EXTINF:-1 tvg-id="FTFSports.us" tvg-name="FTF Sports | Pittsburgh PA" group-title="ENG | Sports",FTF Sports | Pittsburgh PA
-http://98.111.243.7:5004/auto/v69.4
-#EXTINF:-1 tvg-id="Fun.Roads.us2" tvg-name="Fun Roads | Eugene OR" group-title="ENG | Sports",Fun Roads | Eugene OR
-http://199.245.173.253:5004/auto/v3.4
-#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="Fubo Sports | Eugene OR 41.6" group-title="ENG | Sports",Fubo Sports | Eugene OR 41.6
-http://199.245.173.253:5004/auto/v41.6
-
-#GROUP:ENG | Kids & Family
-#EXTINF:-1 tvg-id="PBSKLTL.us" tvg-name="LA | Lake Charles | PBS KLTL" group-title="ENG | Kids & Family",LA | Lake Charles | PBS KLTL
-http://12.186.20.98:5004/auto/v18.1
-#EXTINF:-1 tvg-name="LA | Lake Charles | PBS Kids" group-title="ENG | Kids & Family",LA | Lake Charles | PBS Kids EPG
-http://12.186.20.98:5004/auto/v18.2
-#EXTINF:-1 tvg-id="CREATEKUHTDT2.us" tvg-name="LA | Lake Charles | PBS Create" group-title="ENG | Kids & Family",LA | Lake Charles | PBS Create
-http://12.186.20.98:5004/auto/v18.3
-#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV Toons - Johnstown PA" group-title="ENG | Kids & Family",MeTV Toons - Johnstown PA
-http://199.193.59.138:5004/auto/v50.6
-#EXTINF:-1 tvg-id="PBSWTTW.us" tvg-name="IL | Chicago | PBS WTTW" group-title="ENG | Kids & Family",IL | Chicago | PBS WTTW
-http://173.229.4.240:5004/auto/v11.1
-#EXTINF:-1 tvg-id="PrimeWTTWDT2.us" tvg-name="IL | Chicago | PBS Prime" group-title="ENG | Kids & Family",IL | Chicago | PBS Prime
-http://173.229.4.240:5004/auto/v11.2
-#EXTINF:-1 tvg-id="CREATEKUHTDT2.us" tvg-name="IL | Chicago | PBS Create" group-title="ENG | Kids & Family",IL | Chicago | PBS Create
-http://173.229.4.240:5004/auto/v11.3
-#EXTINF:-1 tvg-id="PBSKUHTDT3.us" tvg-name="IL | Chicago | PBS Kids" group-title="ENG | Kids & Family",IL | Chicago | PBS Kids
-http://173.229.4.240:5004/auto/v11.4
-#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV TOONS | Chicago IL" group-title="ENG | Kids & Family",MeTV TOONS | Chicago IL
-http://173.229.4.240:5004/auto/v26.7
-#EXTINF:-1 tvg-id="PBSWPBT.us" tvg-name="FL | Miami | PBS WPBT" group-title="ENG | Kids & Family",FL | Miami | PBS WPBT
-http://173.229.4.243:5004/auto/v2.1
-#EXTINF:-1 tvg-id="CreateWLIWDT2.us" tvg-name="FL | Miami | PBS Create WPBT" group-title="ENG | Kids & Family",FL | Miami | PBS Create WPBT
-http://173.229.4.243:5004/auto/v2.2
-#EXTINF:-1 tvg-id="WURH-CD.us_locals1" tvg-name="FL | Miami | Health Channel WPBT" group-title="ENG | Kids & Family",FL | Miami | Health Channel WPBT
-http://173.229.4.243:5004/auto/v2.3
-#EXTINF:-1 tvg-id="PBSKidsNYC.us" tvg-name="FL | Miami | PBS Kids WPBT" group-title="ENG | Kids & Family",FL | Miami | PBS Kids WPBT
-http://173.229.4.243:5004/auto/v2.4
-#EXTINF:-1 tvg-id="WURH-CD.us_locals1" tvg-name="FL | Miami | PBS Health Channel WURH" group-title="ENG | Kids & Family",FL | Miami | PBS Health Channel WURH
-http://173.229.4.243:5004/auto/v13.1
-#EXTINF:-1 tvg-id="PBSWLRN.us" tvg-name="FL | Miami | PBS WLRN" group-title="ENG | Kids & Family",FL | Miami | PBS WLRN
-http://173.229.4.243:5004/auto/v17.1
-#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV Toons | Miami FL WBFS" group-title="ENG | Kids & Family",MeTV Toons | Miami FL WBFS
-http://173.229.4.243:5004/auto/v33.7
-#EXTINF:-1 tvg-id="PBSWXEL.us" tvg-name="FL | Boynton BCH | PBS WXEL" group-title="ENG | Kids & Family",FL | Boynton BCH | PBS WXEL
-http://173.229.4.243:5004/auto/v42.1
-#EXTINF:-1 tvg-id="WBEC-DT.us_locals1" tvg-name="FL | Boca Raton | WBEC" group-title="ENG | Kids & Family",FL | Boca Raton | WBEC
-http://173.229.4.243:5004/auto/v63.1
-#EXTINF:-1 tvg-id="TheFloridaChannel.us" tvg-name="FL | Boca Raton | Florida Channel" group-title="ENG | Kids & Family",FL | Boca Raton | Florida Channel
-http://173.229.4.243:5004/auto/v63.2
-#EXTINF:-1 tvg-id="PBSWQED.us" tvg-name="PA | Pittsburgh | PBS WQED" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS WQED
-http://164.52.224.212:5004/auto/v13.1
-#EXTINF:-1 tvg-id="CreateWQEDDT2.us" tvg-name="PA | Pittsburgh | PBS CREATE" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS CREATE
-http://164.52.224.212:5004/auto/v13.2
-#EXTINF:-1 tvg-id="WorldWQEDDT3.us" tvg-name="PA | Pittsburgh | PBS WORLD" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS WORLD
-http://164.52.224.212:5004/auto/v13.3
-#EXTINF:-1 tvg-id="ShowcaseWQEDDT4.us" tvg-name="PA | Pittsburgh | PBS Showcase" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS Showcase
-http://164.52.224.212:5004/auto/v13.4
-#EXTINF:-1 tvg-id="PBSWGBXDT4.us" tvg-name="PA | Pittsburgh | PBS KIDS" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS KIDS
-http://164.52.224.212:5004/auto/v13.5
-#EXTINF:-1 tvg-id="WOSC-CD.us_locals1" tvg-name="MeTV Toons | Pittsburgh PA WOSC-CD" group-title="ENG | Kids & Family",MeTV Toons | Pittsburgh PA WOSC-CD
-http://164.52.224.212:5004/auto/v61.1
-#EXTINF:-1 tvg-id="PBSWQED.us" tvg-name="PA | Pittsburgh | PBS WQED" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS WQED
-http://98.111.243.7:5004/auto/v13.1
-#EXTINF:-1 tvg-id="CreateWQEDDT2.us" tvg-name="PA | Pittsburgh | PBS CREATE" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS CREATE
-http://98.111.243.7:5004/auto/v13.2
-#EXTINF:-1 tvg-id="WorldWQEDDT3.us" tvg-name="PA | Pittsburgh | PBS WORLD" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS WORLD
-http://98.111.243.7:5004/auto/v13.3
-#EXTINF:-1 tvg-id="ShowcaseWQEDDT4.us" tvg-name="PA | Pittsburgh | PBS Showcase" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS Showcase
-http://98.111.243.7:5004/auto/v13.4
-#EXTINF:-1 tvg-id="PBSWGBXDT4.us" tvg-name="PA | Pittsburgh | PBS KIDS" group-title="ENG | Kids & Family",PA | Pittsburgh | PBS KIDS
-http://98.111.243.7:5004/auto/v13.5
-#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV Toons | Pittsburgh PA" group-title="ENG | Kids & Family",MeTV Toons | Pittsburgh PA
-http://98.111.243.7:5004/auto/v61.1
-#EXTINF:-1 tvg-id="PBSKOPB.us" tvg-name="OR | Eugene | PBS KEPB" group-title="ENG | Kids & Family",OR | Eugene | PBS KEPB
-http://199.245.173.253:5004/auto/v28.1
-#EXTINF:-1 tvg-id="WORLD.Channel.us2" tvg-name="OR | Eugene | PBS World" group-title="ENG | Kids & Family",OR | Eugene | PBS World
-http://199.245.173.253:5004/auto/v28.2
-#EXTINF:-1 tvg-id="PBSKidsWestSoCal.us" tvg-name="OR | Eugene | PBS Kids" group-title="ENG | Kids & Family",OR | Eugene | PBS Kids
-http://199.245.173.253:5004/auto/v28.3
-#EXTINF:-1 tvg-id="MeTvToons.us" tvg-name="MeTV Toons | Eugene OR" group-title="ENG | Kids & Family",MeTV Toons | Eugene OR
-http://199.245.173.253:5004/auto/v9.6
-#EXTINF:-1 tvg-id="PBSWHA.us" tvg-name="WI | Park Falls | PBS WLEF" group-title="ENG | Kids & Family",WI | Park Falls | PBS WLEF
-http://173.229.4.248:5004/auto/v36.1
-#EXTINF:-1 tvg-id="PBSWHADT2.us" tvg-name="WI | Park Falls | Wisconsin Channel" group-title="ENG | Kids & Family",WI | Park Falls | Wisconsin Channel
-http://173.229.4.248:5004/auto/v36.2
-#EXTINF:-1 tvg-id="CREATEKUHTDT2.us" tvg-name="WI | Park Falls | PBS Create" group-title="ENG | Kids & Family",WI | Park Falls | PBS Create
-http://173.229.4.248:5004/auto/v36.3
-#EXTINF:-1 tvg-id="PBSKUHTDT3.us" tvg-name="WI | Park Falls | PBS Kids" group-title="ENG | Kids & Family",WI | Park Falls | PBS Kids
-http://173.229.4.248:5004/auto/v36.4
-#EXTINF:-1 tvg-id="PBSWVIA.us" tvg-name="PA | Scranton | PBS WVIA" group-title="ENG | Kids & Family",PA | Scranton | PBS WVIA
-http://68.65.124.50:5004/auto/v44.1
-#EXTINF:-1 tvg-id="PBSKidsNYC.us" tvg-name="PA | Scranton | PBS Kids" group-title="ENG | Kids & Family",PA | Scranton | PBS Kids
-http://68.65.124.50:5004/auto/v44.2
-#EXTINF:-1 tvg-id="CreateWQEDDT2.us" tvg-name="PA | Scranton | PBS Create" group-title="ENG | Kids & Family",PA | Scranton | PBS Create
-http://68.65.124.50:5004/auto/v44.3
-
-#GROUP:ENG | Local | FOX
-#EXTINF:-1 tvg-id="FOXKVHP.us" tvg-name="LA | Lake Charles | FOX KVHP (HDHR)" group-title="ENG | Local | FOX",LA | Lake Charles | FOX KVHP (HDHR)
-http://12.186.20.98:5004/auto/v29.1
-#EXTINF:-1 tvg-id="FOXWFLD.us" tvg-name="IL | Chicago | FOX WFLD" group-title="ENG | Local | FOX",IL | Chicago | FOX WFLD
-http://173.229.4.240:5004/auto/v32.1
-#EXTINF:-1 tvg-id="FOXWFLD.us" tvg-name="IL | Chicago | FOX WFLD HEVC" group-title="ENG | Local | FOX",IL | Chicago | FOX WFLD HEVC
-http://173.229.4.240:5004/auto/v132.1
-#EXTINF:-1 tvg-id="FOXWSVN.us" tvg-name="FL | Miami | FOX WSVN" group-title="ENG | Local | FOX",FL | Miami | FOX WSVN
-http://173.229.4.243:5004/auto/v7.1
-#EXTINF:-1 tvg-id="FOXWFLX.us" tvg-name="FL | WPB | FOX WFLX" group-title="ENG | Local | FOX",FL | WPB | FOX WFLX
-http://173.229.4.243:5004/auto/v29.1
-#EXTINF:-1 tvg-id="FOXWPGH.us" tvg-name="PA | Pittsburgh | FOX WPGH" group-title="ENG | Local | FOX",PA | Pittsburgh | FOX WPGH
-http://164.52.224.212:5004/auto/v53.1
-#EXTINF:-1 tvg-id="FOXWPGH.us" tvg-name="PA | Pittsburgh | FOX WPGH" group-title="ENG | Local | FOX",PA | Pittsburgh | FOX WPGH
-http://98.111.243.7:5004/auto/v53.1
-#EXTINF:-1 tvg-id="FOXKLSR.us" tvg-name="OR | Eugene | FOX KLSR" group-title="ENG | Local | FOX",OR | Eugene | FOX KLSR
-http://199.245.173.253:5004/auto/v34.1
-#EXTINF:-1 tvg-id="FOXWSAWDT3.us" tvg-name="WI | Wausau | FOX WZAW" group-title="ENG | Local | FOX",WI | Wausau | FOX WZAW
-http://173.229.4.248:5004/auto/v7.3
-#EXTINF:-1 tvg-id="FOXWZAW.us" tvg-name="WI | Wausau | FOX WZAW" group-title="ENG | Local | FOX",WI | Wausau | FOX WZAW
-http://173.229.4.248:5004/auto/v33.10
-#EXTINF:-1 tvg-id="FOXWOLF.us" tvg-name="PA | Hazleton | FOX WOLF" group-title="ENG | Local | FOX",PA | Hazleton | FOX WOLF
-http://68.65.124.50:5004/auto/v56.1
-
-#GROUP:ESP | Local
-#EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision | Lake Charles LA" group-title="ESP | Local",Univision | Lake Charles LA
-http://12.186.20.98:5004/auto/v29.4
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo | Lake Charles LA" group-title="ESP | Local",Telemundo | Lake Charles LA
-http://12.186.20.98:5004/auto/v30.2
-#EXTINF:-1 tvg-id="WESV-LD.us_locals1" tvg-name="IL | Chicago | Estrella TV" group-title="ESP | Local",IL | Chicago | Estrella TV
-http://173.229.4.240:5004/auto/v40.1
-#EXTINF:-1 tvg-id="UniMasWXFT.us" tvg-name="IL | Aurora | Unimas WXFT" group-title="ESP | Local",IL | Aurora | Unimas WXFT
-http://173.229.4.240:5004/auto/v60.1
-#EXTINF:-1 tvg-id="UnivisionWGBO.us" tvg-name="IL | Juliet | Univision WGBO" group-title="ESP | Local",IL | Juliet | Univision WGBO
-http://173.229.4.240:5004/auto/v66.1
-#EXTINF:-1 tvg-id="UnivisionWGBO.us" tvg-name="IL | Juliet | Univision WGBO HEVC" group-title="ESP | Local",IL | Juliet | Univision WGBO HEVC
-http://173.229.4.240:5004/auto/v166.1
-#EXTINF:-1 tvg-id="MEGATV.pr" tvg-name="Mega TV | Key West FL" group-title="ESP | Local",Mega TV | Key West FL
-http://173.229.4.243:5004/auto/v22.1
-#EXTINF:-1 tvg-id="MEGATV.pr" tvg-name="Mega TV | Key West FL (Alt)" group-title="ESP | Local",Mega TV | Key West FL (Alt)
-http://173.229.4.243:5004/auto/v22.3
-#EXTINF:-1 tvg-id="UnivisionWLTV.us" tvg-name="FL | Miami | Univision WLTV" group-title="ESP | Local",FL | Miami | Univision WLTV
-http://173.229.4.243:5004/auto/v23.1
-#EXTINF:-1 tvg-id="TelemundoWSCV.us" tvg-name="FL | Ft Lauderdale | Telemundo WSCV" group-title="ESP | Local",FL | Ft Lauderdale | Telemundo WSCV
-http://173.229.4.243:5004/auto/v51.1
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="FL | Ft Lauderdale | TeleXitos WSCV" group-title="ESP | Local",FL | Ft Lauderdale | TeleXitos WSCV
-http://173.229.4.243:5004/auto/v51.2
-#EXTINF:-1 tvg-id="TelemundoWSCV.us" tvg-name="FL | WPB | Telemundo WSCV" group-title="ESP | Local",FL | WPB | Telemundo WSCV
-http://173.229.4.243:5004/auto/v51.4
-#EXTINF:-1 tvg-id="UniMasWAMI.us" tvg-name="FL | Hollywood | UniMás WAMI" group-title="ESP | Local",FL | Hollywood | UniMás WAMI
-http://173.229.4.243:5004/auto/v69.1
-#EXTINF:-1 tvg-id="UnivisionWLTV.us" tvg-name="FL | Miami | Univision WLTV HEVC" group-title="ESP | Local",FL | Miami | Univision WLTV HEVC
-http://173.229.4.243:5004/auto/v123.1
-#EXTINF:-1 tvg-id="TelemundoWSCV.us" tvg-name="FL | Ft Lauderdale | Telemundo WSCV HEVC" group-title="ESP | Local",FL | Ft Lauderdale | Telemundo WSCV HEVC
-http://173.229.4.243:5004/auto/v151.1
-#EXTINF:-1 tvg-id="TelemundoKQRE.us" tvg-name="OR | Harrisburg | Telemundo KCES" group-title="ESP | Local",OR | Harrisburg | Telemundo KCES
-http://199.245.173.253:5004/auto/v18.6
-#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="OR | Harrisburg | Estrella KCES" group-title="ESP | Local",OR | Harrisburg | Estrella KCES
-http://199.245.173.253:5004/auto/v18.9
-
-#GROUP:Religion (All Lang)
-#EXTINF:-1 tvg-id="SBNtv.us" tvg-name="Sonlife | Lake Charles LA" group-title="Religion (All Lang)",Sonlife | Lake Charles LA
-http://12.186.20.98:5004/auto/v30.4
-#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="PA | Bethlehem | LighthouseTV" group-title="Religion (All Lang)",PA | Bethlehem | LighthouseTV
-http://199.193.59.138:5004/auto/v50.7
-#EXTINF:-1 tvg-name="IL | Chicago | Daystar (English)" group-title="Religion (All Lang)",IL | Chicago | Daystar (English)
-http://173.229.4.240:5004/auto/v8.1
-#EXTINF:-1 tvg-name="IL | Chicago | Daystar (Español)" group-title="Religion (All Lang)",IL | Chicago | Daystar (Español)
-http://173.229.4.240:5004/auto/v8.2
-#EXTINF:-1 tvg-name="IL | Chicago | Daystar Reflections" group-title="Religion (All Lang)",IL | Chicago | Daystar Reflections
-http://173.229.4.240:5004/auto/v8.3
-#EXTINF:-1 tvg-id="SBNtv.us" tvg-name="Sonlife | Miami FL WDFL" group-title="Religion (All Lang)",Sonlife | Miami FL WDFL
-http://173.229.4.243:5004/auto/v18.5
-#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Veterans Stone of Hope" group-title="Religion (All Lang)",Veterans Stone of Hope
-http://173.229.4.243:5004/auto/v18.9
-#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Visión Latina | Key West FL" group-title="Religion (All Lang)",Visión Latina | Key West FL
-http://173.229.4.243:5004/auto/v22.2
-#EXTINF:-1 tvg-id="TBN.us" tvg-name="TBN | Miami FL WHFT" group-title="Religion (All Lang)",TBN | Miami FL WHFT
-http://173.229.4.243:5004/auto/v45.1
-#EXTINF:-1 tvg-id="TBN.Inspire.us2" tvg-name="TBN Inspire | Miami FL WHFT" group-title="Religion (All Lang)",TBN Inspire | Miami FL WHFT
-http://173.229.4.243:5004/auto/v45.3
-#EXTINF:-1 tvg-id="Positiv.us" tvg-name="TBN POSITIV | Miami FL WHFT" group-title="Religion (All Lang)",TBN POSITIV | Miami FL WHFT
-http://173.229.4.243:5004/auto/v45.5
-#EXTINF:-1 tvg-id="SBNtv.us" tvg-name="Sonlife | Pittsburgh PA" group-title="Religion (All Lang)",Sonlife | Pittsburgh PA
-http://164.52.224.212:5004/auto/v61.4
-#EXTINF:-1 tvg-id="DAYSTAR.us" tvg-name="Daystar (ENG) | Pittsburgh PA" group-title="Religion (All Lang)",Daystar (ENG) | Pittsburgh PA
-http://164.52.224.212:5004/auto/v65.1
-#EXTINF:-1 tvg-id="Daystar.Español.us2" tvg-name="Daystar (ESP) | Pittsburgh PA" group-title="Religion (All Lang)",Daystar (ESP) | Pittsburgh PA
-http://164.52.224.212:5004/auto/v65.2
-#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Daystar 65.3 | Pittsburgh PA" group-title="Religion (All Lang)",Daystar 65.3 | Pittsburgh PA
-http://164.52.224.212:5004/auto/v65.3
-#EXTINF:-1 tvg-id="Mariavision.cl" tvg-name="Mariavisión | Pittsburgh PA" group-title="Religion (All Lang)",Mariavisión | Pittsburgh PA
-http://164.52.224.212:5004/auto/v69.9
-#EXTINF:-1 tvg-id="CornerstoneTV.us" tvg-name="Cornerstone TV | Greensburg PA" group-title="Religion (All Lang)",Cornerstone TV | Greensburg PA
-http://98.111.243.7:5004/auto/v40.1
-#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Pittsburgh Faith & Family" group-title="Religion (All Lang)",Pittsburgh Faith & Family
-http://98.111.243.7:5004/auto/v40.8
-#EXTINF:-1 tvg-id="SBNtv.us" tvg-name="Sonlife | Pittsburgh PA" group-title="Religion (All Lang)",Sonlife | Pittsburgh PA
-http://98.111.243.7:5004/auto/v61.4
-#EXTINF:-1 tvg-id="DAYSTAR.us" tvg-name="Daystar (ENG) WPDN | Pittsburgh PA" group-title="Religion (All Lang)",Daystar (ENG) WPDN | Pittsburgh PA
-http://98.111.243.7:5004/auto/v65.1
-#EXTINF:-1 tvg-id="Daystar.Español.us2" tvg-name="Daystar (ESP) WPDN | Pittsburgh PA" group-title="Religion (All Lang)",Daystar (ESP) WPDN | Pittsburgh PA
-http://98.111.243.7:5004/auto/v65.2
-#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Daystar 65.3 WPDN-SD" group-title="Religion (All Lang)",Daystar 65.3
-http://98.111.243.7:5004/auto/v65.3
-#EXTINF:-1 tvg-id="Religious.Dummy.us" tvg-name="Mariavisión | Pittsburgh PA" group-title="Religion (All Lang)",Mariavisión | Pittsburgh PA
-http://98.111.243.7:5004/auto/v69.9
-#EXTINF:-1 tvg-id="Religious.Dummy.us " tvg-name="His Word | Harrisburg OR" group-title="Religion (All Lang)",His Word | Harrisburg OR
-http://199.245.173.253:5004/auto/v18.10
-#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN | Scranton PA W09DJ" group-title="Religion (All Lang)",EWTN | Scranton PA W09DJ
-http://68.65.124.50:5004/auto/v8.1
-#EXTINF:-1 tvg-id="VictoryChannel.us" tvg-name="Victory WRLD-LD" group-title="Religion (All Lang)",Victory WRLD-LD
-http://68.65.124.50:5004/auto/v30.1
-#EXTINF:-1 tvg-id="DAYSTAR.us" tvg-name="Daystar (ENG) | Scranton PA" group-title="Religion (All Lang)",Daystar (ENG) | Scranton PA
-http://68.65.124.50:5004/auto/v30.3
-#EXTINF:-1 tvg-id="Daystar.Español.us2" tvg-name="Daystar (ESP) | Scranton PA" group-title="Religion (All Lang)",Daystar (ESP) | Scranton PA
-http://68.65.124.50:5004/auto/v30.9
-#EXTINF:-1 tvg-id="SBNtv.us" tvg-name="Sonlife | Scranton PA" group-title="Religion (All Lang)",Sonlife | Scranton PA
-http://68.65.124.50:5004/auto/v30.11
-
-#GROUP:ENG | Movies
-#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies - Johnstown PA" group-title="ENG | Movies",Movies - Johnstown PA
-http://199.193.59.138:5004/auto/v50.4
-#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies! | Chicago IL" group-title="ENG | Movies",Movies! | Chicago IL
-http://173.229.4.240:5004/auto/v32.2
-#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Juliet IL" group-title="ENG | Movies",MovieSphere Gold | Juliet IL
-http://173.229.4.240:5004/auto/v66.2
-#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Miami FL WLTV" group-title="ENG | Movies",MovieSphere Gold | Miami FL WLTV
-http://173.229.4.243:5004/auto/v23.4
-#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies! | Miami FL WBFS" group-title="ENG | Movies",Movies! | Miami FL WBFS
-http://173.229.4.243:5004/auto/v33.2
-#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Pittsburgh PA" group-title="ENG | Movies",MovieSphere Gold | Pittsburgh PA
-http://164.52.224.212:5004/auto/v61.2
-#EXTINF:-1 tvg-id="WPTG-CD.us_locals1" tvg-name="MovieSphere Gold | Pittsburgh PA WPTG-CD" group-title="ENG | Movies",MovieSphere Gold | Pittsburgh PA WPTG-CD
-http://164.52.224.212:5004/auto/v69.1
-#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies! | Jeannette PA" group-title="ENG | Movies",Movies! | Jeannette PA
-http://98.111.243.7:5004/auto/v19.4
-#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Pittsburgh PA" group-title="ENG | Movies",MovieSphere Gold | Pittsburgh PA
-http://98.111.243.7:5004/auto/v61.2
-#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Pittsburgh PA WPTG" group-title="ENG | Movies",MovieSphere Gold | Pittsburgh PA WPTG
-http://98.111.243.7:5004/auto/v69.1
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="CINE-4K" group-title="ENG | Movies",CINE-4K
-http://199.245.173.253:5004/auto/v3.12
-#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Eugene OR" group-title="ENG | Movies",MovieSphere Gold | Eugene OR
-http://199.245.173.253:5004/auto/v15.8
-#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies | Harrisburg OR" group-title="ENG | Movies",Movies | Harrisburg OR
-http://199.245.173.253:5004/auto/v18.4
-#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Eugene OR (Alt)" group-title="ENG | Movies",MovieSphere Gold | Eugene OR (Alt)
-http://199.245.173.253:5004/auto/v41.3
-#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Rhinelander WI" group-title="ENG | Movies",MovieSphere Gold | Rhinelander WI
-http://173.229.4.248:5004/auto/v12.6
-#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies | Scranton PA" group-title="ENG | Movies",Movies | Scranton PA
-http://68.65.124.50:5004/auto/v30.8
-#EXTINF:-1 tvg-id="MovieSphereGold.us" tvg-name="MovieSphere Gold | Scranton PA" group-title="ENG | Movies",MovieSphere Gold | Scranton PA
-http://68.65.124.50:5004/auto/v30.10
+#EXTINF:-1 tvg-id="SHOPnow.us2" tvg-name="ShopNow | Wilmington NC" group-title="Shopping",ShopNow | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1808721827?profile=pass
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="Shop1 | Wilmington NC" group-title="Shopping",Shop1 | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1135549556?profile=pass
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN | Wilmington NC" group-title="Shopping",HSN | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/887592924?profile=pass
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC | Wilmington NC" group-title="Shopping",QVC | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1885593569?profile=pass
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="Shop LC | Wilmington NC" group-title="Shopping",Shop LC | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/261292223?profile=pass
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="Informercials WQDH-LD4" group-title="Shopping",Informercials WQDH-LD4
+http://209.215.122.164:9981/stream/channelid/984305561?profile=pass
+#EXTINF:-1 tvg-id="Shopping.Dummy.us" tvg-name="Informercials WQDH-LD5" group-title="Shopping",Informercials WQDH-LD5
+http://209.215.122.164:9981/stream/channelid/613622473?profile=pass
+#EXTINF:-1 tvg-id="JewelryTelevision.us" tvg-name="Jewelry TV | Wilmington NC" group-title="Shopping",Jewelry TV | Wilmington NC
+http://209.215.122.164:9981/stream/channelid/1153631680?profile=pass
 
 #GROUP:ENG | Local | IND
 #EXTINF:-1 tvg-id="TheUWCIU.us" tvg-name="IL | Chicago | The U" group-title="ENG | Local | IND",IL | Chicago | The U
