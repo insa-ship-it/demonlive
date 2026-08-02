@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-08-02T09:39:56.676155 UTC
+# Generated on 2026-08-02T09:59:15.941328 UTC
 
 #PLAYLIST:x ENG-Categories
 #EXTGRP:x ENG-Categories
@@ -180,332 +180,338 @@ https://rumble.com/live-hls-dvr/78pg2i/playlist.m3u8?
 #PLAYLIST:x base
 #EXTGRP:x base
 
-#GROUP:ENG | Entertainment
-#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="A&E (East)" group-title="ENG | Entertainment",A&E (East)
+#GROUP:ENG - Entertainment
+#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="A&E (East)" group-title="ENG - Entertainment",A&E (East)
 http://23.239.31.26:8989/aande/index.m3u8
-#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim (East)" group-title="ENG | Entertainment",Adult Swim (East)
+#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim (East)" group-title="ENG - Entertainment",Adult Swim (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC (East)" group-title="ENG | Entertainment",AMC (East)
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC (East)" group-title="ENG - Entertainment",AMC (East)
 http://23.239.31.26:8989/amc/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet (East)" group-title="ENG | Entertainment",Animal Planet (East)
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 tvg-id="ASPiRE.us" tvg-name="ASPiRE" group-title="ENG | Entertainment",ASPiRE
+#EXTINF:-1 tvg-id="ASPiRE.us" tvg-name="ASPiRE" group-title="ENG - Entertainment",ASPiRE
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21630.ts
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America (East)" group-title="ENG | Entertainment",BBC America (East)
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America (East)" group-title="ENG - Entertainment",BBC America (East)
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="BBCOneLondon.uk" tvg-name="BBC One London" group-title="ENG | Entertainment",BBC One London
+#EXTINF:-1 tvg-id="BBCOneLondon.uk" tvg-name="BBC One London" group-title="ENG - Entertainment",BBC One London
 http://193.239.186.231/BBC1/index.m3u8
-#EXTINF:-1 tvg-id="BET.us" tvg-name="BET (East)" group-title="ENG | Entertainment",BET (East)
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET (East)" group-title="ENG - Entertainment",BET (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647385.ts
-#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce TV" group-title="ENG | Entertainment",Bounce TV
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce TV" group-title="ENG - Entertainment",Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
-#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo (East)" group-title="ENG | Entertainment",Bravo (East)
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo (East)" group-title="ENG - Entertainment",Bravo (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2655.ts
-#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="Buzzr" group-title="ENG | Entertainment",Buzzr
+#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="Buzzr" group-title="ENG - Entertainment",Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT (East)" group-title="ENG | Entertainment",CMT (East)
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT (East)" group-title="ENG - Entertainment",CMT (East)
 http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" group-title="ENG | Entertainment",CNBC
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" group-title="ENG - Entertainment",CNBC
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3624.ts
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central (East)" group-title="ENG | Entertainment",Comedy Central (East)
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central (East)" group-title="ENG - Entertainment",Comedy Central (East)
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 tvg-id="ComedyTV.us" tvg-name="Comedy TV" group-title="ENG | Entertainment",Comedy TV
+#EXTINF:-1 tvg-id="ComedyTV.us" tvg-name="Comedy TV" group-title="ENG - Entertainment",Comedy TV
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/77411.ts
-#EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet TV (East)" group-title="ENG | Entertainment",Comet TV (East)
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet TV (East)" group-title="ENG - Entertainment",Comet TV (East)
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel (East)" group-title="ENG | Entertainment",Cooking Channel (East)
-http://23.237.104.106:8080/USA_COOKING/index.m3u8
-#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="Cozi TV" group-title="ENG | Entertainment",Cozi TV
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="Cozi TV" group-title="ENG - Entertainment",Cozi TV
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2604.ts
-#EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="Crime & Investigation (East)" group-title="ENG | Entertainment",Crime & Investigation (East)
-http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery (East)" group-title="ENG | Entertainment",Discovery (East)
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family" group-title="ENG | Entertainment",Discovery Family
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family" group-title="ENG - Entertainment",Discovery Family
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2598.ts
-#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="Discovery Life (East)" group-title="ENG | Entertainment",Discovery Life (East)
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2597.ts
-#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science" group-title="ENG | Entertainment",Discovery Science
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2595.ts
-#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E! Entertainment (East)" group-title="ENG | Entertainment",E! Entertainment (East)
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E! Entertainment (East)" group-title="ENG - Entertainment",E! Entertainment (East)
 http://23.237.104.106:8080/USA_E/index.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network (East)" group-title="ENG | Entertainment",Food Network (East)
-http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform (East)" group-title="ENG | Entertainment",Freeform (East)
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform (East)" group-title="ENG - Entertainment",Freeform (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2502.ts
-#EXTINF:-1 tvg-id="Fuse.us" tvg-name="FUSE" group-title="ENG | Entertainment",FUSE
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="FUSE" group-title="ENG - Entertainment",FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East)" group-title="ENG | Entertainment",FX (East)
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX (East)" group-title="ENG - Entertainment",FX (East)
 http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX (East)" group-title="ENG | Entertainment",FXX (East)
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX (East)" group-title="ENG - Entertainment",FXX (East)
 http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI (East)" group-title="ENG | Entertainment",FYI (East)
+#EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI (East)" group-title="ENG - Entertainment",FYI (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30924.ts
-#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="Game Show Network (East)" group-title="ENG | Entertainment",Game Show Network (East)
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="Game Show Network (East)" group-title="ENG - Entertainment",Game Show Network (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648975.ts
-#EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us" tvg-name="getTV (East)" group-title="ENG | Entertainment",getTV (East)
+#EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us" tvg-name="Great TV (East)" group-title="ENG - Entertainment",Great TV (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30928.ts
-#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark (East)" group-title="ENG | Entertainment",Hallmark (East)
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark (East)" group-title="ENG - Entertainment",Hallmark (East)
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
-#EXTINF:-1 tvg-id="HallmarkFamily.us" tvg-name="Hallmark Family (East)" group-title="ENG | Entertainment",Hallmark Family (East)
+#EXTINF:-1 tvg-id="HallmarkFamily.us" tvg-name="Hallmark Family (East)" group-title="ENG - Entertainment",Hallmark Family (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/660922.ts
-#EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Mystery (East)" group-title="ENG | Entertainment",Hallmark Mystery (East)
+#EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Mystery (East)" group-title="ENG - Entertainment",Hallmark Mystery (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2492.ts
-#EXTINF:-1 tvg-id="History.us" tvg-name="History (East)" group-title="ENG | Entertainment",History (East)
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/645913.ts
-#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" group-title="ENG | Entertainment",HLN
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" group-title="ENG - Entertainment",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery (East)" group-title="ENG | Entertainment",Investigation Discovery (East)
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/88083.ts
-#EXTINF:-1 tvg-id="IonTV.us" tvg-name="ION (East)" group-title="ENG | Entertainment",ION (East)
+#EXTINF:-1 tvg-id="IonTV.us" tvg-name="ION (East)" group-title="ENG - Entertainment",ION (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/555699.ts
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1" group-title="ENG | Entertainment",ITV1
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1" group-title="ENG - Entertainment",ITV1
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts
-#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime (East)" group-title="ENG | Entertainment",Lifetime (East)
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime (East)" group-title="ENG - Entertainment",Lifetime (East)
 http://41.205.93.154/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV (East)" group-title="ENG | Entertainment",MTV (East)
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV (East)" group-title="ENG - Entertainment",MTV (East)
 http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic (East)" group-title="ENG | Entertainment",National Geographic (East)
-http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1 tvg-id="OvationTV.us" tvg-name="Ovation" group-title="ENG | Entertainment",Ovation
+#EXTINF:-1 tvg-id="OvationTV.us" tvg-name="Ovation" group-title="ENG - Entertainment",Ovation
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/31180.ts
-#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen (East)" group-title="ENG | Entertainment",Oxygen (East)
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3756.ts
-#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network (East)" group-title="ENG | Entertainment",Paramount Network (East)
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network (East)" group-title="ENG - Entertainment",Paramount Network (East)
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="POP.us" tvg-name="Pop (East)" group-title="ENG | Entertainment",Pop (East)
+#EXTINF:-1 tvg-id="POP.us" tvg-name="Pop (East)" group-title="ENG - Entertainment",Pop (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3863.ts
-#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="Reelz Channel" group-title="ENG | Entertainment",Reelz Channel
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="Reelz Channel" group-title="ENG - Entertainment",Reelz Channel
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
-#EXTINF:-1 tvg-id="SmithsonianNetwork.us" tvg-name="Smithsonian (East)" group-title="ENG | Entertainment",Smithsonian (East)
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3812.ts
-#EXTINF:-1 tvg-id="STV.uk" tvg-name="STV" group-title="ENG | Entertainment",STV
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="STV" group-title="ENG - Entertainment",STV
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2168.ts
-#EXTINF:-1 tvg-id="Syfy.us" tvg-name="Syfy (East)" group-title="ENG | Entertainment",Syfy (East)
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="Syfy (East)" group-title="ENG - Entertainment",Syfy (East)
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS (East)" group-title="ENG | Entertainment",TBS (East)
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS (East)" group-title="ENG - Entertainment",TBS (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC (East)" group-title="ENG | Entertainment",TLC (East)
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC (East)" group-title="ENG - Entertainment",TLC (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2594.ts
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT (East)" group-title="ENG | Entertainment",TNT (East)
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT (East)" group-title="ENG - Entertainment",TNT (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV (East)" group-title="ENG | Entertainment",truTV (East)
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV (East)" group-title="ENG - Entertainment",truTV (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TV Land (East)" group-title="ENG | Entertainment",TV Land (East)
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TV Land (East)" group-title="ENG - Entertainment",TV Land (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/614330.ts
-#EXTINF:-1 tvg-id="TVOne.us" tvg-name="TV One" group-title="ENG | Entertainment",TV One
+#EXTINF:-1 tvg-id="TVOne.us" tvg-name="TV One" group-title="ENG - Entertainment",TV One
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21897.ts
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network (East)" group-title="ENG | Entertainment",USA Network (East)
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network (East)" group-title="ENG - Entertainment",USA Network (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3767.ts
-#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 (East)" group-title="ENG | Entertainment",VH1 (East)
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 (East)" group-title="ENG - Entertainment",VH1 (East)
 http://23.237.104.106:8080/USA_VH1/index.m3u8
-#EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice (East)" group-title="ENG | Entertainment",Vice (East)
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice (East)" group-title="ENG - Entertainment",Vice (East)
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:-1 tvg-id="WeTV.us" tvg-name="We Tv (East)" group-title="ENG | Entertainment",We TV (East)
+#EXTINF:-1 tvg-id="WeTV.us" tvg-name="We Tv (East)" group-title="ENG - Entertainment",We TV (East)
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 
-#GROUP:ENG | Local | ABC
-#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="NY | NYC | ABC WABC" group-title="ENG | Local | ABC",NY | NYC | ABC WABC
+#GROUP:ENG - Local ABC
+#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="NY | NYC | ABC WABC" group-title="ENG - Local ABC",NY | NYC | ABC WABC
 http://stream.cammonitorplus.net/1809/index.m3u8
 
-#GROUP:ENG | Sports
-#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" group-title="ENG | Sports",ACC Network
+#GROUP:ENG - Sports
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" group-title="ENG - Sports",ACC Network
 http://23.237.104.106:8080/USA_ACCN/mpegts
-#EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="Altitude Sports" group-title="ENG | Sports",Altitude Sports
+#EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="Altitude Sports" group-title="ENG - Sports",Altitude Sports
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts
-#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="beIN Sports 1" group-title="ENG | Sports",beIN Sports 1
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="beIN Sports 1" group-title="ENG - Sports",beIN Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-id="BigTen.us" tvg-name="Big Ten Network" group-title="ENG | Sports",Big Ten Network
+#EXTINF:-1 tvg-id="BigTen.us" tvg-name="Big Ten Network" group-title="ENG - Sports",Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-name="CBS Sports Golazo Network" group-title="ENG | Sports",CBS Sports Golazo Network
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-name="CBS Sports Golazo Network" group-title="ENG - Sports",CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" group-title="ENG | Sports",CBS Sports Network
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" group-title="ENG - Sports",CBS Sports Network
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="ENG | Sports",ESPN
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="ENG - Sports",ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN News" group-title="ENG | Sports",ESPN News
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN News" group-title="ENG - Sports",ESPN News
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" group-title="ENG | Sports",ESPN U
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" group-title="ENG - Sports",ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" group-title="ENG | Sports",ESPN2
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" group-title="ENG - Sports",ESPN2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
-#EXTINF:-1 tvg-id="FIFA+.us" tvg-name="FIFA+ TV" group-title="ENG | Sports",FIFA+ TV
+#EXTINF:-1 tvg-id="FIFA+.us" tvg-name="FIFA+ TV" group-title="ENG - Sports",FIFA+ TV
 https://jmp2.uk/stvp-IN270000230
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" group-title="ENG | Sports",Fox Sports 1
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" group-title="ENG - Sports",Fox Sports 1
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" group-title="ENG | Sports",Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" group-title="ENG - Sports",Fox Sports 2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" group-title="ENG | Sports",Golf Channel
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel" group-title="ENG - Sports",Golf Channel
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2385.ts
-#EXTINF:-1 tvg-id="MarqueeSports.us" tvg-name="Marquee Sports Network" group-title="ENG | Sports",Marquee Sports Network
+#EXTINF:-1 tvg-id="MarqueeSports.us" tvg-name="Marquee Sports Network" group-title="ENG - Sports",Marquee Sports Network
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" group-title="ENG | Sports",MLB Network
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" group-title="ENG - Sports",MLB Network
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts
-#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo" group-title="ENG | Sports",Discovery Turbo
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3747.ts
-#EXTINF:-1 tvg-id="MSGZone1.us" tvg-name="MSG" group-title="ENG | Sports",MSG
+#EXTINF:-1 tvg-id="MSGZone1.us" tvg-name="MSG" group-title="ENG - Sports",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
-#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" group-title="ENG | Sports",NBA TV
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" group-title="ENG - Sports",NBA TV
 http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" group-title="ENG | Sports",NBC Sports Bay Area
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" group-title="ENG - Sports",NBC Sports Bay Area
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts
-#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="NBC Sports Boston" group-title="ENG | Sports",NBC Sports Boston
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="NBC Sports Boston" group-title="ENG - Sports",NBC Sports Boston
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2435.ts
-#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="NBC Sports California" group-title="ENG | Sports",NBC Sports California
+#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="NBC Sports California" group-title="ENG - Sports",NBC Sports California
 http://stream.cammonitorplus.net/1795/index.m3u8
-#EXTINF:-1 tvg-id="NBCSportsNOW.pluto" tvg-name="NBC Sports NOW" group-title="ENG | Sports",NBC Sports NOW
+#EXTINF:-1 tvg-id="NBCSportsNOW.pluto" tvg-name="NBC Sports NOW" group-title="ENG - Sports",NBC Sports NOW
 https://jmp2.uk/stvp-USBD420002446
-#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-name="NBC Sports Philadelphia" group-title="ENG | Sports",NBC Sports Philadelphia
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-name="NBC Sports Philadelphia" group-title="ENG - Sports",NBC Sports Philadelphia
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts
-#EXTINF:-1 tvg-id="NESN.us" tvg-name="NESN" group-title="ENG | Sports",NESN
+#EXTINF:-1 tvg-id="NESN.us" tvg-name="NESN" group-title="ENG - Sports",NESN
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/149310.ts
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" group-title="ENG | Sports",NFL Network
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" group-title="ENG - Sports",NFL Network
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" group-title="ENG | Sports",NHL Network
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" group-title="ENG - Sports",NHL Network
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3672.ts
-#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" group-title="ENG | Sports",Outdoor Channel
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" group-title="ENG - Sports",Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/mpegts
-#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="Premier Sports 1" group-title="ENG | Sports",Premier Sports 1
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="Premier Sports 1" group-title="ENG - Sports",Premier Sports 1
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89089.ts
-#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="Premier Sports 2" group-title="ENG | Sports",Premier Sports 2
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="Premier Sports 2" group-title="ENG - Sports",Premier Sports 2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89090.ts
-#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" group-title="ENG | Sports",SEC Network
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" group-title="ENG - Sports",SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football (Soccer)" group-title="ENG | Sports",Sky Sports Football (Soccer)
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football (Soccer)" group-title="ENG - Sports",Sky Sports Football (Soccer)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2188.ts
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" group-title="ENG | Sports",Sky Sports News
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" group-title="ENG - Sports",Sky Sports News
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" group-title="ENG | Sports",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" group-title="ENG - Sports",Sky Sports Premier League
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
-#EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="Space City Home Network" group-title="ENG | Sports",Space City Home Network
+#EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="Space City Home Network" group-title="ENG - Sports",Space City Home Network
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/663927.ts
-#EXTINF:-1 tvg-id="SpectrumSportsNetLADodgers.us" tvg-name="Spectrum SportsNet Dodgers" group-title="ENG | Sports",Spectrum SportsNet Dodgers
+#EXTINF:-1 tvg-id="SpectrumSportsNetLADodgers.us" tvg-name="Spectrum SportsNet Dodgers" group-title="ENG - Sports",Spectrum SportsNet Dodgers
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts
-#EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-name="Spectrum SportsNet Lakers" group-title="ENG | Sports",Spectrum SportsNet Lakers
+#EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-name="Spectrum SportsNet Lakers" group-title="ENG - Sports",Spectrum SportsNet Lakers
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/512561.ts
-#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="Sportsman Channel" group-title="ENG | Sports",Sportsman Channel
+#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="Sportsman Channel" group-title="ENG - Sports",Sportsman Channel
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/97483.ts
-#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="Sportsnet 360" group-title="ENG | Sports",Sportsnet 360
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="Sportsnet 360" group-title="ENG - Sports",Sportsnet 360
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3073.ts
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="Sportsnet East" group-title="ENG | Sports",Sportsnet East
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="Sportsnet East" group-title="ENG - Sports",Sportsnet East
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3072.ts
-#EXTINF:-1 tvg-id="SNY.us" tvg-name="SportsNet New York" group-title="ENG | Sports",SportsNet New York
+#EXTINF:-1 tvg-id="SNY.us" tvg-name="SportsNet New York" group-title="ENG - Sports",SportsNet New York
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts
-#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="Sportsnet One" group-title="ENG | Sports",Sportsnet One
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="Sportsnet One" group-title="ENG - Sports",Sportsnet One
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3071.ts
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" group-title="ENG | Sports",Tennis Channel
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" group-title="ENG - Sports",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" group-title="ENG | Sports",TSN1
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" group-title="ENG - Sports",TSN1
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" group-title="ENG | Sports",TSN2
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" group-title="ENG - Sports",TSN2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
-#EXTINF:-1 tvg-id="WillowSports.us" tvg-name="Willow Sports" group-title="ENG | Sports",Willow Sports
+#EXTINF:-1 tvg-id="WillowSports.us" tvg-name="Willow Sports" group-title="ENG - Sports",Willow Sports
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts
-#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="YES Network" group-title="ENG | Sports",YES Network
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="YES Network" group-title="ENG - Sports",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
-#GROUP:ENG | Music
-#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" group-title="ENG | Music",AXS TV
+#GROUP:ENG - Documentary
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet (East)" group-title="ENG - Documentary",Animal Planet (East)
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="Crime & Investigation (East)" group-title="ENG - Documentary",Crime & Investigation (East)
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery (East)" group-title="ENG - Documentary",Discovery (East)
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="Discovery Life (East)" group-title="ENG - Documentary",Discovery Life (East)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2597.ts
+#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science" group-title="ENG - Documentary",Discovery Science
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2595.ts
+#EXTINF:-1 tvg-id="History.us" tvg-name="History (East)" group-title="ENG - Documentary",History (East)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/645913.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery (East)" group-title="ENG - Documentary",Investigation Discovery (East)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/88083.ts
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic (East)" group-title="ENG - Documentary",National Geographic (East)
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen (East)" group-title="ENG - Documentary",Oxygen (East)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3756.ts
+#EXTINF:-1 tvg-id="SmithsonianNetwork.us" tvg-name="Smithsonian (East)" group-title="ENG - Documentary",Smithsonian (East)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3812.ts
+
+#GROUP:ENG - Music Videos
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" group-title="ENG - Music Videos",AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
 
-#GROUP:ENG | News
-#EXTINF:-1 tvg-id="BBCWorldNews.us" tvg-name="BBC World News" group-title="ENG | News",BBC World News
+#GROUP:ENG - News & Opinions
+#EXTINF:-1 tvg-id="BBCWorldNews.us" tvg-name="BBC World News" group-title="ENG - News & Opinions",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg TV" group-title="ENG | News",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg TV" group-title="ENG - News & Opinions",Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" group-title="ENG | News",C-SPAN
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" group-title="ENG - News & Opinions",C-SPAN
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/92792.ts
-#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News 24/7" group-title="ENG | News",CBS News 24/7
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News 24/7" group-title="ENG - News & Opinions",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" group-title="ENG | News",CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" group-title="ENG - News & Opinions",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" group-title="ENG | News",Court TV
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" group-title="ENG - News & Opinions",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="Fox Business" group-title="ENG | News",Fox Business
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="Fox Business" group-title="ENG - News & Opinions",Fox Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News" group-title="ENG | News",Fox News
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News" group-title="ENG - News & Opinions",Fox News
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2543.ts
-#EXTINF:-1 tvg-id="MSNOW.us" tvg-name="MS NOW" group-title="ENG | News",MS NOW
+#EXTINF:-1 tvg-id="MSNOW.us" tvg-name="MS NOW" group-title="ENG - News & Opinions",MS NOW
 http://41.205.93.154:80/MSNBC/index.m3u8
-#EXTINF:-1 tvg-id="NewsNation.us" tvg-name="NewsNation" group-title="ENG | News",NewsNation
+#EXTINF:-1 tvg-id="NewsNation.us" tvg-name="NewsNation" group-title="ENG - News & Opinions",NewsNation
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647784.ts
-#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" group-title="ENG | News",The Weather Channel
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" group-title="ENG - News & Opinions",The Weather Channel
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/42308.ts
 
-#GROUP:ENG | Kids & Family
-#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" group-title="ENG | Kids & Family",Boomerang
+#GROUP:ENG - Kids & Family
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" group-title="ENG - Kids & Family",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network (East)" group-title="ENG | Kids & Family",Cartoon Network (East)
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network (East)" group-title="ENG - Kids & Family",Cartoon Network (East)
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney (East)" group-title="ENG | Kids & Family",Disney (East)
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney (East)" group-title="ENG - Kids & Family",Disney (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2591.ts
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD (East)" group-title="ENG | Kids & Family",Disney XD (East)
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD (East)" group-title="ENG - Kids & Family",Disney XD (East)
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr (East)" group-title="ENG | Kids & Family",Nick Jr (East)
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr (East)" group-title="ENG - Kids & Family",Nick Jr (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74691.ts
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon (East)" group-title="ENG | Kids & Family",Nickelodeon (East)
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon (East)" group-title="ENG - Kids & Family",Nickelodeon (East)
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons (East)" group-title="ENG | Kids & Family",Nicktoons (East)
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons (East)" group-title="ENG - Kids & Family",Nicktoons (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3674.ts
-#EXTINF:-1 tvg-id="PBSKidsNYC.us" tvg-name="PBS Kids (East) " group-title="ENG | Kids & Family",PBS Kids (East)
+#EXTINF:-1 tvg-id="PBSKidsNYC.us" tvg-name="PBS Kids (East) " group-title="ENG - Kids & Family",PBS Kids (East)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#GROUP:ENG | Local | CBS
-#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="NY | NYC | CBS WCBS" group-title="ENG | Local | CBS",NY | NYC | CBS WCBS
+#GROUP:ENG - Local CBS
+#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="NY | NYC | CBS WCBS" group-title="ENG - Local CBS",NY | NYC | CBS WCBS
 http://stream.cammonitorplus.net/1810/index.m3u8
 
-#GROUP:ENG | Movies
-#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax (East)" group-title="ENG | Movies",Cinemax (East)
+#GROUP:ENG - Movies
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax (East)" group-title="ENG - Movies",Cinemax (East)
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id="FXMovies.us" tvg-name="FX Movies" group-title="ENG | Movies",FX Movies
+#EXTINF:-1 tvg-id="FXMovies.us" tvg-name="FX Movies" group-title="ENG - Movies",FX Movies
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO (East)" group-title="ENG | Movies",HBO (East)
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO (East)" group-title="ENG - Movies",HBO (East)
 http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits (East)" group-title="ENG | Movies",HBO Hits (East)
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits (East)" group-title="ENG - Movies",HBO Hits (East)
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy (East)" group-title="ENG | Movies",HBO Comedy (East)
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy (East)" group-title="ENG - Movies",HBO Comedy (East)
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="HBOMovies.us" tvg-name="HBO Movies (East)" group-title="ENG | Movies",HBO Movies (East)
+#EXTINF:-1 tvg-id="HBOMovies.us" tvg-name="HBO Movies (East)" group-title="ENG - Movies",HBO Movies (East)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="LMN (EAST)" group-title="ENG | Movies",LMN (EAST)
+#EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="LMN (EAST)" group-title="ENG - Movies",LMN (EAST)
 http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:-1 tvg-id="Paramount+withShowtime.us" tvg-name="Showtime (East)" group-title="ENG | Movies",Showtime (East)
+#EXTINF:-1 tvg-id="Paramount+withShowtime.us" tvg-name="Showtime (East)" group-title="ENG - Movies",Showtime (East)
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme (East)" group-title="ENG | Movies",Showtime Extreme (East)
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme (East)" group-title="ENG - Movies",Showtime Extreme (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
-#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movie Channel" group-title="ENG | Movies",Sony Movie Channel
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movie Channel" group-title="ENG - Movies",Sony Movie Channel
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2412.ts
-#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz (East)" group-title="ENG | Movies",Starz (East)
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz (East)" group-title="ENG - Movies",Starz (East)
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-name="Starz Encore Classic (East)" group-title="ENG | Movies",Starz Encore Classic (East)
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-name="Starz Encore Classic (East)" group-title="ENG - Movies",Starz Encore Classic (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts
-#EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM (EAST)" group-title="ENG | Movies",TCM (EAST)
+#EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM (EAST)" group-title="ENG - Movies",TCM (EAST)
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 
-#GROUP:ENG | Local | CW/MY
-#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="NY | NYC | CW WPIX" group-title="ENG | Local | CW/MY",NY | NYC | CW WPIX
+#GROUP:ENG - Lifestyle
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel (East)" group-title="ENG - Lifestyle",Cooking Channel (East)
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network (East)" group-title="ENG - Lifestyle",Food Network (East)
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+
+#GROUP:ENG - Local CW/MY
+#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="NY | NYC | CW WPIX" group-title="ENG - Local CW/MY",NY | NYC | CW WPIX
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts
 
-#GROUP:ESP | Sports
-#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="DAZN LaLiga" group-title="ESP | Sports",DAZN LaLiga
+#GROUP:ESP - Deportes
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="DAZN LaLiga" group-title="ESP - Deportes",DAZN LaLiga
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
-#GROUP:ENG | Local | FOX
-#EXTINF:-1 tvg-id="FOXWFLD.us" tvg-name="IL | Chicago | FOX WFLD" group-title="ENG | Local | FOX",IL | Chicago | FOX WFLD
+#GROUP:ENG - Local FOX
+#EXTINF:-1 tvg-id="FOXWFLD.us" tvg-name="IL | Chicago | FOX WFLD" group-title="ENG - Local FOX",IL | Chicago | FOX WFLD
 http://stream.cammonitorplus.net/1752/index.m3u8
 
-#GROUP:ENG | Westerns
-#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit TV" group-title="ENG | Westerns",Grit TV
+#GROUP:ENG - Classic TV & Westerns
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit TV" group-title="ENG - Classic TV & Westerns",Grit TV
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/40583.ts
-#EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP (East)" group-title="ENG | Westerns",INSP (East)
+#EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP (East)" group-title="ENG - Classic TV & Westerns",INSP (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74682.ts
 
-#GROUP:ENG | Local | NBC
-#EXTINF:-1 tvg-id="NBCWNBC.us" tvg-name="NY | NYC | NBC WNBC" group-title="ENG | Local | NBC",NY | NYC | NBC WNBC
+#GROUP:ENG - Sports Auto
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo" group-title="ENG - Sports Auto",Discovery Turbo
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3747.ts
+
+#GROUP:ENG - Local NBC
+#EXTINF:-1 tvg-id="NBCWNBC.us" tvg-name="NY | NYC | NBC WNBC" group-title="ENG - Local NBC",NY | NYC | NBC WNBC
 http://stream.cammonitorplus.net/1812/index.m3u8
 
-#GROUP:ESP | Local
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo (East)" group-title="ESP | Local",Telemundo (East)
+#GROUP:ESP - Local
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo (East)" group-title="ESP - Local",Telemundo (East)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
 
 
@@ -14393,312 +14399,6 @@ http://mag.trexlive.me:80/c/play/live.php?mac=00%3A1A%3A79%3A7b%3Af3%3A2a&stream
 http://main.light-ott.net:80/c/play/live.php?mac=00%3A1A%3A79%3A84%3AEB%3A56&stream=913408&extension=ts
 #EXTINF:-1 tvg-id="Spectrum.News.-.NY1.-.STVA.us2" tvg-name="Spectrum News 1 NYC (Alt2)" group-title="ENG - News & Opinions",Spectrum News 1 NYC (Alt2)
 http://realsport.scalecdn.co:8080/live/5658423/9820961/597114.ts
-
-
-==================================================
-
-#PLAYLIST:x tv
-#EXTGRP:x tv
-
-#GROUP:TV
-#EXTINF:-1 tvg-chno="1" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="TV",A&E TV
-http://23.239.31.26:8989/aande/index.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="WABC-DT.us_locals1" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="TV",ABC
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/112234.ts
-#EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
-http://23.237.104.106:8080/USA_ACCN/mpegts
-#EXTINF:-1 tvg-chno="4" tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="TV",Adult Swim
-https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="Altitude.Sports.us2" tvg-name="Altitude Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44263_dark_360w_270h.png" group-title="TV",Altitude Sports
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts
-#EXTINF:-1 tvg-chno="6" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="TV",AMC
-http://23.239.31.26:8989/amc/index.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="TV",Animal Planet
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="ASPiRE.HD.us2" tvg-name="Aspire" tvg-logo="https://i.gyazo.com/0dec42cc5ef48c489cc10db906dc5b9b.png" group-title="TV",Aspire
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21630.ts
-#EXTINF:-1 tvg-chno="9" tvg-id="AXS.TV.us2" tvg-name="AXS TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28506_dark_360w_270h.png" group-title="TV",AXS TV
-http://23.239.31.26:8989/axstv/index.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="TV",BBC America
-http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" group-title="TV",BBC One
-http://193.239.186.231/BBC1/index.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC World News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png" group-title="TV",BBC World News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="beIN.SPORTS.1.fr" tvg-name="beIN Sports 1" tvg-logo="https://images.open-epg.com/x1590.png" group-title="TV",beIN Sports 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="TV",BET
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647385.ts
-#EXTINF:-1 tvg-chno="15" tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56783_dark_360w_270h.png" group-title="TV",Big Ten Network
-http://23.237.104.106:8080/USA_BTN/index.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71799_dark_360w_270h.png" group-title="TV",Bloomberg TV
-https://www.bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="TV",Boomerang
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="TV",Bounce TV
-http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
-#EXTINF:-1 tvg-chno="19" tvg-id="Bravo.HD.us2" tvg-name="Bravo TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="TV",Bravo TV
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2655.ts
-#EXTINF:-1 tvg-chno="20" tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93430_dark_360w_270h.png" group-title="TV",Buzzr
-https://buzzrota-web.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="CSPAN.us2" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="TV",C-SPAN
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/92792.ts
-#EXTINF:-1 tvg-chno="22" tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="TV",Cartoon Network
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="WCBS-DT.us_locals1" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="TV",CBS
-http://stream.cammonitorplus.net/1810/index.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News 24/7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" group-title="TV",CBS News 24/7
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-name="CBS Sports Golazo Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s133691_dark_360w_270h.png" group-title="TV",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="TV",CBS Sports Network
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts
-#EXTINF:-1 tvg-chno="27" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="TV",Cinemax
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="TV",CMT
-http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="TV",CNBC
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3624.ts
-#EXTINF:-1 tvg-chno="30" tvg-id="CNN.HD.us2" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="TV",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="TV",Comedy Central
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82470_dark_360w_270h.png" group-title="TV",Comedy TV
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/77411.ts
-#EXTINF:-1 tvg-chno="33" tvg-id="Comet.us2" tvg-name="Comet TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="TV",Comet TV
-https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="TV",Cooking Channel
-http://23.237.104.106:8080/USA_COOKING/index.m3u8
-#EXTINF:-1 tvg-chno="35" tvg-id="Court.TV.us2" tvg-name="Court TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117160_dark_360w_270h.png" group-title="TV",Court TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="COZI.TV.us2" tvg-name="Cozi TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78851_dark_360w_270h.png" group-title="TV",Cozi TV
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2604.ts
-#EXTINF:-1 tvg-chno="37" tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png" group-title="TV",Crime & Investigation Network
-http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
-#EXTINF:-1 tvg-chno="38" tvg-id="WPIX-DT.us_locals1" tvg-name="CW" tvg-logo="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" group-title="TV",CW
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts
-#EXTINF:-1 tvg-chno="39" tvg-id="[SPOARHD].DSports.Argentina.HD.uy" tvg-name="DIRECTV Sports" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109752_light_360w_270h.png" group-title="TV",DIRECTV Sports
-http://201.230.121.85:8000/play/dssporthd/index.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-id="[SPOPLH].DSports.+.HD.uy" tvg-name="DIRECTV Sports +" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107455_white_360w_270h.png" group-title="TV",DIRECTV Sports +
-http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="TV",Discovery Channel
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="TV",Discovery Family Channel
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2598.ts
-#EXTINF:-1 tvg-chno="43" tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="TV",Discovery Life
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2597.ts
-#EXTINF:-1 tvg-chno="44" tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="TV",Discovery Science
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2595.ts
-#EXTINF:-1 tvg-chno="45" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="TV",Disney Channel
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2591.ts
-#EXTINF:-1 tvg-chno="46" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="TV",Disney XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" tvg-logo="https://i.gyazo.com/f73b80e3eb56cec06df6705d00e2f422.png" group-title="TV",E! Entertainment
-http://23.237.104.106:8080/USA_E/index.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="TV",ESPN
-http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="TV",ESPN News
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts
-#EXTINF:-1 tvg-chno="50" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="TV",ESPN U
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="TV",ESPN2
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
-#EXTINF:-1 tvg-chno="52" tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="TV",Food Network
-http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-id="WFLD-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="TV",Fox
-http://stream.cammonitorplus.net/1752/index.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="TV",Fox Business
-http://41.205.93.154/FOXBUSINESS/index.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2543.ts
-#EXTINF:-1 tvg-chno="56" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="TV",Fox Sports 1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.ts
-#EXTINF:-1 tvg-chno="57" tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="TV",Fox Sports 2
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
-#EXTINF:-1 tvg-chno="58" tvg-id="Freeform.HD.us2" tvg-name="Freeform TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="TV",Freeform TV
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2502.ts
-#EXTINF:-1 tvg-chno="59" tvg-id="Fuse.HD.us2" tvg-name="FUSE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="TV",FUSE
-http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="TV",FX
-http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="TV",FX Movie Channel
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts
-#EXTINF:-1 tvg-chno="62" tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" group-title="TV",FXX
-http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-id="FYI.Channel.HD.us2" tvg-name="FYI TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" group-title="TV",FYI TV
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30924.ts
-#EXTINF:-1 tvg-chno="64" tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="TV",Game Show Network
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648975.ts
-#EXTINF:-1 tvg-chno="65" tvg-id="get.us2" tvg-name="getTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82563_dark_360w_270h.png" group-title="TV",getTV
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30928.ts
-#EXTINF:-1 tvg-chno="66" tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="TV",Golf Channel
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2385.ts
-#EXTINF:-1 tvg-chno="67" tvg-id="Grit.us2" tvg-name="Grit TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="TV",Grit TV
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/40583.ts
-#EXTINF:-1 tvg-chno="68" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="TV",Hallmark Channel
-http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png" group-title="TV",Hallmark Family
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/660922.ts
-#EXTINF:-1 tvg-chno="70" tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61522_dark_360w_270h.png" group-title="TV",Hallmark Mystery
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2492.ts
-#EXTINF:-1 tvg-chno="71" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="TV",HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="TV",HBO 2
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="TV",HBO Comedy
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="TV",HBO Zone
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-chno="75" tvg-id="History.HD.us2" tvg-name="History Channel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87679_dark_360w_270h.png" group-title="TV",History Channel
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/645913.ts
-#EXTINF:-1 tvg-chno="76" tvg-id="HLN.HD.us2" tvg-name="HLN TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="TV",HLN TV
-http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:-1 tvg-chno="77" tvg-id="INSP.HD.us2" tvg-name="INSP" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11066_dark_360w_270h.png" group-title="TV",INSP
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74682.ts
-#EXTINF:-1 tvg-chno="78" tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="TV",Investigation Discovery
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/88083.ts
-#EXTINF:-1 tvg-chno="79" tvg-id="ION.Television.HD.us2" tvg-name="ION TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="TV",ION TV
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/555699.ts
-#EXTINF:-1 tvg-chno="80" tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24292_dark_360w_270h.png" group-title="TV",ITV1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts
-#EXTINF:-1 tvg-chno="81" tvg-id="Lifetime.HD.us2" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="TV",Lifetime
-http://41.205.93.154/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="TV",Lifetime Movie Network
-http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:-1 tvg-chno="83" tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113768_dark_360w_270h.png" group-title="TV",Marquee Sports Network
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/55178.ts
-#EXTINF:-1 tvg-chno="84" tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="TV",MLB Network
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3661.ts
-#EXTINF:-1 tvg-chno="85" tvg-id="MOTORTREND.HD.us2" tvg-name="MotorTrend TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="TV",MotorTrend TV
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3747.ts
-#EXTINF:-1 tvg-chno="86" tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10979_dark_360w_270h.png" group-title="TV",MSG
-http://23.237.104.106:8080/USA_MSG/index.m3u8
-#EXTINF:-1 tvg-chno="87" tvg-id="MSNBC.HD.us2" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="TV",MSNBC
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3748.ts
-#EXTINF:-1 tvg-chno="88" tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="TV",MTV
-http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="TV",National Geographic
-http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1 tvg-chno="90" tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="TV",NBA TV
-http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="91" tvg-id="WNBC-DT.us_locals1" tvg-name="NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="TV",NBC
-http://stream.cammonitorplus.net/1812/index.m3u8
-#EXTINF:-1 tvg-chno="92" tvg-id="NBC.Sports.Bay.Area.HD.us2" tvg-name="NBC Sports Bay Area" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="TV",NBC Sports Bay Area
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts
-#EXTINF:-1 tvg-chno="93" tvg-id="NBC.Sports.Boston.HD.us2" tvg-name="NBC Sports Boston" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49198_dark_360w_270h.png" group-title="TV",NBC Sports Boston
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2435.ts
-#EXTINF:-1 tvg-chno="94" tvg-id="NBC.Sports.California.SAT.us2" tvg-name="NBC Sports California" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45540_dark_360w_270h.png" group-title="TV",NBC Sports California
-http://stream.cammonitorplus.net/1795/index.m3u8
-#EXTINF:-1 tvg-chno="95" tvg-id="[PK22].NBC.Sports.NOW.PEACOCK" tvg-name="NBC Sports NOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" group-title="TV",NBC Sports NOW
-https://jmp2.uk/stvp-USBD420002446
-#EXTINF:-1 tvg-chno="96" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png" group-title="TV",NBC Sports Philadelphia
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3769.ts
-#EXTINF:-1 tvg-chno="97" tvg-id="New.England.Sports.Network.HD.us2" tvg-name="NESN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35038_dark_360w_270h.png" group-title="TV",NESN
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/149310.ts
-#EXTINF:-1 tvg-chno="98" tvg-id="NewsNation.us2" tvg-name="NewsNation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91096_dark_360w_270h.png" group-title="TV",NewsNation
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647784.ts
-#EXTINF:-1 tvg-chno="99" tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-hz-us.png" group-title="TV",NFL Network
-http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="100" tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="TV",NHL Network
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3672.ts
-#EXTINF:-1 tvg-chno="101" tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="TV",Nick Jr
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74691.ts
-#EXTINF:-1 tvg-chno="102" tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="TV",Nickelodeon
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="TV",Nicktoons
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3674.ts
-#EXTINF:-1 tvg-chno="104" tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="TV",Outdoor Channel
-http://23.237.104.106:8080/USA_OUTDOOR/mpegts
-#EXTINF:-1 tvg-chno="105" tvg-id="Ovation.HD.us2" tvg-name="Ovation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15807_dark_360w_270h.png" group-title="TV",Ovation
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/31180.ts
-#EXTINF:-1 tvg-chno="106" tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen" tvg-logo="https://i.gyazo.com/68db5ec4dba40181592406e7c3128fc7.png" group-title="TV",Oxygen
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3756.ts
-#EXTINF:-1 tvg-chno="107" tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="TV",Paramount Network
-http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="108" tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png" group-title="TV",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-chno="109" tvg-id="POP.HD.us2" tvg-name="Pop TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16715_dark_360w_270h.png" group-title="TV",Pop TV
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3863.ts
-#EXTINF:-1 tvg-chno="110" tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png" group-title="TV",Premier Sports 1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89089.ts
-#EXTINF:-1 tvg-chno="111" tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png" group-title="TV",Premier Sports 2
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/89090.ts
-#EXTINF:-1 tvg-chno="112" tvg-id="ReelzChannel.HD.us2" tvg-name="Reelz Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68385_dark_360w_270h.png" group-title="TV",Reelz Channel
-http://23.237.104.106:8080/USA_REELZ/index.m3u8
-#EXTINF:-1 tvg-chno="113" tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="TV",SEC Network
-http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-chno="114" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="TV",Showtime
-http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-chno="115" tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="TV",Showtime Extreme
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
-#EXTINF:-1 tvg-chno="116" tvg-id="Sky.Sports.Football.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104327_dark_360w_270h.png" group-title="TV",Sky Sports Football
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2188.ts
-#EXTINF:-1 tvg-chno="117" tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027JYG2.png_dark_360w_270h.png" group-title="TV",Sky Sports News
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts
-#EXTINF:-1 tvg-chno="118" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89362_gray_360w_270h.png" group-title="TV",Sky Sports Premier League
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
-#EXTINF:-1 tvg-chno="119" tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png" group-title="TV",Smithsonian Channel
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3812.ts
-#EXTINF:-1 tvg-chno="120" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="TV",Sony Movie Channel
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2412.ts
-#EXTINF:-1 tvg-chno="121" tvg-id="Space.City.Home.Network.HD.us2" tvg-name="Space City Home Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77744_dark_360w_270h.png" group-title="TV",Space City Home Network
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/663927.ts
-#EXTINF:-1 tvg-chno="122" tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="Spectrum SportsNet LA Dodgers" tvg-logo="https://i.gyazo.com/765cce528ddda366695bb178d9dee6da.png" group-title="TV",Spectrum SportsNet LA Dodgers
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts
-#EXTINF:-1 tvg-chno="123" tvg-id="Spectrum.SportsNet.Lakers.HD.us2" tvg-name="Spectrum SportsNet Lakers" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77422_dark_360w_270h.png" group-title="TV",Spectrum SportsNet Lakers
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/512561.ts
-#EXTINF:-1 tvg-chno="124" tvg-id="Sportsnet.360.HD.ca2" tvg-name="Sportsnet 360" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" group-title="TV",Sportsnet 360
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3073.ts
-#EXTINF:-1 tvg-chno="125" tvg-id="Sportsnet.East.ca2" tvg-name="Sportsnet East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png" group-title="TV",Sportsnet East
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3072.ts
-#EXTINF:-1 tvg-chno="126" tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SportsNet New York" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50038_dark_360w_270h.png" group-title="TV",SportsNet New York
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts
-#EXTINF:-1 tvg-chno="127" tvg-id="Sportsnet.One.ca2" tvg-name="Sportsnet One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png" group-title="TV",Sportsnet One
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3071.ts
-#EXTINF:-1 tvg-chno="128" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="TV",Starz
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:-1 tvg-chno="129" tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14764_dark_360w_270h.png" group-title="TV",Starz Encore Classic
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts
-#EXTINF:-1 tvg-chno="130" tvg-id="STV.HD.uk" tvg-name="STV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117217_light_360w_270h.png" group-title="TV",STV
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2168.ts
-#EXTINF:-1 tvg-chno="131" tvg-id="Syfy.HD.us2" tvg-name="Syfy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="TV",Syfy
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 tvg-chno="132" tvg-id="TBS.HD.us2" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="TV",TBS
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-chno="133" tvg-id="Telemundo.Satellite.Feed.us2" tvg-name="Telemundo" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" group-title="TV",Telemundo
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
-#EXTINF:-1 tvg-chno="134" tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" group-title="TV",Tennis Channel
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-#EXTINF:-1 tvg-chno="135" tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="TV",The Weather Channel
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/42308.ts
-#EXTINF:-1 tvg-chno="136" tvg-id="TLC.HD.(US).us2" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="TV",TLC
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2594.ts
-#EXTINF:-1 tvg-chno="137" tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="TV",TNT
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-chno="138" tvg-id="truTV.HD.us2" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="TV",truTV
-https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-chno="139" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="TV",TSN1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
-#EXTINF:-1 tvg-chno="140" tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" group-title="TV",TSN2
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
-#EXTINF:-1 tvg-chno="141" tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="TV",Turner Classic Movies
-https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-chno="142" tvg-id="TV.Land.HD.us2" tvg-name="TV Land" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="TV",TV Land
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/614330.ts
-#EXTINF:-1 tvg-chno="143" tvg-id="TV.ONE.HD.us2" tvg-name="TV One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35513_dark_360w_270h.png" group-title="TV",TV One
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21897.ts
-#EXTINF:-1 tvg-chno="144" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="TV",USA Network
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3767.ts
-#EXTINF:-1 tvg-chno="145" tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="TV",VH1
-http://23.237.104.106:8080/USA_VH1/index.m3u8
-#EXTINF:-1 tvg-chno="146" tvg-id="Vice.HD.us2" tvg-name="Vice TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="TV",Vice TV
-http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:-1 tvg-chno="147" tvg-id="WE.tv.HD.us2" tvg-name="We Tv" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="TV",We Tv
-http://23.237.104.106:8080/USA_WE_TV/index.m3u8
-#EXTINF:-1 tvg-chno="148" tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68605_dark_360w_270h.png" group-title="TV",Willow Cricket
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3972.ts
-#EXTINF:-1 tvg-chno="149" tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="TV",YES Network
-http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
 
 ==================================================
