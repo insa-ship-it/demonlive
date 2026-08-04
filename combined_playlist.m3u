@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-08-04T02:44:13.343432 UTC
+# Generated on 2026-08-04T06:04:20.649843 UTC
 
 #PLAYLIST:x ENG-Categories
 #EXTGRP:x ENG-Categories
@@ -4189,62 +4189,16 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2637
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2622
 #EXTINF:-1 tvg-id="KION-DT.us_locals1" tvg-name="CA | Monterey | CBS KION" group-title="ENG - Local CBS",CA | Monterey | CBS KION
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89441
-#EXTINF:-1 tvg-id="KKTV-DT.us_locals1" tvg-name="CO | Colorado Springs | CBS KKTV" group-title="ENG - Local CBS",CO | Colorado Springs | CBS KKTV
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89469
-#EXTINF:-1 tvg-id="KCNC-DT.us_locals1" tvg-name="CO | Denver | CBS KCNC" group-title="ENG - Local CBS",CO | Denver | CBS KCNC
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629109
 #EXTINF:-1 tvg-id="KCNC-DT.us_locals1" tvg-name="CO | Denver | CBS KCNC" group-title="ENG - Local CBS",CO | Denver | CBS KCNC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2644
-#EXTINF:-1 tvg-id="KREX-DT.us_locals1" tvg-name="CO | Grand Junction | CBS KREX" group-title="ENG - Local CBS",CO | Grand Junction | CBS KREX
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629105
-#EXTINF:-1 tvg-id="WFSB-DT.us_locals1" tvg-name="CT | Hartford | CBS WFSB" group-title="ENG - Local CBS",CT | Hartford | CBS WFSB
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2641
 #EXTINF:-1 tvg-id="WFSB-DT.us_locals1" tvg-name="CT | Hartford | CBS WFSB" group-title="ENG - Local CBS",CT | Hartford | CBS WFSB (bkup)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629116
-#EXTINF:-1 tvg-id="WINK-DT.us_locals1" tvg-name="FL | Fort Myers | CBS WINK" group-title="ENG - Local CBS",FL | Fort Myers | CBS WINK
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89486
-#EXTINF:-1 tvg-id="WGFL-DT.us_locals1" tvg-name="FL | Gainesville | CBS WGFL" group-title="ENG - Local CBS",FL | Gainesville | CBS WGFL
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38316
-#EXTINF:-1 tvg-id="WJAX-DT.us_locals1" tvg-name="FL | Jacksonville | CBS WJAX" group-title="ENG - Local CBS",FL | Jacksonville | CBS WJAX
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89490
 #EXTINF:-1 tvg-id="WFOR-DT.us_locals1" tvg-name="FL | Miami | CBS WFOR SD" group-title="ENG - Local CBS",FL | Miami | CBS WFOR SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/695222
-#EXTINF:-1 tvg-id="WFOR-DT.us_locals1" tvg-name="FL | Miami | CBS WFOR UHD" group-title="ENG - Local CBS",FL | Miami | CBS WFOR UHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3619
 #EXTINF:-1 tvg-id="WFOR-DT.us_locals1" tvg-name="FL | Miami | CBS WFOR" group-title="ENG - Local CBS",FL | Miami | CBS WFOR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2636
-#EXTINF:-1 tvg-id="WKMG-DT.us_locals1" tvg-name="FL | Orlando | CBS WKMG" group-title="ENG - Local CBS",FL | Orlando | CBS WKMG
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2630
-#EXTINF:-1 tvg-id="WECP-LD.us_locals1" tvg-name="FL | Panama City | CBS WECP" group-title="ENG - Local CBS",FL | Panama City | CBS WECP
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/86558
-#EXTINF:-1 tvg-id="WTSP-DT.us_locals1" tvg-name="FL | Tampa | CBS WTSP" group-title="ENG - Local CBS",FL | Tampa | CBS WTSP
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2618
-#EXTINF:-1 tvg-id="WPEC-DT.us_locals1" tvg-name="FL | WPB | CBS WPEC" group-title="ENG - Local CBS",FL | WPB | CBS WPEC
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89510
-#EXTINF:-1 tvg-id="WMAZ-DT.us_locals1" tvg-name="GA | Macon | CBS WMAZ" group-title="ENG - Local CBS",GA | Macon | CBS WMAZ
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50913
-#EXTINF:-1 tvg-id="WUPA-DT.us_locals1" tvg-name="GA | Atlanta | CBS WUPA" group-title="ENG - Local CBS",GA | Atlanta | CBS WUPA
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89516
 #EXTINF:-1 tvg-id="WUPA-DT.us_locals1" tvg-name="GA | Atlanta | CBS WUPA " group-title="ENG - Local CBS",GA | Atlanta | CBS WUPA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34430
-#EXTINF:-1 tvg-id="WRDW-DT.us_locals1" tvg-name="GA | Augusta | CBS WRDW" group-title="ENG - Local CBS",GA | Augusta | CBS WRDW
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89519
-#EXTINF:-1 tvg-id="WRBL-DT.us_locals1" tvg-name="GA | Columbus | CBS WRBL" group-title="ENG - Local CBS",GA | Columbus | CBS WRBL
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/640216
-#EXTINF:-1 tvg-id="WTOC-DT.us_locals1" tvg-name="GA | Savannah | CBS WTOC" group-title="ENG - Local CBS",GA | Savannah | CBS WTOC
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89527
-#EXTINF:-1 tvg-id="WCTV-DT.us_locals1" tvg-name="GA | Thomasville | CBS WCTV" group-title="ENG - Local CBS",GA | Thomasville | CBS WCTV
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89529
-#EXTINF:-1 tvg-id="WSWG-DT.us_locals1" tvg-name="GA | Valdosta | CBS WSWG" group-title="ENG - Local CBS",GA | Valdosta | CBS WSWG
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/690940
-#EXTINF:-1 tvg-id="KGMB-DT.us_locals1" tvg-name="HI | Honolulu | CBS KGMB" group-title="ENG - Local CBS",HI | Honolulu | CBS KGMB
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89530
-#EXTINF:-1 tvg-id="KGAN-DT.us_locals1" tvg-name="IA | Cedar Rapids | CBS KGAN" group-title="ENG - Local CBS",IA | Cedar Rapids | CBS KGAN
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89534
-#EXTINF:-1 tvg-id="WHBF-DT.us_locals1" tvg-name="IA | Davenport | CBS WHBF" group-title="ENG - Local CBS",IA | Davenport | CBS WHBF
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89535
-#EXTINF:-1 tvg-id="KCCI-DT.us_locals1" tvg-name="IA | Des Moines | CBS KCCI" group-title="ENG - Local CBS",IA | Des Moines | CBS KCCI
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89539
 #EXTINF:-1 tvg-id="KBOI-DT.us_locals1" tvg-name="ID | Boise | CBS KBOI" group-title="ENG - Local CBS",ID | Boise | CBS KBOI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89545
 #EXTINF:-1 tvg-id="KIFI-DT2.us_locals1" tvg-name="ID | Idaho Falls | CBS KIFI2" group-title="ENG - Local CBS",ID | Idaho Falls | CBS KIFI2
@@ -4519,8 +4473,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89882
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89887
 #EXTINF:-1 tvg-id="KIMA-DT.us_locals1" tvg-name="WA | Yakima | CBS KIMA" group-title="ENG - Local CBS",WA | Yakima | CBS KIMA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512980
-#EXTINF:-1 tvg-id="WUSA-DT.us_locals1" tvg-name="DC | Washington | CBS WUSA" group-title="ENG - Local CBS",DC | Washington | CBS WUSA
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/559692
 #EXTINF:-1 tvg-id="WISC-DT.us_locals1" tvg-name="WI | Madison | CBS WISC" group-title="ENG - Local CBS",WI | Madison | CBS WISC
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/600291
 #EXTINF:-1 tvg-id="WFRV-DT.us_locals1" tvg-name="WI | Green Bay | CBS WFRV" group-title="ENG - Local CBS",WI | Green Bay | CBS WFRV
@@ -4911,7 +4863,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50931
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629101
 #EXTINF:-1 tvg-id="UnivisionKMEX.us" tvg-name="CA | Los Angeles | Univision KMEX" group-title="ESP - Local",CA | Los Angeles | Univision KMEX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4469
-#EXTINF:-1 tvg-id="KUAN-DT.us_locals1" tvg-name="CA | Poway, Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",CA | Poway, Etc. | Telemundo KUAN
+#EXTINF:-1 tvg-id="KUAN-DT.us_locals1" tvg-name="CA | Poway, Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",CA | Poway, Etc. | Telemundo KUAN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89446
 #EXTINF:-1 tvg-id="TelemundoKCSO.us" tvg-name="CA | Sacramento | Telemundo KCSO" group-title="ESP - Local",CA | Sacramento | Telemundo KCSO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89450
@@ -6470,87 +6422,171 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660941
 #EXTINF:-1 tvg-id="That70sShow.us" tvg-name="That 70s Show Sitcom (PC)" group-title="ENG - 24/7",That 70s Show Sitcom (PC)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660940
 
-#GROUP:ENG - Documentary
-#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes" group-title="ENG - Documentary",American Heroes
+#GROUP:ENG - DOC/Lifestyle
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes" group-title="ENG - DOC/Lifestyle",American Heroes
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2663
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet (East) HD" group-title="ENG - Documentary",Animal Planet (East) HD
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet (East) HD" group-title="ENG - DOC/Lifestyle",Animal Planet (East) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2662
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet (East) HD (Alt1)" group-title="ENG - Documentary",Animal Planet (East) HD (Alt1)
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet (East) HD (Alt1)" group-title="ENG - DOC/Lifestyle",Animal Planet (East) HD (Alt1)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3703
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet (East) SD" group-title="ENG - Documentary",Animal Planet (East) SD
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet (East) SD" group-title="ENG - DOC/Lifestyle",Animal Planet (East) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21562
-#EXTINF:-1 tvg-id="AnimalPlanetPacific.us" tvg-name="Animal Planet (West) HD" group-title="ENG - Documentary",Animal Planet (West) HD
+#EXTINF:-1 tvg-id="AnimalPlanetPacific.us" tvg-name="Animal Planet (West) HD" group-title="ENG - DOC/Lifestyle",Animal Planet (West) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2661
-#EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="Crime+Investigation (East)" group-title="ENG - Documentary",Crime+Investigation (East)
+#EXTINF:-1 tvg-id="BeachTVWGSCCD.us" tvg-name="Beach TV - Myrtle Beach" group-title="ENG - DOC/Lifestyle",Beach TV - Myrtle Beach
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/70154
+#EXTINF:-1 tvg-id="KEYTVWCAYCD.us" tvg-name="Beach TV - Key West" group-title="ENG - DOC/Lifestyle",Beach TV - Key West
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/149580
+#EXTINF:-1 tvg-id="BEACHTVWPCTDT.us" tvg-name="Beach TV - Panama City" group-title="ENG - DOC/Lifestyle",Beach TV - Panama City
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/149578
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel HD" group-title="ENG - DOC/Lifestyle",Cooking Channel HD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2605
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel SD" group-title="ENG - DOC/Lifestyle",Cooking Channel SD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97452
+#EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="Crime+Investigation (East)" group-title="ENG - DOC/Lifestyle",Crime+Investigation (East)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/20211
-#EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery (West)" group-title="ENG - Documentary",Discovery (West)
+#EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery (West)" group-title="ENG - DOC/Lifestyle",Discovery (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21555
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery (East) HD" group-title="ENG - Documentary",Discovery (East) HD
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery (East) HD" group-title="ENG - DOC/Lifestyle",Discovery (East) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3718
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery (East) HD (Alt)" group-title="ENG - Documentary",Discovery (East) HD (Alt)
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery (East) HD (Alt)" group-title="ENG - DOC/Lifestyle",Discovery (East) HD (Alt)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3629
-#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="Discovery Life" group-title="ENG - Documentary",Discovery Life
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="Discovery Life" group-title="ENG - DOC/Lifestyle",Discovery Life
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2597
-#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="Discovery Life (Alt)" group-title="ENG - Documentary",Discovery Life (Alt)
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="Discovery Life (Alt)" group-title="ENG - DOC/Lifestyle",Discovery Life (Alt)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3858
-#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science HD" group-title="ENG - Documentary",Discovery Science HD
+#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science HD" group-title="ENG - DOC/Lifestyle",Discovery Science HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2595
-#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science FHD" group-title="ENG - Documentary",Discovery Science FHD
+#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science FHD" group-title="ENG - DOC/Lifestyle",Discovery Science FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3757
-#EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery (West)(Alt)" group-title="ENG - Documentary",Discovery (West)(Alt)
+#EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery (West)(Alt)" group-title="ENG - DOC/Lifestyle",Discovery (West)(Alt)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3826
-#EXTINF:-1 tvg-id="EarthX.us2" tvg-name="EarthX FHD" group-title="ENG - Documentary",EarthX FHD
+#EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="Magnolia Network (East) FHD" group-title="ENG - DOC/Lifestyle",Magnolia Network (East) FHD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3722
+#EXTINF:-1 tvg-id="EarthX.us2" tvg-name="EarthX FHD" group-title="ENG - DOC/Lifestyle",EarthX FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647788
-#EXTINF:-1 tvg-id="History.us" tvg-name="History (East) HD" group-title="ENG - Documentary",History (East) HD
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network (East) SD" group-title="ENG - DOC/Lifestyle",Food Network (East) SD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21568
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network (East) HD" group-title="ENG - DOC/Lifestyle",Food Network (East) HD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3729
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network (East) FHD" group-title="ENG - DOC/Lifestyle",Food Network (East) FHD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3644
+#EXTINF:-1 tvg-id="FoodNetworkPacific.us" tvg-name="Food Network (West)" group-title="ENG - DOC/Lifestyle",Food Network (West)
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3831
+#EXTINF:-1 tvg-id="Gusto.us" tvg-name="GUSTO" group-title="ENG - DOC/Lifestyle",GUSTO
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/333487
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV (East) SD" group-title="ENG - DOC/Lifestyle",HGTV (East) SD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21596
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV (East) HD" group-title="ENG - DOC/Lifestyle",HGTV (East) HD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2489
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV (East) FHD" group-title="ENG - DOC/Lifestyle",HGTV (East) FHD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3743
+#EXTINF:-1 tvg-id="HGTVPacific.us" tvg-name="HGTV (West) FHD" group-title="ENG - DOC/Lifestyle",HGTV (West) FHD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3836
+#EXTINF:-1 tvg-id="History.us" tvg-name="History (East) HD" group-title="ENG - DOC/Lifestyle",History (East) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/645913
-#EXTINF:-1 tvg-id="History.us" tvg-name="History (East) FHD" group-title="ENG - Documentary",History (East) FHD
+#EXTINF:-1 tvg-id="History.us" tvg-name="History (East) FHD" group-title="ENG - DOC/Lifestyle",History (East) FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3657
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID (East) SD" group-title="ENG - Documentary",ID (East) SD
+#EXTINF:-1 tvg-id="Home.Shopping.Network.us2" tvg-name="HSN" group-title="ENG - DOC/Lifestyle",HSN
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/469940
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID (East) SD" group-title="ENG - DOC/Lifestyle",ID (East) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21559
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID (East) HD" group-title="ENG - Documentary",ID (East) HD
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID (East) HD" group-title="ENG - DOC/Lifestyle",ID (East) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3745
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID (East) FHD" group-title="ENG - Documentary",ID (East) FHD
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID (East) FHD" group-title="ENG - DOC/Lifestyle",ID (East) FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3633
-#EXTINF:-1 tvg-id="InvestigationDiscoveryPacific.us" tvg-name="ID (West) HD" group-title="ENG - Documentary",ID (West) HD
+#EXTINF:-1 tvg-id="InvestigationDiscoveryPacific.us" tvg-name="ID (West) HD" group-title="ENG - DOC/Lifestyle",ID (West) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3837
-#EXTINF:-1 tvg-id="LawAndCrime.us" tvg-name="Law And Crime FHD" group-title="ENG - Documentary",Law And Crime FHD
+#EXTINF:-1 tvg-id="Jewelry.Television.us2" tvg-name="Jewelry Television" group-title="ENG - DOC/Lifestyle",Jewelry Television
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/508115
+#EXTINF:-1 tvg-id="LawAndCrime.us" tvg-name="Law And Crime FHD" group-title="ENG - DOC/Lifestyle",Law And Crime FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2483
-#EXTINF:-1 tvg-id="MilitaryHistoryChannel.us" tvg-name="Military History HD" group-title="ENG - Documentary",Military History HD
+#EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network (East) HD" group-title="ENG - DOC/Lifestyle",Magnolia Network (East) HD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647791
+#EXTINF:-1 tvg-id="MilitaryHistoryChannel.us" tvg-name="Military History HD" group-title="ENG - DOC/Lifestyle",Military History HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470622
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="NatGeo (East) SD" group-title="ENG - Documentary",NatGeo (East) SD
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="NatGeo (East) SD" group-title="ENG - DOC/Lifestyle",NatGeo (East) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21575
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="NatGeo (East) HD" group-title="ENG - Documentary",NatGeo (East) HD
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="NatGeo (East) HD" group-title="ENG - DOC/Lifestyle",NatGeo (East) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3750
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="NatGeo (East) HD (Alt)" group-title="ENG - Documentary",NatGeo (East) HD (Alt)
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="NatGeo (East) HD (Alt)" group-title="ENG - DOC/Lifestyle",NatGeo (East) HD (Alt)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3665
-#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="NatGeo Wild HD" group-title="ENG - Documentary",NatGeo Wild HD
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="NatGeo Wild HD" group-title="ENG - DOC/Lifestyle",NatGeo Wild HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3749
-#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="NatGeo Wild SD" group-title="ENG - Documentary",NatGeo Wild SD
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="NatGeo Wild SD" group-title="ENG - DOC/Lifestyle",NatGeo Wild SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21614
-#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="NatGeo Wild HD (Alt)" group-title="ENG - Documentary",NatGeo Wild HD (Alt)
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="NatGeo Wild HD (Alt)" group-title="ENG - DOC/Lifestyle",NatGeo Wild HD (Alt)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3666
-#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen (East) HD" group-title="ENG - Documentary",Oxygen (East) HD
+#EXTINF:-1 tvg-id="plex.tv.LX.Home.Streaming.plex" tvg-name="NBC LX Home FHD" group-title="ENG - DOC/Lifestyle",NBC LX Home FHD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660933
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen (East) HD" group-title="ENG - DOC/Lifestyle",Oxygen (East) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3756
-#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="Oxygen (East) HD (Alt)" group-title="ENG - Documentary",Oxygen (East) HD (Alt)
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="Oxygen (East) HD (Alt)" group-title="ENG - DOC/Lifestyle",Oxygen (East) HD (Alt)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3676
-#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science SD" group-title="ENG - Documentary",Discovery Science SD
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC" group-title="ENG - DOC/Lifestyle",QVC
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/36743
+#EXTINF:-1 tvg-id="QVC2.us2" tvg-name="QVC 2" group-title="ENG - DOC/Lifestyle",QVC 2
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77770
+#EXTINF:-1 tvg-id="QVC3.us2" tvg-name="QVC 3 SHD" group-title="ENG - DOC/Lifestyle",QVC 3 SHD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647411
+#EXTINF:-1 tvg-id="RecipeTV.us" tvg-name="Recipe.TV" group-title="ENG - DOC/Lifestyle",Recipe.TV
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631869
+#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Discovery Science SD" group-title="ENG - DOC/Lifestyle",Discovery Science SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97480
-#EXTINF:-1 tvg-id="SmithsonianNetworkPacific.us" tvg-name="Smithsonian (West) SD" group-title="ENG - Documentary",Smithsonian (West) SD
+#EXTINF:-1 tvg-id="Shop.LC.us2" tvg-name="Shop LC" group-title="ENG - DOC/Lifestyle",Shop LC
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/663925
+#EXTINF:-1 tvg-id="SmithsonianNetworkPacific.us" tvg-name="Smithsonian (West) SD" group-title="ENG - DOC/Lifestyle",Smithsonian (West) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97481
-#EXTINF:-1 tvg-id="SmithsonianNetwork.us" tvg-name="Smithsonian (East) FHD" group-title="ENG - Documentary",Smithsonian (East) FHD
+#EXTINF:-1 tvg-id="SmithsonianNetwork.us" tvg-name="Smithsonian (East) FHD" group-title="ENG - DOC/Lifestyle",Smithsonian (East) FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3812
-#EXTINF:-1 tvg-id="SmithsonianNetwork.us" tvg-name="Smithsonian (East) FHD" group-title="ENG - Documentary",Smithsonian (East) FHD
+#EXTINF:-1 tvg-id="SmithsonianNetwork.us" tvg-name="Smithsonian (East) FHD" group-title="ENG - DOC/Lifestyle",Smithsonian (East) FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2414
-#EXTINF:-1 tvg-id="SmithsonianNetworkPacific.us" tvg-name="Smithsonian (West) HD" group-title="ENG - Documentary",Smithsonian (West) HD
+#EXTINF:-1 tvg-id="SmithsonianNetworkPacific.us" tvg-name="Smithsonian (West) HD" group-title="ENG - DOC/Lifestyle",Smithsonian (West) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631865
-#EXTINF:-1 tvg-id="NationalGeographicWild.ca" tvg-name="NatGeo Wild Canada" group-title="ENG - Documentary",NatGeo Wild Canada
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade FHD" group-title="ENG - DOC/Lifestyle",Tastemade FHD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2405
+#EXTINF:-1 tvg-id="TastemadeHome.us" tvg-name="Tastemade Home" group-title="ENG - DOC/Lifestyle",Tastemade Home
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/663939
+#EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-name="Tastemade Travel" group-title="ENG - DOC/Lifestyle",Tastemade Travel
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/663940
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel (East) HD" group-title="ENG - DOC/Lifestyle",Travel (East) HD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3765
+#EXTINF:-1 tvg-id="TheTravelChannelPacific.us" tvg-name="Travel (West) HD" group-title="ENG - DOC/Lifestyle",Travel (West) HD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3845
+#EXTINF:-1 tvg-id="TheTravelChannelPacific.us" tvg-name="Travel (West) SD" group-title="ENG - DOC/Lifestyle",Travel (West) SD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21610
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel (East) FHD" group-title="ENG - DOC/Lifestyle",Travel (East) FHD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2383
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel (East) HD (Alt)" group-title="ENG - DOC/Lifestyle",Travel (East) HD (Alt)
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3687
+#EXTINF:-1 tvg-id="NationalGeographicWild.ca" tvg-name="NatGeo Wild Canada" group-title="ENG - DOC/Lifestyle",NatGeo Wild Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/92712
-#EXTINF:-1 tvg-id="SmithsonianChannel.ca" tvg-name="Smithsonian Canada" group-title="ENG - Documentary",Smithsonian Canada
+#EXTINF:-1 tvg-id="SmithsonianChannel.ca" tvg-name="Smithsonian Canada" group-title="ENG - DOC/Lifestyle",Smithsonian Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88794
-#EXTINF:-1 tvg-id="NationalGeographicWild.ca" tvg-name="NatGeo Wild Canada (Alt)" group-title="ENG - Documentary",NatGeo Wild Canada (Alt)
+#EXTINF:-1 tvg-id="SuperChannelHeartandHome.ca" tvg-name="Super Channel Heart & Home" group-title="ENG - DOC/Lifestyle",Super Channel Heart & Home
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88024
+#EXTINF:-1 tvg-id="T+E.ca" tvg-name="T+E (Travel+Escape)" group-title="ENG - DOC/Lifestyle",T+E (Travel+Escape)
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647748
+#EXTINF:-1 tvg-id="NationalGeographicWild.ca" tvg-name="NatGeo Wild Canada (Alt)" group-title="ENG - DOC/Lifestyle",NatGeo Wild Canada (Alt)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3058
-#EXTINF:-1 tvg-id="History.ca" tvg-name="History Canada" group-title="ENG - Documentary",History Canada
+#EXTINF:-1 tvg-id="TodaysShoppingChoice.ca" tvg-name="Todays Shopping Choice" group-title="ENG - DOC/Lifestyle",Todays Shopping Choice
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3075
+#EXTINF:-1 tvg-id="FlavourNetwork.ca" tvg-name="Flavour Network Canada (R)" group-title="ENG - DOC/Lifestyle",Flavour Network Canada (R)
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3080
+#EXTINF:-1 tvg-id="MagnoliaNetwork.ca" tvg-name="Magnolia Network Canada" group-title="ENG - DOC/Lifestyle",Magnolia Network Canada
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3086
+#EXTINF:-1 tvg-id="MakefulTV.ca" tvg-name="Makeful" group-title="ENG - DOC/Lifestyle",Makeful
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3096
+#EXTINF:-1 tvg-id="History.ca" tvg-name="History Canada" group-title="ENG - DOC/Lifestyle",History Canada
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3099
+#EXTINF:-1 tvg-id="HomeNetwork.ca" tvg-name="Home Network Canada" group-title="ENG - DOC/Lifestyle",Home Network Canada
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3100
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel FHD" group-title="ENG - DOC/Lifestyle",Cooking Channel FHD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3259
+#EXTINF:-1 tvg-id="TodaysShoppingChoice.ca" tvg-name="Todays Shopping Channel (B)" group-title="ENG - DOC/Lifestyle",Todays Shopping Channel (B)
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3293
+#EXTINF:-1 tvg-id="T+E.ca" tvg-name="T+E (Travel+Escape) (Alt)" group-title="ENG - DOC/Lifestyle",T+E (Travel+Escape) (Alt)
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3296
 
 #GROUP:ENG - Music Videos
 #EXTINF:-1 tvg-id="AXS.TV.us2" tvg-name="AXS TV" group-title="ENG - Music Videos",AXS TV
@@ -6685,76 +6721,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629903
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629904
 #EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-name="MTV Live HD" group-title="ENG - Music Videos",MTV Live HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4263
-
-#GROUP:ENG - Lifestyle
-#EXTINF:-1 tvg-id="BeachTVWGSCCD.us" tvg-name="Beach TV - Myrtle Beach" group-title="ENG - Lifestyle",Beach TV - Myrtle Beach
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/70154
-#EXTINF:-1 tvg-id="KEYTVWCAYCD.us" tvg-name="Beach TV - Key West" group-title="ENG - Lifestyle",Beach TV - Key West
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/149580
-#EXTINF:-1 tvg-id="BEACHTVWPCTDT.us" tvg-name="Beach TV - Panama City" group-title="ENG - Lifestyle",Beach TV - Panama City
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/149578
-#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel HD" group-title="ENG - Lifestyle",Cooking Channel HD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2605
-#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel SD" group-title="ENG - Lifestyle",Cooking Channel SD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97452
-#EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="Magnolia Network (East) FHD" group-title="ENG - Lifestyle",Magnolia Network (East) FHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3722
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network (East) SD" group-title="ENG - Lifestyle",Food Network (East) SD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21568
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network (East) HD" group-title="ENG - Lifestyle",Food Network (East) HD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3729
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network (East) FHD" group-title="ENG - Lifestyle",Food Network (East) FHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3644
-#EXTINF:-1 tvg-id="FoodNetworkPacific.us" tvg-name="Food Network (West)" group-title="ENG - Lifestyle",Food Network (West)
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3831
-#EXTINF:-1 tvg-id="Gusto.us" tvg-name="GUSTO" group-title="ENG - Lifestyle",GUSTO
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/333487
-#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV (East) SD" group-title="ENG - Lifestyle",HGTV (East) SD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21596
-#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV (East) HD" group-title="ENG - Lifestyle",HGTV (East) HD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2489
-#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV (East) FHD" group-title="ENG - Lifestyle",HGTV (East) FHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3743
-#EXTINF:-1 tvg-id="HGTVPacific.us" tvg-name="HGTV (West) FHD" group-title="ENG - Lifestyle",HGTV (West) FHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3836
-#EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network (East) HD" group-title="ENG - Lifestyle",Magnolia Network (East) HD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647791
-#EXTINF:-1 tvg-id="plex.tv.LX.Home.Streaming.plex" tvg-name="NBC LX Home FHD" group-title="ENG - Lifestyle",NBC LX Home FHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660933
-#EXTINF:-1 tvg-id="RecipeTV.us" tvg-name="Recipe.TV" group-title="ENG - Lifestyle",Recipe.TV
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631869
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade FHD" group-title="ENG - Lifestyle",Tastemade FHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2405
-#EXTINF:-1 tvg-id="TastemadeHome.us" tvg-name="Tastemade Home" group-title="ENG - Lifestyle",Tastemade Home
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/663939
-#EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-name="Tastemade Travel" group-title="ENG - Lifestyle",Tastemade Travel
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/663940
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel (East) HD" group-title="ENG - Lifestyle",Travel (East) HD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3765
-#EXTINF:-1 tvg-id="TheTravelChannelPacific.us" tvg-name="Travel (West) HD" group-title="ENG - Lifestyle",Travel (West) HD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3845
-#EXTINF:-1 tvg-id="TheTravelChannelPacific.us" tvg-name="Travel (West) SD" group-title="ENG - Lifestyle",Travel (West) SD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21610
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel (East) FHD" group-title="ENG - Lifestyle",Travel (East) FHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2383
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel (East) HD (Alt)" group-title="ENG - Lifestyle",Travel (East) HD (Alt)
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3687
-#EXTINF:-1 tvg-id="SuperChannelHeartandHome.ca" tvg-name="Super Channel Heart & Home" group-title="ENG - Lifestyle",Super Channel Heart & Home
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88024
-#EXTINF:-1 tvg-id="T+E.ca" tvg-name="T+E (Travel+Escape)" group-title="ENG - Lifestyle",T+E (Travel+Escape)
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647748
-#EXTINF:-1 tvg-id="FlavourNetwork.ca" tvg-name="Flavour Network Canada (R)" group-title="ENG - Lifestyle",Flavour Network Canada (R)
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3080
-#EXTINF:-1 tvg-id="MagnoliaNetwork.ca" tvg-name="Magnolia Network Canada" group-title="ENG - Lifestyle",Magnolia Network Canada
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3086
-#EXTINF:-1 tvg-id="MakefulTV.ca" tvg-name="Makeful" group-title="ENG - Lifestyle",Makeful
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3096
-#EXTINF:-1 tvg-id="HomeNetwork.ca" tvg-name="Home Network Canada" group-title="ENG - Lifestyle",Home Network Canada
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3100
-#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel FHD" group-title="ENG - Lifestyle",Cooking Channel FHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3259
-#EXTINF:-1 tvg-id="T+E.ca" tvg-name="T+E (Travel+Escape) (Alt)" group-title="ENG - Lifestyle",T+E (Travel+Escape) (Alt)
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3296
 
 #GROUP:ESP - Deportes
 #EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="Bein Sports en Espanol UHD" group-title="ESP - Deportes",Bein Sports en Espanol UHD
@@ -6950,24 +6916,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4279
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="MX Studio Universal HD" group-title="ESP - Películas",MX Studio Universal HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4282
 
-#GROUP:Shopping
-#EXTINF:-1 tvg-id="Home.Shopping.Network.us2" tvg-name="HSN" group-title="Shopping",HSN
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/469940
-#EXTINF:-1 tvg-id="Jewelry.Television.us2" tvg-name="Jewelry Television" group-title="Shopping",Jewelry Television
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/508115
-#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC" group-title="Shopping",QVC
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/36743
-#EXTINF:-1 tvg-id="QVC2.us2" tvg-name="QVC 2" group-title="Shopping",QVC 2
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/77770
-#EXTINF:-1 tvg-id="QVC3.us2" tvg-name="QVC 3 SHD" group-title="Shopping",QVC 3 SHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647411
-#EXTINF:-1 tvg-id="Shop.LC.us2" tvg-name="Shop LC" group-title="Shopping",Shop LC
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/663925
-#EXTINF:-1 tvg-id="TodaysShoppingChoice.ca" tvg-name="Todays Shopping Choice" group-title="Shopping",Todays Shopping Choice
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3075
-#EXTINF:-1 tvg-id="TodaysShoppingChoice.ca" tvg-name="Todays Shopping Channel (B)" group-title="Shopping",Todays Shopping Channel (B)
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3293
-
 #GROUP:ESP - Hijos y familia
 #EXTINF:-1 tvg-id="BabyTV.mx" tvg-name="Baby TV" group-title="ESP - Hijos y familia",Baby TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40642
@@ -6985,7 +6933,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4215
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4271
 
 #GROUP:ESP - Música
-#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",MTV TR3S
+#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",MTV TR3S
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40623
 #EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Mexicana" group-title="ESP - Música",MC Video | Mexicana
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42090
