@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-08-09T01:53:37.871012 UTC
+# Generated on 2026-08-09T03:45:11.258496 UTC
 
 #PLAYLIST:x ENG-Categories
 #EXTGRP:x ENG-Categories
@@ -9121,12 +9121,6 @@ http://mains.services/live/tmo247line/65s4d64vgfdfbae4/91054f69-23c7-4571-bee8-f
 
 ==================================================
 
-#PLAYLIST:x power
-#EXTGRP:x power
-
-
-==================================================
-
 #PLAYLIST:x events
 #EXTGRP:x events
 
@@ -9191,18 +9185,6 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="PPV Event 21" group-title="ENG - Live Events",PPV Event 21
 http://example.com/stream
-
-
-==================================================
-
-#PLAYLIST:x liveeventsfilter
-#EXTGRP:x liveeventsfilter
-
-
-==================================================
-
-#PLAYLIST:x Roxiestreams
-#EXTGRP:x Roxiestreams
 
 
 ==================================================
