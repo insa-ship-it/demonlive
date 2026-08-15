@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-08-15T22:24:05.243597 UTC
+# Generated on 2026-08-15T23:48:28.444532 UTC
 
 #PLAYLIST:x ENG-Categories
 #EXTGRP:x ENG-Categories
@@ -161,6 +161,12 @@ https://mthrbord.tv/hls/0/stream.m3u8
 #GROUP:Ambiance
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Nonstop Rain for Calming Vibes" group-title="Ambiance",Nonstop Rain for Calming Vibes
 https://rumble.com/live-hls-dvr/78pg2i/playlist.m3u8?
+
+
+==================================================
+
+#PLAYLIST:x liveeventsfilter
+#EXTGRP:x liveeventsfilter
 
 
 ==================================================
