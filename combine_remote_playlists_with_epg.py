@@ -7,7 +7,7 @@ import re
 PLAYLISTS = [
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/ENG-Categories.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/direct.m3u8", 
-    "", 
+    "https://github.com/insa-ship-it/sports/raw/refs/heads/main/liveeventsfilter.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/abcbluenetwork.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/columbiabroadcasting.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/foxnet.m3u8", 
