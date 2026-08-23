@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-08-23T01:27:06.927194 UTC
+# Generated on 2026-08-23T03:04:09.235539 UTC
 
 #PLAYLIST:x ENG-Categories
 #EXTGRP:x ENG-Categories
@@ -5013,8 +5013,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401197
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/469939
 #EXTINF:-1 tvg-id="StartTV.us" tvg-name="Start TV HD (Alt)" group-title="ENG - Entertainment",Start TV HD (Alt)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597289
-#EXTINF:-1 tvg-id="TBSPacific.us" tvg-name="TBS (West) HD" group-title="ENG - Entertainment",TBS (West) HD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631881
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SundanceTV (East) FHD" group-title="ENG - Entertainment",SundanceTV (East) FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2408
 #EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV (East) FHD (Alt)" group-title="ENG - Entertainment",SundanceTV (East) FHD (Alt)
@@ -5025,12 +5023,16 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21579
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2407
 #EXTINF:-1 tvg-id="Syfy.us" tvg-name="Syfy (East) HD (Alt)" group-title="ENG - Entertainment",Syfy (East) HD (Alt)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3760
+#EXTINF:-1 tvg-id="TBSPacific.us" tvg-name="TBS (West) SD" group-title="ENG - Entertainment",TBS (West) SD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21606
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS (East) HD" group-title="ENG - Entertainment",TBS (East) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2404
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS (East) HD (Alt1)" group-title="ENG - Entertainment",TBS (East) HD (Alt1)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3761
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS (East) FHD" group-title="ENG - Entertainment",TBS (East) FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3684
+#EXTINF:-1 tvg-id="TBSPacific.us" tvg-name="TBS (West) HD" group-title="ENG - Entertainment",TBS (West) HD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3842
 #EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-name="The Film Detective SD" group-title="ENG - Entertainment",The Film Detective SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401203
 #EXTINF:-1 tvg-id="TheGrio.us" tvg-name="The Grio HD" group-title="ENG - Entertainment",The Grio HD
@@ -5051,9 +5053,9 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21557
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3764
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT (East) HD (Alt1)" group-title="ENG - Entertainment",TNT (East) HD (Alt1)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3683
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT (East) HD (Alt2)" group-title="ENG - Entertainment",TNT (East) HD (Alt2)
+#EXTINF:-1 tvg-id="TNTPacific.us" tvg-name="TNT (West) HD" group-title="ENG - Entertainment",TNT (West) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3844
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT (East) HD (Alt3)" group-title="ENG - Entertainment",TNT (East) HD (Alt3)
+#EXTINF:-1 tvg-id="TNTPacific.us" tvg-name="TNT (West) HD (Alt)" group-title="ENG - Entertainment",TNT (West) HD (Alt)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2384
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV (East) SD" group-title="ENG - Entertainment",truTV (East) SD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21611
@@ -5829,8 +5831,14 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97561
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3951
 #EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="Starz in Black (East) SHD" group-title="ENG - Movies",Starz in Black (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3962
+#EXTINF:-1 tvg-id="StarzinBlackPacific.us" tvg-name="Starz in Black (West) " group-title="ENG - Movies",Starz in Black (West)
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631880
+#EXTINF:-1 tvg-id="StarzinBlackPacific.us" tvg-name="Starz In Black (West) SHD" group-title="ENG - Movies",Starz In Black (West) SHD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/649402
 #EXTINF:-1 tvg-id="StarzKids.us" tvg-name="Starz Kids & Family (East) SHD" group-title="ENG - Movies",Starz Kids & Family (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3956
+#EXTINF:-1 tvg-id="StarzKidsPacific.us" tvg-name="Starz Kids & Family (West)" group-title="ENG - Movies",Starz Kids & Family (West)
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631881
 #EXTINF:-1 tvg-id="StarzPacific.us" tvg-name="Starz (West) HD" group-title="ENG - Movies",Starz (West) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3963
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="TCM (East)" group-title="ENG - Movies",TCM (East)
@@ -6284,138 +6292,168 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3293
 #EXTINF:-1 tvg-id="T+E.ca" tvg-name="T+E (Travel+Escape) (Alt)" group-title="ENG - DOC/Lifestyle",T+E (Travel+Escape) (Alt)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3296
 
-#GROUP:ENG - Music Videos
-#EXTINF:-1 tvg-id="AXS.TV.us2" tvg-name="AXS TV" group-title="ENG - Music Videos",AXS TV
+#GROUP:Music (All Lang)
+#EXTINF:-1 tvg-id="AXS.TV.us2" tvg-name="AXS TV" group-title="Music (All Lang)",AXS TV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42309
-#EXTINF:-1 tvg-id="BET.GOSPEL.us2" tvg-name="BET Gospel" group-title="ENG - Music Videos",BET Gospel
+#EXTINF:-1 tvg-id="BET.GOSPEL.us2" tvg-name="BET Gospel" group-title="Music (All Lang)",BET Gospel
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42491
-#EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams" group-title="ENG - Music Videos",BET Jams
+#EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams" group-title="Music (All Lang)",BET Jams
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3947
-#EXTINF:-1 tvg-id="BET.Soul.us2" tvg-name="BET SOUL SHD" group-title="ENG - Music Videos",BET SOUL SHD
+#EXTINF:-1 tvg-id="BET.Soul.us2" tvg-name="BET SOUL SHD" group-title="Music (All Lang)",BET SOUL SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3948
-#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic (East) SHD" group-title="ENG - Music Videos",MTV Classic (East) SHD
+#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="Music (All Lang)",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",MTV TR3S
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40623
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic (East) SHD" group-title="Music (All Lang)",MTV Classic (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/649014
-#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic (East) UHD" group-title="ENG - Music Videos",MTV Classic (East) UHD
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic (East) UHD" group-title="Music (All Lang)",MTV Classic (East) UHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/57969
-#EXTINF:-1 tvg-id="MTVClassicPacific.us" tvg-name="MTV Classic (West)" group-title="ENG - Music Videos",MTV Classic (West)
+#EXTINF:-1 tvg-id="MTVClassicPacific.us" tvg-name="MTV Classic (West)" group-title="Music (All Lang)",MTV Classic (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631838
-#EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-name="MTV Live" group-title="ENG - Music Videos",MTV Live
+#EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-name="MTV Live" group-title="Music (All Lang)",MTV Live
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/57970
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | '70s" group-title="ENG - Music Videos",MC Video | '70s
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | '70s" group-title="Music (All Lang)",MC Video | '70s
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647315
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | 90's" group-title="ENG - Music Videos",MC Video | 90's
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | 90's" group-title="Music (All Lang)",MC Video | 90's
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42078
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Adult Alternative" group-title="ENG - Music Videos",MC Video | Adult Alternative
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Adult Alternative" group-title="Music (All Lang)",MC Video | Adult Alternative
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647296
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Alternative" group-title="ENG - Music Videos",MC Video | Alternative
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Alternative" group-title="Music (All Lang)",MC Video | Alternative
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42092
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Brits + Hits" group-title="ENG - Music Videos",MC Video | Brits + Hits
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Brits + Hits" group-title="Music (All Lang)",MC Video | Brits + Hits
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42084
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Classic Country" group-title="ENG - Music Videos",MC Video | Classic Country
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Classic Country" group-title="Music (All Lang)",MC Video | Classic Country
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647320
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Classic Rock" group-title="ENG - Music Videos",MC Video | Classic Rock
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Classic Rock" group-title="Music (All Lang)",MC Video | Classic Rock
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647298
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Country Hits" group-title="ENG - Music Videos",MC Video | Country Hits
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Country Hits" group-title="Music (All Lang)",MC Video | Country Hits
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647319
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Dance/ EDM" group-title="ENG - Music Videos",MC Video | Dance/ EDM
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Dance/ EDM" group-title="Music (All Lang)",MC Video | Dance/ EDM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42082
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Gospel" group-title="ENG - Music Videos",MC Video | Gospel
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Gospel" group-title="Music (All Lang)",MC Video | Gospel
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647294
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Hip-Hop and R&B" group-title="ENG - Music Videos",MC Video | Hip-Hop and R&B
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Hip-Hop and R&B" group-title="Music (All Lang)",MC Video | Hip-Hop and R&B
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42073
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Hip-Hop Classics" group-title="ENG - Music Videos",MC Video | Hip-Hop Classics
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Hip-Hop Classics" group-title="Music (All Lang)",MC Video | Hip-Hop Classics
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647292
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Hit List" group-title="ENG - Music Videos",MC Video | Hit List
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Hit List" group-title="Music (All Lang)",MC Video | Hit List
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42072
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Holiday Hits" group-title="ENG - Music Videos",MC Video | Holiday Hits
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Holiday Hits" group-title="Music (All Lang)",MC Video | Holiday Hits
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42069
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Holiday Yule Logs" group-title="ENG - Music Videos",MC Video | Holiday Yule Logs
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Holiday Yule Logs" group-title="Music (All Lang)",MC Video | Holiday Yule Logs
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42070
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Indie" group-title="ENG - Music Videos",MC Video | Indie
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Indie" group-title="Music (All Lang)",MC Video | Indie
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42093
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Love Songs" group-title="ENG - Music Videos",MC Video | Love Songs
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Love Songs" group-title="Music (All Lang)",MC Video | Love Songs
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647300
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Metal" group-title="ENG - Music Videos",MC Video | Metal
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Metal" group-title="Music (All Lang)",MC Video | Metal
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42091
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Music Choice Max" group-title="ENG - Music Videos",MC Video | Music Choice Max
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Mexicana" group-title="Music (All Lang)",MC Video | Mexicana
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42090
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Music Choice Max" group-title="Music (All Lang)",MC Video | Music Choice Max
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38042
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Party Favorites" group-title="ENG - Music Videos",MC Video | Party Favorites
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Musica Urbana" group-title="Music (All Lang)",MC Video | Musica Urbana
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38043
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Party Favorites" group-title="Music (All Lang)",MC Video | Party Favorites
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647312
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Pop & Country" group-title="ENG - Music Videos",MC Video | Pop & Country
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Pop & Country" group-title="Music (All Lang)",MC Video | Pop & Country
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42077
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Pop Hits" group-title="ENG - Music Videos",MC Video | Pop Hits
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Pop Hits" group-title="Music (All Lang)",MC Video | Pop Hits
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42076
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | R&B" group-title="ENG - Music Videos",MC Video | R&B
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Pop Latino" group-title="Music (All Lang)",MC Video | Pop Latino
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42085
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | R&B" group-title="Music (All Lang)",MC Video | R&B
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42079
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | R&B Classics" group-title="ENG - Music Videos",MC Video | R&B Classics
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | R&B Classics" group-title="Music (All Lang)",MC Video | R&B Classics
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647293
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | R&B Soul" group-title="ENG - Music Videos",MC Video | R&B Soul
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | R&B Soul" group-title="Music (All Lang)",MC Video | R&B Soul
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42081
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Rap" group-title="ENG - Music Videos",MC Video | Rap
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Rap" group-title="Music (All Lang)",MC Video | Rap
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42086
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Rap 2K" group-title="ENG - Music Videos",MC Video | Rap 2K
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Rap 2K" group-title="Music (All Lang)",MC Video | Rap 2K
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42088
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Reggae" group-title="ENG - Music Videos",MC Video | Reggae
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Reggae" group-title="Music (All Lang)",MC Video | Reggae
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647295
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Rock" group-title="ENG - Music Videos",MC Video | Rock
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Rock" group-title="Music (All Lang)",MC Video | Rock
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42080
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Rock Hits" group-title="ENG - Music Videos",MC Video | Rock Hits
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Rock Hits" group-title="Music (All Lang)",MC Video | Rock Hits
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647297
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Romances" group-title="ENG - Music Videos",MC Video | Romances
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Romances" group-title="Music (All Lang)",MC Video | Romances
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647322
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Soft Rock" group-title="ENG - Music Videos",MC Video | Soft Rock
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Soft Rock" group-title="Music (All Lang)",MC Video | Soft Rock
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647299
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Solid Gold Oldies" group-title="ENG - Music Videos",MC Video | Solid Gold Oldies
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Solid Gold Oldies" group-title="Music (All Lang)",MC Video | Solid Gold Oldies
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647316
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Soundscape" group-title="ENG - Music Videos",MC Video | Soundscape
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Soundscape" group-title="Music (All Lang)",MC Video | Soundscape
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647325
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Tailgate Party" group-title="ENG - Music Videos",MC Video | Tailgate Party
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Tailgate Party" group-title="Music (All Lang)",MC Video | Tailgate Party
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42071
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Throwback Jamz" group-title="ENG - Music Videos",MC Video | Throwback Jamz
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Throwback Jamz" group-title="Music (All Lang)",MC Video | Throwback Jamz
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42087
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Today's Country" group-title="ENG - Music Videos",MC Video | Today's Country
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Today's Country" group-title="Music (All Lang)",MC Video | Today's Country
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647318
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Today's Country: CMA Awards" group-title="ENG - Music Videos",MC Video | Today's Country: CMA Awards
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Today's Country: CMA Awards" group-title="Music (All Lang)",MC Video | Today's Country: CMA Awards
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42075
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Tropicales" group-title="ENG - Music Videos",MC Video | Tropicales
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Tropicales" group-title="Music (All Lang)",MC Video | Tropicales
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42089
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Y2K" group-title="ENG - Music Videos",MC Video | Y2K
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Y2K" group-title="Music (All Lang)",MC Video | Y2K
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42083
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Real Music Pop Music" group-title="ENG - Music Videos",Real Music Pop Music
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | '80s" group-title="Music (All Lang)",MC | '80s
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647314
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Blues" group-title="Music (All Lang)",MC | Blues
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647328
+#EXTINF:-1 tvg-name="MC | Classical Masterpieces" group-title="Music (All Lang)",MC | Classical Masterpieces
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647336
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Contemporary Christians" group-title="Music (All Lang)",MC | Contemporary Christians
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647321
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Easy Listening" group-title="Music (All Lang)",MC | Easy Listening
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647335
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Jazz" group-title="Music (All Lang)",MC | Jazz
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647327
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Light Classical" group-title="Music (All Lang)",MC | Light Classical
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647337
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Singers & Swing" group-title="Music (All Lang)",MC | Singers & Swing
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647329
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Smooth Jazz" group-title="Music (All Lang)",MC | Smooth Jazz
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647326
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Sound of the Season" group-title="Music (All Lang)",MC | Sound of the Season
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647323
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Stage & Screen: Sunday at the Movies" group-title="Music (All Lang)",MC | Stage & Screen: Sunday at the Movies
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647324
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Real Music Pop Music" group-title="Music (All Lang)",Real Music Pop Music
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/74697
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Real Music Rap Modern 2020" group-title="ENG - Music Videos",Real Music Rap Modern 2020
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Real Music Rap Modern 2020" group-title="Music (All Lang)",Real Music Rap Modern 2020
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/74696
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Real Music Rock 00-99" group-title="ENG - Music Videos",Real Music Rock 00-99
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Real Music Rock 00-99" group-title="Music (All Lang)",Real Music Rock 00-99
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/74695
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Real Music Rock 80-90" group-title="ENG - Music Videos",Real Music Rock 80-90
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Real Music Rock 80-90" group-title="Music (All Lang)",Real Music Rock 80-90
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/74693
-#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Real Music Rock Modern 2020" group-title="ENG - Music Videos",Real Music Rock Modern 2020
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Real Music Rock Modern 2020" group-title="Music (All Lang)",Real Music Rock Modern 2020
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/74694
-#EXTINF:-1 tvg-id="Stingray.Alternative.ca2" tvg-name="Stingray Alternative" group-title="ENG - Music Videos",Stingray Alternative
+#EXTINF:-1 tvg-id="Stingray.Alternative.ca2" tvg-name="Stingray Alternative" group-title="Music (All Lang)",Stingray Alternative
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/737081
-#EXTINF:-1 tvg-id="Stingray.Classic.Rock.ca2" tvg-name="Stingray Classic Rock" group-title="ENG - Music Videos",Stingray Classic Rock
+#EXTINF:-1 tvg-id="Stingray.Classic.Rock.ca2" tvg-name="Stingray Classic Rock" group-title="Music (All Lang)",Stingray Classic Rock
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/737082
-#EXTINF:-1 tvg-id="Stingray.Flashback.’70s.ca2" tvg-name="Stingray Flashback 70s" group-title="ENG - Music Videos",Stingray Flashback 70s
+#EXTINF:-1 tvg-id="Stingray.Flashback.’70s.ca2" tvg-name="Stingray Flashback 70s" group-title="Music (All Lang)",Stingray Flashback 70s
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/737083
-#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Greatest Holiday Hits" group-title="ENG - Music Videos",Stingray Greatest Holiday Hits
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Greatest Holiday Hits" group-title="Music (All Lang)",Stingray Greatest Holiday Hits
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/737088
-#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Holidayscapes" group-title="ENG - Music Videos",Stingray Holidayscapes
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Holidayscapes" group-title="Music (All Lang)",Stingray Holidayscapes
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/737089
-#EXTINF:-1 tvg-id="Stingray.Hot.Country.ca2" tvg-name="Stingray Hot Country" group-title="ENG - Music Videos",Stingray Hot Country
+#EXTINF:-1 tvg-id="Stingray.Hot.Country.ca2" tvg-name="Stingray Hot Country" group-title="Music (All Lang)",Stingray Hot Country
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/737084
-#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Marketing Banner" group-title="ENG - Music Videos",Stingray Marketing Banner
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Marketing Banner" group-title="Music (All Lang)",Stingray Marketing Banner
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/737090
-#EXTINF:-1 tvg-id="Stingray.Nature.ca2" tvg-name="Stingray Nature Escape" group-title="ENG - Music Videos",Stingray Nature Escape
+#EXTINF:-1 tvg-id="Stingray.Nature.ca2" tvg-name="Stingray Nature Escape" group-title="Music (All Lang)",Stingray Nature Escape
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/737085
-#EXTINF:-1 tvg-id="Stingray.Pop.Adult.ca2" tvg-name="Stingray Pop Adult" group-title="ENG - Music Videos",Stingray Pop Adult
+#EXTINF:-1 tvg-id="Stingray.Pop.Adult.ca2" tvg-name="Stingray Pop Adult" group-title="Music (All Lang)",Stingray Pop Adult
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/737086
-#EXTINF:-1 tvg-id="Stingray.Remember.the.’80s.ca2" tvg-name="Stingray Remember the '80s " group-title="ENG - Music Videos",Stingray Remember the '80s
+#EXTINF:-1 tvg-id="Stingray.Remember.the.’80s.ca2" tvg-name="Stingray Remember the '80s " group-title="Music (All Lang)",Stingray Remember the '80s
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/737087
-#EXTINF:-1 tvg-id="Vevo.Holiday.us2 " tvg-name="Vevo Holiday" group-title="ENG - Music Videos",Vevo Holiday
+#EXTINF:-1 tvg-id="Vevo.Holiday.us2 " tvg-name="Vevo Holiday" group-title="Music (All Lang)",Vevo Holiday
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629903
-#EXTINF:-1 tvg-id="Vevo.Pop.us2" tvg-name="Vevo Pop" group-title="ENG - Music Videos",Vevo Pop
+#EXTINF:-1 tvg-id="Vevo.Pop.us2" tvg-name="Vevo Pop" group-title="Music (All Lang)",Vevo Pop
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629904
-#EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-name="MTV Live HD" group-title="ENG - Music Videos",MTV Live HD
+#EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-name="MTV Live HD" group-title="Music (All Lang)",MTV Live HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4263
 
 #GROUP:ESP - Deportes
@@ -6627,40 +6665,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4214
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4215
 #EXTINF:-1 tvg-id="NickJr.mx" tvg-name="MX Nick Jr." group-title="ESP - Hijos y familia",MX Nick Jr.
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4271
-
-#GROUP:ESP - Música
-#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",MTV TR3S
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40623
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Mexicana" group-title="ESP - Música",MC Video | Mexicana
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42090
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Musica Urbana" group-title="ESP - Música",MC Video | Musica Urbana
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38043
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC Video | Pop Latino" group-title="ESP - Música",MC Video | Pop Latino
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42085
-
-#GROUP:ENG - Music Radio
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | '80s" group-title="ENG - Music Radio",MC | '80s
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647314
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Blues" group-title="ENG - Music Radio",MC | Blues
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647328
-#EXTINF:-1 tvg-name="MC | Classical Masterpieces" group-title="ENG - Music Radio",MC | Classical Masterpieces
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647336
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Contemporary Christians" group-title="ENG - Music Radio",MC | Contemporary Christians
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647321
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Easy Listening" group-title="ENG - Music Radio",MC | Easy Listening
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647335
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Jazz" group-title="ENG - Music Radio",MC | Jazz
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647327
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Light Classical" group-title="ENG - Music Radio",MC | Light Classical
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647337
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Singers & Swing" group-title="ENG - Music Radio",MC | Singers & Swing
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647329
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Smooth Jazz" group-title="ENG - Music Radio",MC | Smooth Jazz
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647326
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Sound of the Season" group-title="ENG - Music Radio",MC | Sound of the Season
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647323
-#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC | Stage & Screen: Sunday at the Movies" group-title="ENG - Music Radio",MC | Stage & Screen: Sunday at the Movies
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647324
 
 #GROUP:ENG - Sports NHL
 #EXTINF:-1 tvg-id="NHL-AnaheimDucks.us" tvg-name="NHL Anaheim Ducks" group-title="ENG - Sports NHL",NHL Anaheim Ducks
