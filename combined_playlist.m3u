@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-08-24T04:00:25.734613 UTC
+# Generated on 2026-08-24T04:47:42.812186 UTC
 
 #PLAYLIST:x ENG-Categories
 #EXTGRP:x ENG-Categories
@@ -4007,7 +4007,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/50931
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629101
 #EXTINF:-1 tvg-id="UnivisionKMEX.us" tvg-name="CA | Los Angeles | Univision KMEX" group-title="ESP - Local",CA | Los Angeles | Univision KMEX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4469
-#EXTINF:-1 tvg-id="KUAN-DT.us_locals1" tvg-name="CA | Poway, Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",CA | Poway, Etc. | Telemundo KUAN
+#EXTINF:-1 tvg-id="KUAN-DT.us_locals1" tvg-name="CA | Poway, Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP - Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",Etc. | Telemundo KUAN" group-title="ESP | Local",CA | Poway, Etc. | Telemundo KUAN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89446
 #EXTINF:-1 tvg-id="TelemundoKCSO.us" tvg-name="CA | Sacramento | Telemundo KCSO" group-title="ESP - Local",CA | Sacramento | Telemundo KCSO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89450
@@ -4287,6 +4287,8 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3850
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2604
 #EXTINF:-1 tvg-id="CoziTV.us" tvg-name="COZI TV FHD (Alt)" group-title="ENG - Entertainment",COZI TV FHD (Alt)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3851
+#EXTINF:-1 tvg-id="Dabl.us" tvg-name="DABL HD" group-title="ENG - Entertainment",DABL HD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/333484
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America HD (East)" group-title="ENG - Entertainment",Destination America HD (East)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2602
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America HD (East Alt)" group-title="ENG - Entertainment",Destination America HD (East)(Alt)
@@ -4295,6 +4297,8 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3717
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/61806
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel FHD" group-title="ENG - Entertainment",Dove Channel FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/447194
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce TV FHD (Alt)" group-title="ENG - Entertainment",Bounce TV FHD (Alt)
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660931
 #EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E! Entertainment (East) FHD" group-title="ENG - Entertainment",E! Entertainment (East) FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3635
 #EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="E! Entertainment (West)" group-title="ENG - Entertainment",E! Entertainment (West)
@@ -4453,6 +4457,8 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/401197
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/469939
 #EXTINF:-1 tvg-id="StartTV.us" tvg-name="Start TV HD (Alt)" group-title="ENG - Entertainment",Start TV HD (Alt)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597289
+#EXTINF:-1 tvg-id="TBSPacific.us" tvg-name="TBS (West)" group-title="ENG - Entertainment",TBS (West) (Starz)
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631881
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SundanceTV (East) FHD" group-title="ENG - Entertainment",SundanceTV (East) FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2408
 #EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV (East) FHD (Alt)" group-title="ENG - Entertainment",SundanceTV (East) FHD (Alt)
@@ -4505,6 +4511,8 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3766
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3688
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV (East) HD " group-title="ENG - Entertainment",truTV (East) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3846
+#EXTINF:-1 tvg-id="TVLandPacific.us" tvg-name="TV Land (West) SD" group-title="ENG - Entertainment",TV Land (West) SD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21580
 #EXTINF:-1 tvg-id="TVOne.us" tvg-name="TV One FHD" group-title="ENG - Entertainment",TV One FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21897
 #EXTINF:-1 tvg-id="UP.us" tvg-name="UP TV HD" group-title="ENG - Entertainment",UP TV HD
@@ -5187,7 +5195,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/601156
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/601155
 #EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2 (East) HD" group-title="ENG - Movies",Showtime 2 (East) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3965
-#EXTINF:-1 tvg-id="Showtime2Pacific.us" tvg-name="Showtime 2 (West)" group-title="ENG - Movies",Showtime 2 (West)
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2 (East) FHD" group-title="ENG - Movies",Showtime 2 (East) FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631912
 #EXTINF:-1 tvg-id="Paramount+withShowtime.us" tvg-name="Showtime (East) HD" group-title="ENG - Movies",Showtime (East) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2416
@@ -5271,14 +5279,8 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/97561
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3951
 #EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="Starz in Black (East) SHD" group-title="ENG - Movies",Starz in Black (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3962
-#EXTINF:-1 tvg-id="StarzinBlackPacific.us" tvg-name="Starz in Black (West) " group-title="ENG - Movies",Starz in Black (West)
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631880
-#EXTINF:-1 tvg-id="StarzinBlackPacific.us" tvg-name="Starz In Black (West) SHD" group-title="ENG - Movies",Starz In Black (West) SHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/649402
 #EXTINF:-1 tvg-id="StarzKids.us" tvg-name="Starz Kids & Family (East) SHD" group-title="ENG - Movies",Starz Kids & Family (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3956
-#EXTINF:-1 tvg-id="StarzKidsPacific.us" tvg-name="Starz Kids & Family (West)" group-title="ENG - Movies",Starz Kids & Family (West)
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/631881
 #EXTINF:-1 tvg-id="StarzPacific.us" tvg-name="Starz (West) HD" group-title="ENG - Movies",Starz (West) HD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3963
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="TCM (East)" group-title="ENG - Movies",TCM (East)
@@ -5559,8 +5561,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/1269512
 #GROUP:ENG - 24/7
 #EXTINF:-1 tvg-id="plex.tv.America’s.Funniest.Home.Videos.plex " tvg-name="AFV Family (PC)" group-title="ENG - 24/7",AFV Family (PC)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660927
-#EXTINF:-1 tvg-id="Dateline.peacocktv" tvg-name="NBC Dateline" group-title="ENG - 24/7",NBC Dateline
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660936
 #EXTINF:-1 tvg-id="SNLVault.peacocktv" tvg-name="SNL Vault (PC)" group-title="ENG - 24/7",SNL Vault (PC)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660941
 #EXTINF:-1 tvg-id="That70sShow.us" tvg-name="That 70s Show Sitcom (PC)" group-title="ENG - 24/7",That 70s Show Sitcom (PC)
@@ -5741,7 +5741,7 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/42491
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3947
 #EXTINF:-1 tvg-id="BET.Soul.us2" tvg-name="BET SOUL SHD" group-title="Music (All Lang)",BET SOUL SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3948
-#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="Music (All Lang)",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",MTV TR3S
+#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="Music (All Lang)",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="Music (All Lang)",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="Music (All Lang)",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP - Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",.Musica.y.Mas.us2" tvg-name="MTV TR3S" group-title="ESP | Música",MTV TR3S
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40623
 #EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic (East) SHD" group-title="Music (All Lang)",MTV Classic (East) SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/649014
@@ -6005,8 +6005,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3662
 #GROUP:ENG - Classic TV & Westerns
 #EXTINF:-1 tvg-id="Circle.Country.us2" tvg-name="Circle Country FHD" group-title="ENG - Classic TV & Westerns",Circle Country FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/470624
-#EXTINF:-1 tvg-id="Dabl.us" tvg-name="DABL HD" group-title="ENG - Classic TV & Westerns",DABL HD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/333484
 #EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit TV FHD" group-title="ENG - Classic TV & Westerns",Grit TV FHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/40583
 #EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP FHD" group-title="ENG - Classic TV & Westerns",INSP FHD
@@ -6015,8 +6013,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/74682
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/601154
 #EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns SHD" group-title="ENG - Classic TV & Westerns",Starz Encore Westerns SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3955
-#EXTINF:-1 tvg-id="TVLandPacific.us" tvg-name="TV Land (West) SD" group-title="ENG - Classic TV & Westerns",TV Land (West) SD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/21580
 #EXTINF:-1 tvg-id="StarzEncoreWesternsPacific.us" tvg-name="Starz Encore Westerns (West)" group-title="ENG - Classic TV & Westerns",Starz Encore Westerns (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/1270107
 #EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns (East) " group-title="ENG - Classic TV & Westerns",Starz Encore Westerns (East)
@@ -6039,16 +6035,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4202
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4218
 #EXTINF:-1 tvg-id="Canal.Fox.News.mx" tvg-name="Fox News Mexico" group-title="ESP - Noticias",Fox News Mexico
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4239
-
-#GROUP:Z - Around the World
-#EXTINF:-1 tvg-name="??? " group-title="Z - Around the World",???
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/660931
-#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="ID Canada HD" group-title="Z - Around the World",ID Canada HD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88083
-#EXTINF:-1 tvg-id="TLN.ca" tvg-name="TLN (East) Canada" group-title="Z - Around the World",TLN (East) Canada
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647752
-#EXTINF:-1 tvg-id="TLN.ca" tvg-name="TLN (East) Canada (Alt)" group-title="Z - Around the World",TLN (East) Canada (Alt)
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647753
 
 #GROUP:ENG - Sports Fight
 #EXTINF:-1 tvg-id="FightNetwork.us" tvg-name="Fight Network" group-title="ENG - Sports Fight",Fight Network
@@ -6251,6 +6237,14 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89086
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89087
 #EXTINF:-1 tvg-id="WashingtonWizards.nba" tvg-name="[NBA] WASHINGTON WIZARDS" group-title="ENG - Sports NBA/WNBA",[NBA] WASHINGTON WIZARDS
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89088
+
+#GROUP:Z - Around the World
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="ID Canada HD" group-title="Z - Around the World",ID Canada HD
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88083
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="TLN (East) Canada" group-title="Z - Around the World",TLN (East) Canada
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647752
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="TLN (East) Canada (Alt)" group-title="Z - Around the World",TLN (East) Canada (Alt)
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647753
 
 
 ==================================================
