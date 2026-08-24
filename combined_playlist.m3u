@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-08-24T12:53:52.652637 UTC
+# Generated on 2026-08-24T14:43:57.233857 UTC
 
 #PLAYLIST:x ENG-Categories
 #EXTGRP:x ENG-Categories
@@ -12851,14 +12851,6 @@ https://jmp2.uk/stvp-US2900017P2
 https://jmp2.uk/stvp-US700005ID
 #EXTINF:-1 tvg-id="GBBD30000038U" tvg-name="DAZN Ringside" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD30000038U_20260421T123903SQUARE.png" group-title="ENG - Sports Fight",DAZN Ringside
 https://jmp2.uk/stvp-GBBD30000038U
-#EXTINF:-1 tvg-id="GBBA1500006H6" tvg-name="MotorRacing" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA1500006H6_20250107T022613SQUARE.png" group-title="ENG - Sports Fight",MotorRacing
-https://jmp2.uk/stvp-GBBA1500006H6
-#EXTINF:-1 tvg-id="GBAI5000001A" tvg-name="Pluto TV Motor" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAI5000001A_20250107T022644SQUARE.png" group-title="ENG - Sports Fight",Pluto TV Motor
-https://jmp2.uk/stvp-GBAI5000001A
-#EXTINF:-1 tvg-id="GB4200009EC" tvg-name="Racing TV Play" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4200009EC_20260421T125755SQUARE.png" group-title="ENG - Sports Fight",Racing TV Play
-https://jmp2.uk/stvp-GB4200009EC
-#EXTINF:-1 tvg-id="GB51000026A" tvg-name="Rally.TV FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB51000026A_20260120T031439SQUARE.png" group-title="ENG - Sports Fight",Rally.TV FAST+
-https://jmp2.uk/stvp-GB51000026A
 #EXTINF:-1 tvg-id="GB500013LT" tvg-name="Wrestling Legends TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500013LT_20260505T035911SQUARE.png" group-title="ENG - Sports Fight",Wrestling Legends TV
 https://jmp2.uk/stvp-GB500013LT
 #EXTINF:-1 tvg-id="WU242206" tvg-name="GLORY Kickboxing" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/WU242206/1697522787978613305-logo_color.png" group-title="ENG - Sports Fight",GLORY Kickboxing
@@ -13161,6 +13153,14 @@ https://jmp2.uk/stvp-USBD1700019RN
 https://jmp2.uk/stvp-USBC2400027NG
 #EXTINF:-1 tvg-id="USBB5200027Z5" tvg-name="Torque" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200027Z5_20260117T020411SQUARE.png" group-title="ENG - Sports Auto",Torque
 https://jmp2.uk/stvp-USBB5200027Z5
+#EXTINF:-1 tvg-id="GBBA1500006H6" tvg-name="MotorRacing" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA1500006H6_20250107T022613SQUARE.png" group-title="ENG - Sports Auto",MotorRacing
+https://jmp2.uk/stvp-GBBA1500006H6
+#EXTINF:-1 tvg-id="GBAI5000001A" tvg-name="Pluto TV Motor" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAI5000001A_20250107T022644SQUARE.png" group-title="ENG - Sports Auto",Pluto TV Motor
+https://jmp2.uk/stvp-GBAI5000001A
+#EXTINF:-1 tvg-id="GB4200009EC" tvg-name="Racing TV Play" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4200009EC_20260421T125755SQUARE.png" group-title="ENG - Sports Auto",Racing TV Play
+https://jmp2.uk/stvp-GB4200009EC
+#EXTINF:-1 tvg-id="GB51000026A" tvg-name="Rally.TV FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB51000026A_20260120T031439SQUARE.png" group-title="ENG - Sports Auto",Rally.TV FAST+
+https://jmp2.uk/stvp-GB51000026A
 #EXTINF:-1 tvg-id="AM983575" tvg-name="Discovery Turbo TV" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/AM983575/17052762295033719-DiscoveryTurboTV_SC_logo_color.jpg" group-title="ENG - Sports Auto",Discovery Turbo TV
 https://amg00136-wbd-amg00136c57-tclideo-na-6560.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-motortrendfasttv-tclideona/playlist.m3u8?ap=1&app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&brand_name=TCL&cb=1785641419&channel_name=Discovery+Turbo+TV&coppa=0&device%5Bdid%5D=REPLACE_ME&device%5Bdnt%5D=REPLACE_ME&device_make=REPLACE_ME&device_model=REPLACE_ME&gdpr=0&gdpr_consent=0&gender=REPLACE_ME&genre=REPLACE_ME&ic=REPLACE_ME&ifa_type=REPLACE_ME&mute=0&network_name=TCL&placement=1&schain=REPLACE_ME&skip=0&url=REPLACE_ME&us_privacy=1YN-
 #EXTINF:-1 tvg-id="WU652261" tvg-name="Torque" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/WU652261/15639124457893241-Torque_-_TCL_-_5_files_SC_logo_color.jpg" group-title="ENG - Sports Auto",Torque
