@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-08-24T22:28:05.752894 UTC
+# Generated on 2026-08-25T01:21:34.349257 UTC
 
 #PLAYLIST:x ENG-Categories
 #EXTGRP:x ENG-Categories
@@ -124,20 +124,18 @@ https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-id="TheNest.us" tvg-name="The Nest (D)" group-title="ENG - Entertainment",The Nest (D)
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 
-#GROUP:ENG - Music Videos
-#EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-name="The Country Network (D)" group-title="ENG - Music Videos",The Country Network (D)
+#GROUP:Music (All Lang)
+#EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-name="The Country Network (D)" group-title="Music (All Lang)",The Country Network (D)
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="HotBeats TV" group-title="ENG - Music Videos",HotBeats TV
-https://rumble.com/live-hls-dvr/79c1p8/playlist.m3u8?
-
-#GROUP:ENG - Music Radio
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="24/7 Chiptune Radio" group-title="ENG - Music Radio",24/7 Chiptune Radio
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="24/7 Chiptune Radio" group-title="Music (All Lang)",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/0/stream.m3u8?cachebust=a0a999
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="24/7 Vapor Funk Radio" group-title="ENG - Music Radio",24/7 Vapor Funk Radio
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="24/7 Vapor Funk Radio" group-title="Music (All Lang)",24/7 Vapor Funk Radio
 https://watch.vapor.fm/hls/0/stream.m3u8?cachebust=9cb8e3
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Lofi Hip-Hop Radio" group-title="ENG - Music Radio",Lofi Hip-Hop Radio
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="HotBeats TV" group-title="Music (All Lang)",HotBeats TV
+https://rumble.com/live-hls-dvr/79c1p8/playlist.m3u8?
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Lofi Hip-Hop Radio" group-title="Music (All Lang)",Lofi Hip-Hop Radio
 https://rumble.com/live-hls/1essrt/playlist.m3u8?
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Lofi Synthwave Radio" group-title="ENG - Music Radio",Lofi Synthwave Radio
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Lofi Synthwave Radio" group-title="Music (All Lang)",Lofi Synthwave Radio
 https://rumble.com/live-hls/2lh8yh/playlist.m3u8?
 
 #GROUP:ENG - Kids & Family
