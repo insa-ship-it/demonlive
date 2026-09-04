@@ -14,7 +14,6 @@ PLAYLISTS = [
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/independentcw.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/dancetv.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/iheart.m3u8", 
-    "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/5tvpro-music.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/stingray.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/rocket300.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/247.m3u", 
