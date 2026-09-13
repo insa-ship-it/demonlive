@@ -6,6 +6,7 @@ import re
 # Add or remove playlist URLs here as needed
 PLAYLISTS = [
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/ENG-Categories.m3u8", 
+    "https://github.com/insa-ship-it/Local/raw/refs/heads/main/combined_playlist.m3u", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/direct.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/dancetv.m3u8", 
     "https://github.com/insa-ship-it/demon_m3/raw/refs/heads/main/playlists/m3u/iheart.m3u8", 
