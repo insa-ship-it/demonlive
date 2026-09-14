@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
-# Generated on 2026-09-13T22:12:26.929145 UTC
+# Generated on 2026-09-14T03:09:46.143451 UTC
 
 #PLAYLIST:x ENG-Categories
 #EXTGRP:x ENG-Categories
@@ -8,8 +8,8 @@
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream 24/7 Series**" group-title="ENG - 24/7",**NoStream 24/7 Series**
 http://example.com/stream
 
-#GROUP:ENG - 24/7 Movie Collection
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Movie Collection**" group-title="ENG - 24/7 Movie Collection",**NoStream Movie Collection**
+#GROUP:ENG - 24/7 Movies
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream 24/7 Movie **" group-title="ENG - 24/7 Movies",**NoStream 24/7 Movie **
 http://example.com/stream
 
 #GROUP:ENG - Classic TV & Westerns
@@ -40,10 +40,6 @@ http://example.com/stream
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream CBS**" group-title="ENG - Local CBS",**NoStream CBS**
 http://example.com/stream
 
-#GROUP:ENG - Local IND
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream IND**" group-title="ENG - Local IND",**NoStream IND**
-http://example.com/stream
-
 #GROUP:ENG - Local NBC
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream NBC**" group-title="ENG - Local NBC",**NoStream NBC**
 http://example.com/stream
@@ -52,24 +48,20 @@ http://example.com/stream
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Movies**" group-title="ENG - Movies",**NoStream Movies**
 http://example.com/stream
 
-#GROUP:ENG - Local CW/MY
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream CW/MY**" group-title="ENG - Local CW/MY",**NoStream CW/MY**
+#GROUP:ENG - Local CW/IND
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream CW/IND**" group-title="ENG - Local CW/IND",**NoStream CW/IND**
 http://example.com/stream
 
 #GROUP:Music (All Lang)
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Music**" group-title="Music (All Lang)",**NoStream Music**
 http://example.com/stream
 
-#GROUP:ENG - Local FOX
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream FOX**" group-title="ENG - Local FOX",**NoStream FOX**
+#GROUP:ENG - Local FOX/MY
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream FOX/MY**" group-title="ENG - Local FOX/MY",**NoStream FOX/MY**
 http://example.com/stream
 
-#GROUP:ENG - News & Opinions
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream News**" group-title="ENG - News & Opinions",**NoStream News**
-http://example.com/stream
-
-#GROUP:ENG - Reality
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Reality**" group-title="ENG - Reality",**NoStream Reality**
+#GROUP:ENG - News
+#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream News**" group-title="ENG - News",**NoStream News**
 http://example.com/stream
 
 #GROUP:ENG - Sports
@@ -102,10 +94,6 @@ http://example.com/stream
 
 #GROUP:Religion (All Lang)
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**NoStream Religion**" group-title="Religion (All Lang)",**NoStream Religion**
-http://example.com/stream
-
-#GROUP:!! Speciality Requests !!
-#EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="**Place Holder Requests**" group-title="!! Speciality Requests !!",**Place Holder Requests**
 http://example.com/stream
 
 
@@ -1155,6 +1143,10 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="AL | Birmingham | CW WDBB (bkup)" group-title="Z - Offline Streams",AL | Birmingham | CW WDBB (bkup) EPG
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWTTO.us" tvg-name="AL | Birmingham | CW WTTO" group-title="Z - Offline Streams",AL | Birmingham | CW WTTO
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34443
+#EXTINF:-1 tvg-id="CWWTTO.us" tvg-name="AL | Birmingham | CW WTTO (Alt)" group-title="Z - Offline Streams",AL | Birmingham | CW WTTO (Alt)
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174142&extension=ts&play_token=OlJs0Cofjc
 #EXTINF:-1 tvg-name="AL | Dothan | CW WRGX" group-title="Z - Offline Streams",AL | Dothan | CW WRGX EPG
 http://example.com/stream
 #EXTINF:-1 tvg-name="AL | Dothan | CW WRGX (bkup)" group-title="Z - Offline Streams",AL | Dothan | CW WRGX (bkup) EPG
@@ -1171,10 +1163,14 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="AL | Mobile | CW WFNA (bkup)" group-title="Z - Offline Streams",AL | Mobile | CW WFNA (bkup) EPG
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWBMM.us" tvg-name="AL | Montgomery | CW WBMM (Alt)" group-title="Z - Offline Streams",AL | Montgomery | CW WBMM (Alt)
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174143&extension=ts&play_token=7Vv4kvq3an
 #EXTINF:-1 tvg-name="AR | Fayetteville | CW KHOG" group-title="Z - Offline Streams",AR | Fayetteville | CW KHOG EPG
 http://example.com/stream
 #EXTINF:-1 tvg-name="AR | Fayetteville | CW KHOG (bkup)" group-title="Z - Offline Streams",AR | Fayetteville | CW KHOG (bkup) EPG
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWKHBSDT2.us" tvg-name="AR | Fort Smith | CW KHBS" group-title="Z - Offline Streams",AR | Fort Smith | CW KHBS
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38264
 #EXTINF:-1 tvg-id="CWKHBSDT2.us" tvg-name="AR | Fort Smith | CW KHBS (bkup)" group-title="Z - Offline Streams",AR | Fort Smith | CW KHBS (bkup)
 http://example.com/stream
 #EXTINF:-1 tvg-name="AR | Jonesboro | CW KAIT" group-title="Z - Offline Streams",AR | Jonesboro | CW KAIT EPG
@@ -1207,6 +1203,8 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWKECA.us" tvg-name="CA | Eureka | CW KECA (bkup)" group-title="Z - Offline Streams",CA | Eureka | CW KECA (bkup)
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWKFRE.us" tvg-name="CA | Fresno | CW KFRE" group-title="Z - Offline Streams",CA | Fresno | CW KFRE
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629104
 #EXTINF:-1 tvg-id="CWKFRE.us" tvg-name="CA | Fresno | CW KFRE (bkup)" group-title="Z - Offline Streams",CA | Fresno | CW KFRE (bkup)
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWKTLA.us" tvg-name="CA | Los Angeles | CW KTLA (bkup)" group-title="Z - Offline Streams",CA | Los Angeles | CW KTLA (bkup)
@@ -1219,6 +1217,8 @@ http://example.com/stream
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174145&extension=ts&play_token=TZIqATwaZt
 #EXTINF:-1 tvg-name="CA | Palm Springs | CW KCWQ (bkup)" group-title="Z - Offline Streams",CA | Palm Springs | CW KCWQ (bkup) EPG
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWKESQDT7.us" tvg-name="CA | Palm Springs | CW KESQ" group-title="Z - Offline Streams",CA | Palm Springs | CW KESQ
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174145&extension=ts&play_token=TZIqATwaZt
 #EXTINF:-1 tvg-id="CWKESQDT7.us" tvg-name="CA | Palm Springs | CW KESQ (bkup)" group-title="Z - Offline Streams",CA | Palm Springs | CW KESQ (bkup)
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWKQCA.us" tvg-name="CA | Sacramento | CW KQCA" group-title="Z - Offline Streams",CA | Sacramento | CW KQCA
@@ -1227,6 +1227,8 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWKUSI.us" tvg-name="CA | San Diego | CW KUSI (bkup)" group-title="Z - Offline Streams",CA | San Diego | CW KUSI (bkup)
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWKRON.us" tvg-name="CA | San Francisco | CW KRON" group-title="Z - Offline Streams",CA | San Francisco | CW KRON
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597171
 #EXTINF:-1 tvg-id="CWKRON.us" tvg-name="CA | San Francisco | CW KRON (bkup)" group-title="Z - Offline Streams",CA | San Francisco | CW KRON (bkup)
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWKCOYDT3.us" tvg-name="CA | S.L.O. | CW KCOY" group-title="Z - Offline Streams",CA | S.L.O. | CW KCOY
@@ -1241,20 +1243,34 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWKXTU.us" tvg-name="CO | Colorado Springs | CW KXTU (bkup)" group-title="Z - Offline Streams",CO | Colorado Springs | CW KXTU (bkup) EPG
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWKWGN.us" tvg-name="CO | Denver | CW KWGN (Alt)" group-title="Z - Offline Streams",CO | Denver | CW KWGN (Alt)
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1627773&extension=ts&play_token=2whnw8Hs0Q
 #EXTINF:-1 tvg-name="CO | Grand Junction | CW KJCT" group-title="Z - Offline Streams",CO | Grand Junction | CW KJCT EPG
 http://example.com/stream
 #EXTINF:-1 tvg-name="CO | Grand Junction | CW KJCT (bkup)" group-title="Z - Offline Streams",CO | Grand Junction | CW KJCT (bkup) EPG
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWCCT.us" tvg-name="CT | Hartford | CW WCCT" group-title="Z - Offline Streams",CT | Hartford | CW WCCT
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629544
 #EXTINF:-1 tvg-id="CWWCCT.us" tvg-name="CT | Hartford | CW WCCT (bkup)" group-title="Z - Offline Streams",CT | Hartford | CW WCCT (bkup)
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWWDCW.us" tvg-name="DC | Washington | CW WDCW (bkup)" group-title="Z - Offline Streams",DC | Washington | CW WDCW (bkup)
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWXCW.us" tvg-name="FL | Fort Myers | CW WXCW" group-title="Z - Offline Streams",FL | Fort Myers | CW WXCW
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174152&extension=ts&play_token=maTZhHOQpu
 #EXTINF:-1 tvg-id="CWWXCW.us" tvg-name="FL | Fort Myers | CW WXCW (bkup)" group-title="Z - Offline Streams",FL | Fort Myers | CW WXCW (bkup)
 http://example.com/stream
 #EXTINF:-1 tvg-name="FL | Gainesville | CW WCJB" group-title="Z - Offline Streams",FL | Gainesville | CW WCJB EPG
 http://example.com/stream
 #EXTINF:-1 tvg-name="FL | Gainesville | CW WCJB (bkup)" group-title="Z - Offline Streams",FL | Gainesville | CW WCJB (bkup) EPG
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWCWJ.us" tvg-name="FL | Jacksonville | CW WCWJ (Alt)" group-title="Z - Offline Streams",FL | Jacksonville | CW WCWJ (Alt)
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174150&extension=ts&play_token=q1UicDYIet
+#EXTINF:-1 tvg-id="MYWBFS.us" tvg-name="FL | Miami | CW WBFS" group-title="Z - Offline Streams",FL | Miami | CW WBFS
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38327
+#EXTINF:-1 tvg-id="MYWBFS.us" tvg-name="FL | Miami | CW WBFS (Alt)" group-title="Z - Offline Streams",FL | Miami | CW WBFS (Alt)
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174144&extension=ts&play_token=9WZCI1EnaB
+#EXTINF:-1 tvg-id="CWWKCF.us" tvg-name="FL | Orlando | CW WKCF" group-title="Z - Offline Streams",FL | Orlando | CW WKCF
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/333488
 #EXTINF:-1 tvg-id="CWWKCF.us" tvg-name="FL | Orlando | CW WKCF (bkup)" group-title="Z - Offline Streams",FL | Orlando | CW WKCF (bkup)
 http://example.com/stream
 #EXTINF:-1 tvg-name="FL | Panama City | CW WMBB" group-title="Z - Offline Streams",FL | Panama City | CW WMBB EPG
@@ -1269,6 +1285,10 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="FL | Tallahassee | CW WTLH (bkup)" group-title="Z - Offline Streams",FL | Tallahassee | CW WTLH (bkup) EPG
 http://example.com/stream
+#EXTINF:-1 tvg-id="MyWTTA.us" tvg-name="FL | Tampa | CW WTTA" group-title="Z - Offline Streams",FL | Tampa | CW WTTA
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=90951&extension=ts&play_token=s7OHIthoE6
+#EXTINF:-1 tvg-id="MyWTTA.us" tvg-name="FL | Tampa | CW WTTA (Alt)" group-title="Z - Offline Streams",FL | Tampa | CW WTTA (Alt)
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=90951&extension=ts&play_token=s7OHIthoE6
 #EXTINF:-1 tvg-id="CWWTVX.us" tvg-name="FL | WPB | CW WTVX (bkup)" group-title="Z - Offline Streams",FL | WPB | CW WTVX (bkup)
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWWGCW.us" tvg-name="GA | Albany | CW WGCW" group-title="Z - Offline Streams",GA | Albany | CW WGCW
@@ -1279,6 +1299,10 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="GA | Albany | CW WALB (bkup)" group-title="Z - Offline Streams",GA | Albany | CW WALB (bkup) EPG
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWPCH.us" tvg-name="GA | Atlanta | CW WPCH" group-title="Z - Offline Streams",GA | Atlanta | CW WPCH
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38244
+#EXTINF:-1 tvg-id="CWWPCH.us" tvg-name="GA | Atlanta | CW WPCH (Alt)" group-title="Z - Offline Streams",GA | Atlanta | CW WPCH (Alt)
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=90948&extension=ts&play_token=CRF2P3Vl93
 #EXTINF:-1 tvg-name="GA | Augusta | CW WJBF" group-title="Z - Offline Streams",GA | Augusta | CW WJBF EPG
 http://example.com/stream
 #EXTINF:-1 tvg-name="GA | Augusta | CW WJBF (bkup)" group-title="Z - Offline Streams",GA | Augusta | CW WJBF (bkup) EPG
@@ -1341,6 +1365,10 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWWBUI.us" tvg-name="IL | Champaign | CW WBUI (bkup)" group-title="Z - Offline Streams",IL | Champaign | CW WBUI (bkup)
 http://example.com/stream
+#EXTINF:-1 tvg-id="WGNWGN9.us" tvg-name="IL | Chicago | CW WGN (Alt)" group-title="Z - Offline Streams",IL | Chicago | CW WGN (Alt)
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=45589&extension=ts&play_token=7qAOp12R84
+#EXTINF:-1 tvg-id="CWWEEKDT3.us" tvg-name="IL | Peoria | CW WEEK" group-title="Z - Offline Streams",IL | Peoria | CW WEEK
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1807937&extension=ts&play_token=YKd37QEm70
 #EXTINF:-1 tvg-id="CWWEEKDT3.us" tvg-name="IL | Peoria | CW WEEK (bkup)" group-title="Z - Offline Streams",IL | Peoria | CW WEEK (bkup)
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWWGEMDT2.us" tvg-name="IL | Quincy | CW WGEM" group-title="Z - Offline Streams",IL | Quincy | CW WGEM
@@ -1379,14 +1407,22 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="KS | Topeka | CW KTKA (bkup)" group-title="Z - Offline Streams",KS | Topeka | CW KTKA (bkup) EPG
 http://example.com/stream
+#EXTINF:-1 tvg-id="FOXKSCW.us" tvg-name="KS | Wichita | CW KSCW" group-title="Z - Offline Streams",KS | Wichita | CW KSCW
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629716
 #EXTINF:-1 tvg-id="FOXKSCW.us" tvg-name="KS | Wichita | CW KSCW (bkup)" group-title="Z - Offline Streams",KS | Wichita | CW KSCW (bkup)
 http://example.com/stream
 #EXTINF:-1 tvg-name="KY | Bowling Green | CW WBKO" group-title="Z - Offline Streams",KY | Bowling Green | CW WBKO EPG
 http://example.com/stream
 #EXTINF:-1 tvg-name="KY | Bowling Green | CW WBKO (bkup)" group-title="Z - Offline Streams",KY | Bowling Green | CW WBKO (bkup) EPG
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWKYTDT2.us" tvg-name="KY | Lexington | CW WKYT" group-title="Z - Offline Streams",KY | Lexington | CW WKYT
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1376206&extension=ts&play_token=skk4dxpkWW
 #EXTINF:-1 tvg-id="CWWKYTDT2.us" tvg-name="KY | Lexington | CW WKYT (bkup)" group-title="Z - Offline Streams",KY | Lexington | CW WKYT (bkup)
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWBKI.us" tvg-name="KY | Louisville | CW WBKI" group-title="Z - Offline Streams",KY | Louisville | CW WBKI
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512990
+#EXTINF:-1 tvg-id="CWWBKI.us" tvg-name="KY | Louisville | CW WBKI (Alt)" group-title="Z - Offline Streams",KY | Louisville | CW WBKI (Alt)
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1422948&extension=ts&play_token=q8TKrDHjEz
 #EXTINF:-1 tvg-id="CWKFVSDT2.us" tvg-name="KY | Paducah | CW KFVS" group-title="Z - Offline Streams",KY | Paducah | CW KFVS
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWKFVSDT2.us" tvg-name="KY | Paducah | CW KFVS (bkup)" group-title="Z - Offline Streams",KY | Paducah | CW KFVS (bkup)
@@ -1411,18 +1447,30 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWKARDDT2.us" tvg-name="LA | Monroe | CW KARD (bkup)" group-title="Z - Offline Streams",LA | Monroe | CW KARD (bkup)
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWNOL.us" tvg-name="LA | New Orleans | CW WNOL" group-title="Z - Offline Streams",LA | New Orleans | CW WNOL
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921007&extension=ts&play_token=3nKeeRfAc7
 #EXTINF:-1 tvg-id="CWWNOL.us" tvg-name="LA | New Orleans | CW WNOL (bkup)" group-title="Z - Offline Streams",LA | New Orleans | CW WNOL (bkup)
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWKPXJ.us" tvg-name="LA | Shreveport | CW KPXJ" group-title="Z - Offline Streams",LA | Shreveport | CW KPXJ
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174160&extension=ts&play_token=fOapQXDxAL
 #EXTINF:-1 tvg-id="CWKPXJ.us" tvg-name="LA | Shreveport | CW KPXJ (bkup)" group-title="Z - Offline Streams",LA | Shreveport | CW KPXJ (bkup)
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWLVI.us" tvg-name="MA | Boston | CW WLVI" group-title="Z - Offline Streams",MA | Boston | CW WLVI
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629809
+#EXTINF:-1 tvg-id="CWWLVI.us" tvg-name="MA | Boston | CW WLVI (Alt)" group-title="Z - Offline Streams",MA | Boston | CW WLVI (Alt)
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174164&extension=ts&play_token=vVVAlVLrGY
 #EXTINF:-1 tvg-id="CWWWLPDT2.us" tvg-name="MA | Springfield | CW WWLP" group-title="Z - Offline Streams",MA | Springfield | CW WWLP
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWWWLPDT2.us" tvg-name="MA | Springfield | CW WWLP (bkup)" group-title="Z - Offline Streams",MA | Springfield | CW WWLP (bkup)
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWNUV.us" tvg-name="MD | Baltimore | CW WNUV (Alt)" group-title="Z - Offline Streams",MD | Baltimore | CW WNUV (Alt)
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174162&extension=ts&play_token=c8OtthsIf1
 #EXTINF:-1 tvg-id="CWWMDTDT2.us" tvg-name="MD | Salisbury | CW WMDT" group-title="Z - Offline Streams",MD | Salisbury | CW WMDT
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWWMDTDT2.us" tvg-name="MD | Salisbury | CW WMDT (bkup)" group-title="Z - Offline Streams",MD | Salisbury | CW WMDT (bkup)
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWKBD.us" tvg-name="MI | Detroit | CW WKBD (Alt)" group-title="Z - Offline Streams",MI | Detroit | CW WKBD (Alt)
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174166&extension=ts&play_token=OVtWgTUk5D
 #EXTINF:-1 tvg-id="CWWBSF.us" tvg-name="MI | Flint | CW WBSF" group-title="Z - Offline Streams",MI | Flint | CW WBSF
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWWBSF.us" tvg-name="MI | Flint | CW WBSF (bkup)" group-title="Z - Offline Streams",MI | Flint | CW WBSF (bkup)
@@ -1445,6 +1493,10 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="MO | Joplin | CW KFJX (bkup)" group-title="Z - Offline Streams",MO | Joplin | CW KFJX (bkup) EPG
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWKCWE.us" tvg-name="MO | Kansas City | CW KCWE" group-title="Z - Offline Streams",MO | Kansas City | CW KCWE
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629896
+#EXTINF:-1 tvg-id="CWKCWE.us" tvg-name="MO | Kansas City | CW KCWE (Alt)" group-title="Z - Offline Streams",MO | Kansas City | CW KCWE (Alt)
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174170&extension=ts&play_token=2HSwKwvocC
 #EXTINF:-1 tvg-id="CWKYCWS.us" tvg-name="MO | Springfield | CW KYCW" group-title="Z - Offline Streams",MO | Springfield | CW KYCW
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWKYCWS.us" tvg-name="MO | Springfield | CW KYCW (bkup)" group-title="Z - Offline Streams",MO | Springfield | CW KYCW (bkup)
@@ -1479,10 +1531,16 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="MT | Billings | CW KSVI (bkup)" group-title="Z - Offline Streams",MT | Billings | CW KSVI (bkup) EPG
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWMYT.us" tvg-name="NC | Charlotte | CW WMYT (Alt)" group-title="Z - Offline Streams",NC | Charlotte | CW WMYT (Alt)
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174179&extension=ts&play_token=IpjD2rIw3X
+#EXTINF:-1 tvg-id="CWWCWG.us" tvg-name="NC | Greensboro | CW WCWG (Alt)" group-title="Z - Offline Streams",NC | Greensboro | CW WCWG (Alt)
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174180&extension=ts&play_token=s3KrRRM7ac
 #EXTINF:-1 tvg-name="NC | Greenville | CW WNCT" group-title="Z - Offline Streams",NC | Greenville | CW WNCT EPG
 http://example.com/stream
 #EXTINF:-1 tvg-name="NC | Greenville | CW WNCT (bkup)" group-title="Z - Offline Streams",NC | Greenville | CW WNCT (bkup) EPG
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWLFL.us" tvg-name="NC | Raleigh-Durham | CW WLFL" group-title="Z - Offline Streams",NC | Raleigh-Durham | CW WLFL
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34435
 #EXTINF:-1 tvg-id="CWWLFL.us" tvg-name="NC | Raleigh-Durham | CW WLFL (bkup)" group-title="Z - Offline Streams",NC | Raleigh-Durham | CW WLFL (bkup)
 http://example.com/stream
 #EXTINF:-1 tvg-name="NC | Wilmington | CW WWAY" group-title="Z - Offline Streams",NC | Wilmington | CW WWAY EPG
@@ -1535,12 +1593,16 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="NM | Roswell | CW KRWB (Alt)" group-title="Z - Offline Streams",NM | Roswell | CW KRWB (Alt)
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWKVCW.us" tvg-name="NV | Las Vegas | CW KVCW" group-title="Z - Offline Streams",NV | Las Vegas | CW KVCW
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34441
 #EXTINF:-1 tvg-id="CWKVCW.us" tvg-name="NV | Las Vegas | CW KVCW (Alt)" group-title="Z - Offline Streams",NV | Las Vegas | CW KVCW (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-name="NV | Reno | CW KOLO" group-title="Z - Offline Streams",NV | Reno | CW KOLO
 http://example.com/stream
 #EXTINF:-1 tvg-name="NV | Reno | CW KOLO (Alt)" group-title="Z - Offline Streams",NV | Reno | CW KOLO (Alt)
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWCWN.us" tvg-name="NY | Albany | CW WCWN" group-title="Z - Offline Streams",NY | Albany | CW WCWN
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34440
 #EXTINF:-1 tvg-id="CWWCWN.us" tvg-name="NY | Albany | CW WCWN (Alt)" group-title="Z - Offline Streams",NY | Albany | CW WCWN (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-name="NY | Binghamton | CW WBNG" group-title="Z - Offline Streams",NY | Binghamton | CW WBNG
@@ -1553,6 +1615,8 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="NY | Elmira | CW WETM (Alt)" group-title="Z - Offline Streams",NY | Elmira | CW WETM (Alt)
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="NY | NYC | CW WPIX" group-title="Z - Offline Streams",NY | NYC | CW WPIX
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/93093
 #EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="NY | NYC | CW WPIX (Alt)" group-title="Z - Offline Streams",NY | NYC | CW WPIX (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWWHAMDT2.us" tvg-name="NY | Rochester | CW WHAM" group-title="Z - Offline Streams",NY | Rochester | CW WHAM
@@ -1577,6 +1641,8 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="TV55WBNX.us" tvg-name="OH | Cleveland | CW WBNX (Alt)" group-title="Z - Offline Streams",OH | Cleveland | CW WBNX (Alt)
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWWWHO.us" tvg-name="OH | Columbus | CW WWHO" group-title="Z - Offline Streams",OH | Columbus | CW WWHO
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629939
 #EXTINF:-1 tvg-id="CWWWHO.us" tvg-name="OH | Columbus | CW WWHO (Alt)" group-title="Z - Offline Streams",OH | Columbus | CW WWHO (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="MYWBDT.us" tvg-name="OH | Dayton | CW WBDT" group-title="Z - Offline Streams",OH | Dayton | CW WBDT
@@ -1591,8 +1657,12 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="OH | Youngstown | CW WFMJ (Alt)" group-title="Z - Offline Streams",OH | Youngstown | CW WFMJ (Alt)
 http://example.com/stream
+#EXTINF:-1 tvg-id="FreedomKAUT.us" tvg-name="OK | OKC | CW KAUT" group-title="Z - Offline Streams",OK | OKC | CW KAUT
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34444
 #EXTINF:-1 tvg-id="FreedomKAUT.us" tvg-name="OK | OKC | CW KAUT (Alt)" group-title="Z - Offline Streams",OK | OKC | CW KAUT (Alt)
 http://example.com/stream
+#EXTINF:-1 tvg-id="CWKQCW.us" tvg-name="OK | Tulsa | CW KQCW" group-title="Z - Offline Streams",OK | Tulsa | CW KQCW
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/81879
 #EXTINF:-1 tvg-id="CWKQCW.us" tvg-name="OK | Tulsa | CW KQCW (Alt)" group-title="Z - Offline Streams",OK | Tulsa | CW KQCW (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-name="OR | Bend | CW KTVZ" group-title="Z - Offline Streams",OR | Bend | CW KTVZ
@@ -1603,6 +1673,8 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-name="OR | Coos Bay | CW KMCB (Alt)" group-title="Z - Offline Streams",OR | Coos Bay | CW KMCB (Alt)
 http://example.com/stream
+#EXTINF:-1 tvg-id="CW+KMTRDT2.us" tvg-name="OR | Eugene | CW KMTR" group-title="Z - Offline Streams",OR | Eugene | CW KMTR
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512992
 #EXTINF:-1 tvg-id="CW+KMTRDT2.us" tvg-name="OR | Eugene | CW KMTR (Alt)" group-title="Z - Offline Streams",OR | Eugene | CW KMTR (Alt)
 http://example.com/stream
 #EXTINF:-1 tvg-id="CWKTVLDT2.us" tvg-name="OR | Medford | CW KTVL" group-title="Z - Offline Streams",OR | Medford | CW KTVL
@@ -2142,137 +2214,49 @@ http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71752.m3u8
 #EXTINF:-1 tvg-id="FOXWTIC.us" tvg-name="CT | Hartford | FOX WTIC" group-title="ENG - Local FOX",CT | Hartford | FOX WTIC
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71795.m3u8
 
-#GROUP:ENG - Local CW/MY
-#EXTINF:-1 tvg-id="CWWTTO.us" tvg-name="AL | Birmingham | CW WTTO" group-title="ENG - Local CW/MY",AL | Birmingham | CW WTTO
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34443
-#EXTINF:-1 tvg-id="CWWTTO.us" tvg-name="AL | Birmingham | CW WTTO (Alt)" group-title="ENG - Local CW/MY",AL | Birmingham | CW WTTO (Alt)
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174142&extension=ts&play_token=OlJs0Cofjc
-#EXTINF:-1 tvg-id="CWWBMM.us" tvg-name="AL | Montgomery | CW WBMM" group-title="ENG - Local CW/MY",AL | Montgomery | CW WBMM
+#GROUP:ENG - Local CW/IND
+#EXTINF:-1 tvg-id="CWWBMM.us" tvg-name="AL | Montgomery | CW WBMM" group-title="ENG - Local CW/IND",AL | Montgomery | CW WBMM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/75352
-#EXTINF:-1 tvg-id="CWWBMM.us" tvg-name="AL | Montgomery | CW WBMM (Alt)" group-title="ENG - Local CW/MY",AL | Montgomery | CW WBMM (Alt)
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174143&extension=ts&play_token=7Vv4kvq3an
-#EXTINF:-1 tvg-id="CWKHBSDT2.us" tvg-name="AR | Fort Smith | CW KHBS" group-title="ENG - Local CW/MY",AR | Fort Smith | CW KHBS
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38264
-#EXTINF:-1 tvg-id="AZTVKAZT.us" tvg-name="AZ | Phoenix | CW KAZT" group-title="ENG - Local CW/MY",AZ | Phoenix | CW KAZT
+#EXTINF:-1 tvg-id="AZTVKAZT.us" tvg-name="AZ | Phoenix | CW KAZT" group-title="ENG - Local CW/IND",AZ | Phoenix | CW KAZT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38293
-#EXTINF:-1 tvg-id="CWKFRE.us" tvg-name="CA | Fresno | CW KFRE" group-title="ENG - Local CW/MY",CA | Fresno | CW KFRE
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629104
-#EXTINF:-1 tvg-id="CWKTLA.us" tvg-name="CA | Los Angeles | CW KTLA" group-title="ENG - Local CW/MY",CA | Los Angeles | CW KTLA
+#EXTINF:-1 tvg-id="CWKTLA.us" tvg-name="CA | Los Angeles | CW KTLA" group-title="ENG - Local CW/IND",CA | Los Angeles | CW KTLA
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/87547
-#EXTINF:-1 tvg-id="CWKESQDT7.us" tvg-name="CA | Palm Springs | CW KESQ" group-title="ENG - Local CW/MY",CA | Palm Springs | CW KESQ
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174145&extension=ts&play_token=TZIqATwaZt
-#EXTINF:-1 tvg-id="CWKUSI.us" tvg-name="CA | San Diego | CW KUSI" group-title="ENG - Local CW/MY",CA | San Diego | CW KUSI
+#EXTINF:-1 tvg-id="CWKUSI.us" tvg-name="CA | San Diego | CW KUSI" group-title="ENG - Local CW/IND",CA | San Diego | CW KUSI
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/710371
-#EXTINF:-1 tvg-id="CWKRON.us" tvg-name="CA | San Francisco | CW KRON" group-title="ENG - Local CW/MY",CA | San Francisco | CW KRON
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597171
-#EXTINF:-1 tvg-id="CWKWGN.us" tvg-name="CO | Denver | CW KWGN" group-title="ENG - Local CW/MY",CO | Denver | CW KWGN
+#EXTINF:-1 tvg-id="CWKWGN.us" tvg-name="CO | Denver | CW KWGN" group-title="ENG - Local CW/IND",CO | Denver | CW KWGN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630653
-#EXTINF:-1 tvg-id="CWKWGN.us" tvg-name="CO | Denver | CW KWGN (Alt)" group-title="ENG - Local CW/MY",CO | Denver | CW KWGN (Alt)
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1627773&extension=ts&play_token=2whnw8Hs0Q
-#EXTINF:-1 tvg-id="CWWCCT.us" tvg-name="CT | Hartford | CW WCCT" group-title="ENG - Local CW/MY",CT | Hartford | CW WCCT
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629544
-#EXTINF:-1 tvg-id="CWWDCW.us" tvg-name="DC | Washington | CW WDCW" group-title="ENG - Local CW/MY",DC | Washington | CW WDCW
+#EXTINF:-1 tvg-id="CWWDCW.us" tvg-name="DC | Washington | CW WDCW" group-title="ENG - Local CW/IND",DC | Washington | CW WDCW
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630645
-#EXTINF:-1 tvg-id="CWWXCW.us" tvg-name="FL | Fort Myers | CW WXCW" group-title="ENG - Local CW/MY",FL | Fort Myers | CW WXCW
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174152&extension=ts&play_token=maTZhHOQpu
-#EXTINF:-1 tvg-id="CWWCWJ.us" tvg-name="FL | Jacksonville | CW WCWJ" group-title="ENG - Local CW/MY",FL | Jacksonville | CW WCWJ
+#EXTINF:-1 tvg-id="CWWCWJ.us" tvg-name="FL | Jacksonville | CW WCWJ" group-title="ENG - Local CW/IND",FL | Jacksonville | CW WCWJ
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/607669
-#EXTINF:-1 tvg-id="CWWCWJ.us" tvg-name="FL | Jacksonville | CW WCWJ (Alt)" group-title="ENG - Local CW/MY",FL | Jacksonville | CW WCWJ (Alt)
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174150&extension=ts&play_token=q1UicDYIet
-#EXTINF:-1 tvg-id="MYWBFS.us" tvg-name="FL | Miami | CW WBFS" group-title="ENG - Local CW/MY",FL | Miami | CW WBFS
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38327
-#EXTINF:-1 tvg-id="MYWBFS.us" tvg-name="FL | Miami | CW WBFS (Alt)" group-title="ENG - Local CW/MY",FL | Miami | CW WBFS (Alt)
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174144&extension=ts&play_token=9WZCI1EnaB
-#EXTINF:-1 tvg-id="CWWKCF.us" tvg-name="FL | Orlando | CW WKCF" group-title="ENG - Local CW/MY",FL | Orlando | CW WKCF
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/333488
-#EXTINF:-1 tvg-id="MyWTTA.us" tvg-name="FL | Tampa | CW WTTA" group-title="ENG - Local CW/MY",FL | Tampa | CW WTTA
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=90951&extension=ts&play_token=s7OHIthoE6
-#EXTINF:-1 tvg-id="MyWTTA.us" tvg-name="FL | Tampa | CW WTTA (Alt)" group-title="ENG - Local CW/MY",FL | Tampa | CW WTTA (Alt)
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=90951&extension=ts&play_token=s7OHIthoE6
-#EXTINF:-1 tvg-id="CWWTVX.us" tvg-name="FL | WPB | CW WTVX" group-title="ENG - Local CW/MY",FL | WPB | CW WTVX
+#EXTINF:-1 tvg-id="CWWTVX.us" tvg-name="FL | WPB | CW WTVX" group-title="ENG - Local CW/IND",FL | WPB | CW WTVX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/630216
-#EXTINF:-1 tvg-id="CWWPCH.us" tvg-name="GA | Atlanta | CW WPCH" group-title="ENG - Local CW/MY",GA | Atlanta | CW WPCH
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/38244
-#EXTINF:-1 tvg-id="CWWPCH.us" tvg-name="GA | Atlanta | CW WPCH (Alt)" group-title="ENG - Local CW/MY",GA | Atlanta | CW WPCH (Alt)
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=90948&extension=ts&play_token=CRF2P3Vl93
-#EXTINF:-1 tvg-id="CWKHONDT2.us" tvg-name="HI | Honolulu | CW KHON" group-title="ENG - Local CW/MY",HI | Honolulu | CW KHON
+#EXTINF:-1 tvg-id="CWKHONDT2.us" tvg-name="HI | Honolulu | CW KHON" group-title="ENG - Local CW/IND",HI | Honolulu | CW KHON
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629649
-#EXTINF:-1 tvg-id="WGNWGN9.us" tvg-name="IL | Chicago | CW WGN" group-title="ENG - Local CW/MY",IL | Chicago | CW WGN
+#EXTINF:-1 tvg-id="WGNWGN9.us" tvg-name="IL | Chicago | CW WGN" group-title="ENG - Local CW/IND",IL | Chicago | CW WGN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/85340
-#EXTINF:-1 tvg-id="WGNWGN9.us" tvg-name="IL | Chicago | CW WGN (Alt)" group-title="ENG - Local CW/MY",IL | Chicago | CW WGN (Alt)
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=45589&extension=ts&play_token=7qAOp12R84
-#EXTINF:-1 tvg-id="CWWEEKDT3.us" tvg-name="IL | Peoria | CW WEEK" group-title="ENG - Local CW/MY",IL | Peoria | CW WEEK
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1807937&extension=ts&play_token=YKd37QEm70
-#EXTINF:-1 tvg-id="FOXKSCW.us" tvg-name="KS | Wichita | CW KSCW" group-title="ENG - Local CW/MY",KS | Wichita | CW KSCW
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629716
-#EXTINF:-1 tvg-id="CWWKYTDT2.us" tvg-name="KY | Lexington | CW WKYT" group-title="ENG - Local CW/MY",KY | Lexington | CW WKYT
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1376206&extension=ts&play_token=skk4dxpkWW
-#EXTINF:-1 tvg-id="CWWBKI.us" tvg-name="KY | Louisville | CW WBKI" group-title="ENG - Local CW/MY",KY | Louisville | CW WBKI
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512990
-#EXTINF:-1 tvg-id="CWWBKI.us" tvg-name="KY | Louisville | CW WBKI (Alt)" group-title="ENG - Local CW/MY",KY | Louisville | CW WBKI (Alt)
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1422948&extension=ts&play_token=q8TKrDHjEz
-#EXTINF:-1 tvg-id="CWWNOL.us" tvg-name="LA | New Orleans | CW WNOL" group-title="ENG - Local CW/MY",LA | New Orleans | CW WNOL
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=1921007&extension=ts&play_token=3nKeeRfAc7
-#EXTINF:-1 tvg-id="CWKPXJ.us" tvg-name="LA | Shreveport | CW KPXJ" group-title="ENG - Local CW/MY",LA | Shreveport | CW KPXJ
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174160&extension=ts&play_token=fOapQXDxAL
-#EXTINF:-1 tvg-id="CWWLVI.us" tvg-name="MA | Boston | CW WLVI" group-title="ENG - Local CW/MY",MA | Boston | CW WLVI
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629809
-#EXTINF:-1 tvg-id="CWWLVI.us" tvg-name="MA | Boston | CW WLVI (Alt)" group-title="ENG - Local CW/MY",MA | Boston | CW WLVI (Alt)
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174164&extension=ts&play_token=vVVAlVLrGY
-#EXTINF:-1 tvg-id="CWWNUV.us" tvg-name="MD | Baltimore | CW WNUV" group-title="ENG - Local CW/MY",MD | Baltimore | CW WNUV
+#EXTINF:-1 tvg-id="CWWNUV.us" tvg-name="MD | Baltimore | CW WNUV" group-title="ENG - Local CW/IND",MD | Baltimore | CW WNUV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34434
-#EXTINF:-1 tvg-id="CWWNUV.us" tvg-name="MD | Baltimore | CW WNUV (Alt)" group-title="ENG - Local CW/MY",MD | Baltimore | CW WNUV (Alt)
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174162&extension=ts&play_token=c8OtthsIf1
-#EXTINF:-1 tvg-id="CWWKBD.us" tvg-name="MI | Detroit | CW WKBD" group-title="ENG - Local CW/MY",MI | Detroit | CW WKBD
+#EXTINF:-1 tvg-id="CWWKBD.us" tvg-name="MI | Detroit | CW WKBD" group-title="ENG - Local CW/IND",MI | Detroit | CW WKBD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/89623
-#EXTINF:-1 tvg-id="CWWKBD.us" tvg-name="MI | Detroit | CW WKBD (Alt)" group-title="ENG - Local CW/MY",MI | Detroit | CW WKBD (Alt)
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174166&extension=ts&play_token=OVtWgTUk5D
-#EXTINF:-1 tvg-id="CWWOTVDT2.us" tvg-name="MI | Grand Rapids | CW WOTV" group-title="ENG - Local CW/MY",MI | Grand Rapids | CW WOTV
+#EXTINF:-1 tvg-id="CWWOTVDT2.us" tvg-name="MI | Grand Rapids | CW WOTV" group-title="ENG - Local CW/IND",MI | Grand Rapids | CW WOTV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/88740
-#EXTINF:-1 tvg-id="CWWFQXDT2.us" tvg-name="MI | Traverse City | CW WFQX" group-title="ENG - Local CW/MY",MI | Traverse City | CW WFQX
+#EXTINF:-1 tvg-id="CWWFQXDT2.us" tvg-name="MI | Traverse City | CW WFQX" group-title="ENG - Local CW/IND",MI | Traverse City | CW WFQX
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629818
-#EXTINF:-1 tvg-id="CWKOMUDT3.us" tvg-name="MO | Jefferson City | CW KOMU" group-title="ENG - Local CW/MY",MO | Jefferson City | CW KOMU
+#EXTINF:-1 tvg-id="CWKOMUDT3.us" tvg-name="MO | Jefferson City | CW KOMU" group-title="ENG - Local CW/IND",MO | Jefferson City | CW KOMU
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629880
-#EXTINF:-1 tvg-id="CWKCWE.us" tvg-name="MO | Kansas City | CW KCWE" group-title="ENG - Local CW/MY",MO | Kansas City | CW KCWE
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629896
-#EXTINF:-1 tvg-id="CWKCWE.us" tvg-name="MO | Kansas City | CW KCWE (Alt)" group-title="ENG - Local CW/MY",MO | Kansas City | CW KCWE (Alt)
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174170&extension=ts&play_token=2HSwKwvocC
-#EXTINF:-1 tvg-id="CWKPLR.us" tvg-name="MO | St Louis | CW KPLR" group-title="ENG - Local CW/MY",MO | St Louis | CW KPLR
+#EXTINF:-1 tvg-id="CWKPLR.us" tvg-name="MO | St Louis | CW KPLR" group-title="ENG - Local CW/IND",MO | St Louis | CW KPLR
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597163
-#EXTINF:-1 tvg-id="CWWMYT.us" tvg-name="NC | Charlotte | CW WMYT" group-title="ENG - Local CW/MY",NC | Charlotte | CW WMYT
+#EXTINF:-1 tvg-id="CWWMYT.us" tvg-name="NC | Charlotte | CW WMYT" group-title="ENG - Local CW/IND",NC | Charlotte | CW WMYT
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597168
-#EXTINF:-1 tvg-id="CWWMYT.us" tvg-name="NC | Charlotte | CW WMYT (Alt)" group-title="ENG - Local CW/MY",NC | Charlotte | CW WMYT (Alt)
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174179&extension=ts&play_token=IpjD2rIw3X
-#EXTINF:-1 tvg-id="CWWCWG.us" tvg-name="NC | Greensboro | CW WCWG" group-title="ENG - Local CW/MY",NC | Greensboro | CW WCWG
+#EXTINF:-1 tvg-id="CWWCWG.us" tvg-name="NC | Greensboro | CW WCWG" group-title="ENG - Local CW/IND",NC | Greensboro | CW WCWG
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/635601
-#EXTINF:-1 tvg-id="CWWCWG.us" tvg-name="NC | Greensboro | CW WCWG (Alt)" group-title="ENG - Local CW/MY",NC | Greensboro | CW WCWG (Alt)
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CB:69:CC&stream=174180&extension=ts&play_token=s3KrRRM7ac
-#EXTINF:-1 tvg-id="CWWLFL.us" tvg-name="NC | Raleigh-Durham | CW WLFL" group-title="ENG - Local CW/MY",NC | Raleigh-Durham | CW WLFL
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34435
-#EXTINF:-1 tvg-id="CWKPTMDT3.us" tvg-name="NE | Omaha | CW KPTM" group-title="ENG - Local CW/MY",NE | Omaha | CW KPTM
+#EXTINF:-1 tvg-id="CWKPTMDT3.us" tvg-name="NE | Omaha | CW KPTM" group-title="ENG - Local CW/IND",NE | Omaha | CW KPTM
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/597248
-#EXTINF:-1 tvg-id="CWKVCW.us" tvg-name="NV | Las Vegas | CW KVCW" group-title="ENG - Local CW/MY",NV | Las Vegas | CW KVCW
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34441
-#EXTINF:-1 tvg-id="CWWCWN.us" tvg-name="NY | Albany | CW WCWN" group-title="ENG - Local CW/MY",NY | Albany | CW WCWN
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34440
-#EXTINF:-1 tvg-id="CWWNLO.us" tvg-name="NY | Buffalo | CW WNLO" group-title="ENG - Local CW/MY",NY | Buffalo | CW WNLO
+#EXTINF:-1 tvg-id="CWWNLO.us" tvg-name="NY | Buffalo | CW WNLO" group-title="ENG - Local CW/IND",NY | Buffalo | CW WNLO
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/647359
-#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="NY | NYC | CW WPIX" group-title="ENG - Local CW/MY",NY | NYC | CW WPIX
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/93093
-#EXTINF:-1 tvg-id="CW+WKTVDT3.us" tvg-name="NY | Utica | CW WFXV" group-title="ENG - Local CW/MY",NY | Utica | CW WFXV
+#EXTINF:-1 tvg-id="CW+WKTVDT3.us" tvg-name="NY | Utica | CW WFXV" group-title="ENG - Local CW/IND",NY | Utica | CW WFXV
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/516014
-#EXTINF:-1 tvg-id="CWWWHO.us" tvg-name="OH | Columbus | CW WWHO" group-title="ENG - Local CW/MY",OH | Columbus | CW WWHO
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/629939
-#EXTINF:-1 tvg-id="FreedomKAUT.us" tvg-name="OK | OKC | CW KAUT" group-title="ENG - Local CW/MY",OK | OKC | CW KAUT
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/34444
-#EXTINF:-1 tvg-id="CWKQCW.us" tvg-name="OK | Tulsa | CW KQCW" group-title="ENG - Local CW/MY",OK | Tulsa | CW KQCW
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/81879
-#EXTINF:-1 tvg-id="CW+KMTRDT2.us" tvg-name="OR | Eugene | CW KMTR" group-title="ENG - Local CW/MY",OR | Eugene | CW KMTR
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/512992
-
-#GROUP:ENG - Local IND
-#EXTINF:-1 tvg-name="*** Not Working ***" group-title="ENG - Local IND",*** Not Working ***
-http://example.com/stream
 
 
 ==================================================
@@ -4612,106 +4596,106 @@ http://mains.services/live/tmo247line/65s4d64vgfdfbae4/f2b2404c-4abb-470a-99aa-8
 #EXTINF:-1 tvg-id="tvg-id-channel999" tvg-name="24/7: Zorro" tvg-logo="http://onlytimewilltell.xyz:2086/images/e68e5d5ae90edf90288c3741c6ad2f8a.jpg" group-title="ENG - 24/7",24/7: Zorro
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/81c730c4-6eeb-47be-95d2-6528c05c8bf6.m3u
 
-#GROUP:ENG - 24/7 Movie Collection
-#EXTINF:-1 tvg-id="tvg-id-channel29" tvg-name="24/7: A Nightmare On Elm Street Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/c1002b5042a9350cb50ebe0198a5fb7c.jpg" group-title="ENG - 24/7 Movie Collection",24/7: A Nightmare On Elm Street Movies
+#GROUP:ENG - 24/7 Movies
+#EXTINF:-1 tvg-id="tvg-id-channel29" tvg-name="24/7: A Nightmare On Elm Street Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/c1002b5042a9350cb50ebe0198a5fb7c.jpg" group-title="ENG - 24/7 Movies",24/7: A Nightmare On Elm Street Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/561d50b7-9665-4080-bf88-27d41e8f81a9.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel43" tvg-name="24/7: Alien Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/99ccf6d5deaea924e610e78ef56dea69.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Alien Movies
+#EXTINF:-1 tvg-id="tvg-id-channel43" tvg-name="24/7: Alien Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/99ccf6d5deaea924e610e78ef56dea69.jpg" group-title="ENG - 24/7 Movies",24/7: Alien Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/5436e40c-3c05-4808-a2f7-4174a5ccdce1.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel73" tvg-name="24/7: Austin Powers Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/766fdf7de9dfe54d5ba58c83a72ff4ef.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Austin Powers Movies
+#EXTINF:-1 tvg-id="tvg-id-channel73" tvg-name="24/7: Austin Powers Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/766fdf7de9dfe54d5ba58c83a72ff4ef.jpg" group-title="ENG - 24/7 Movies",24/7: Austin Powers Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/bdad6044-6e94-438e-aca6-bb9cb3a5047f.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel75" tvg-name="24/7: Avengers Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/6d95f16fe712db16fa933b56e529bbcb.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Avengers Movies
+#EXTINF:-1 tvg-id="tvg-id-channel75" tvg-name="24/7: Avengers Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/6d95f16fe712db16fa933b56e529bbcb.jpg" group-title="ENG - 24/7 Movies",24/7: Avengers Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/686cd2c5-1995-4623-9112-c9d3ea11d174.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel77" tvg-name="24/7: Back to the Future Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/204aa4b83738cd453847ccfce265b605.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Back to the Future Movies
+#EXTINF:-1 tvg-id="tvg-id-channel77" tvg-name="24/7: Back to the Future Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/204aa4b83738cd453847ccfce265b605.jpg" group-title="ENG - 24/7 Movies",24/7: Back to the Future Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/95f9c7f3-2a91-42db-a737-2224db75fae6.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel97" tvg-name="24/7: Beverly Hills Cop Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/265b31e50e7321cb9adaa3debad653a7.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Beverly Hills Cop Movies
+#EXTINF:-1 tvg-id="tvg-id-channel97" tvg-name="24/7: Beverly Hills Cop Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/265b31e50e7321cb9adaa3debad653a7.jpg" group-title="ENG - 24/7 Movies",24/7: Beverly Hills Cop Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/71a4f136-3d98-4a45-9f0c-b0e695c95b81.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel187" tvg-name="24/7: Despicable Me Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/01365302928f41c976174840d43c53be.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Despicable Me Movies
+#EXTINF:-1 tvg-id="tvg-id-channel187" tvg-name="24/7: Despicable Me Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/01365302928f41c976174840d43c53be.jpg" group-title="ENG - 24/7 Movies",24/7: Despicable Me Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/786af1d0-1bf0-4037-8229-e0fa17ea7b4d.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel196" tvg-name="24/7: Die Hard Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/c3c89e573c4ea1f256680309d4673339.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Die Hard Movies
+#EXTINF:-1 tvg-id="tvg-id-channel196" tvg-name="24/7: Die Hard Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/c3c89e573c4ea1f256680309d4673339.jpg" group-title="ENG - 24/7 Movies",24/7: Die Hard Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/ffd5ba8a-1528-455d-ab76-8cd7f5e2a1ad.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel243" tvg-name="24/7: Fast and Furious Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/7b06ea37dc18ea46b4f7e976c8725b7b.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Fast and Furious Movies
+#EXTINF:-1 tvg-id="tvg-id-channel243" tvg-name="24/7: Fast and Furious Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/7b06ea37dc18ea46b4f7e976c8725b7b.jpg" group-title="ENG - 24/7 Movies",24/7: Fast and Furious Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/a4fd77f5-233d-40f7-a8a5-3b8848444f2b.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel281" tvg-name="24/7: Ghostbusters Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/11cf7fb7525091bcaa8438ae6566e411.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Ghostbusters Movies
+#EXTINF:-1 tvg-id="tvg-id-channel281" tvg-name="24/7: Ghostbusters Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/11cf7fb7525091bcaa8438ae6566e411.jpg" group-title="ENG - 24/7 Movies",24/7: Ghostbusters Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/05191d33-4083-4ae2-8081-3bbdb985f4ec.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel311" tvg-name="24/7: Harry Potter Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/0d03ec0142157dabe1a9e0e2a952a0a5.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Harry Potter Movies
+#EXTINF:-1 tvg-id="tvg-id-channel311" tvg-name="24/7: Harry Potter Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/0d03ec0142157dabe1a9e0e2a952a0a5.jpg" group-title="ENG - 24/7 Movies",24/7: Harry Potter Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/38cf985f-3a34-4206-a540-1621b127b024.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel334" tvg-name="24/7: Home Alone Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/ecea637aced31443a0473e59eacceddf.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Home Alone Movies
+#EXTINF:-1 tvg-id="tvg-id-channel334" tvg-name="24/7: Home Alone Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/ecea637aced31443a0473e59eacceddf.jpg" group-title="ENG - 24/7 Movies",24/7: Home Alone Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/f721d791-e8b0-49eb-86cb-09c99e104646.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel348" tvg-name="24/7: Ice Age Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/cbb0f3d8376dc5f8d4e97398902dff2d.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Ice Age Movies
+#EXTINF:-1 tvg-id="tvg-id-channel348" tvg-name="24/7: Ice Age Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/cbb0f3d8376dc5f8d4e97398902dff2d.jpg" group-title="ENG - 24/7 Movies",24/7: Ice Age Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/04c6f574-f4b0-4cbe-a564-510dea74d6f9.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel353" tvg-name="24/7: Indiana Jones Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/c5523cbf04abb761e32f5cccc17e4de2.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Indiana Jones Movies
+#EXTINF:-1 tvg-id="tvg-id-channel353" tvg-name="24/7: Indiana Jones Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/c5523cbf04abb761e32f5cccc17e4de2.jpg" group-title="ENG - 24/7 Movies",24/7: Indiana Jones Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/7ccb3ff6-42d4-4d3a-9a85-948f5c907c15.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel366" tvg-name="24/7: Jaws Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/ea9a481ae4a8d9025347e0df4ebb563c.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Jaws Movies
+#EXTINF:-1 tvg-id="tvg-id-channel366" tvg-name="24/7: Jaws Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/ea9a481ae4a8d9025347e0df4ebb563c.jpg" group-title="ENG - 24/7 Movies",24/7: Jaws Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/7f72401b-e6dd-480b-8b9d-e3da201b2cd7.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel370" tvg-name="24/7: John Wick Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/2c61dea0b7e7503dd3563c9ebf27a90a.jpg" group-title="ENG - 24/7 Movie Collection",24/7: John Wick Movies
+#EXTINF:-1 tvg-id="tvg-id-channel370" tvg-name="24/7: John Wick Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/2c61dea0b7e7503dd3563c9ebf27a90a.jpg" group-title="ENG - 24/7 Movies",24/7: John Wick Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/af83fd4a-36c3-4fca-984e-32ca65485b83.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel375" tvg-name="24/7: Jurassic Park Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/d7abcafd6e6cc8e6fba2563edb4eccc4.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Jurassic Park Movies
+#EXTINF:-1 tvg-id="tvg-id-channel375" tvg-name="24/7: Jurassic Park Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/d7abcafd6e6cc8e6fba2563edb4eccc4.jpg" group-title="ENG - 24/7 Movies",24/7: Jurassic Park Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/fb1527f4-862c-4696-8dea-11687b4507de.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel390" tvg-name="24/7: Kung Fu Panda Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/addc93fe9e01283ac68a82301456a733.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Kung Fu Panda Movies
+#EXTINF:-1 tvg-id="tvg-id-channel390" tvg-name="24/7: Kung Fu Panda Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/addc93fe9e01283ac68a82301456a733.jpg" group-title="ENG - 24/7 Movies",24/7: Kung Fu Panda Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/8e28b432-f2b5-4e04-83b2-e8e775f9e476.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel405" tvg-name="24/7: Lethal Weapon Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/d8e998bb064b15a4ed57237e121894e3.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Lethal Weapon Movies
+#EXTINF:-1 tvg-id="tvg-id-channel405" tvg-name="24/7: Lethal Weapon Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/d8e998bb064b15a4ed57237e121894e3.jpg" group-title="ENG - 24/7 Movies",24/7: Lethal Weapon Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/a74c7369-0900-444e-a242-ecbdc6fd0f20.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel428" tvg-name="24/7: Mad Max Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/d4f83122855e07ad6f5eda34fb7e5ab7.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Mad Max Movies
+#EXTINF:-1 tvg-id="tvg-id-channel428" tvg-name="24/7: Mad Max Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/d4f83122855e07ad6f5eda34fb7e5ab7.jpg" group-title="ENG - 24/7 Movies",24/7: Mad Max Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/3ce32832-a116-4a1b-a842-331ea1935f97.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel460" tvg-name="24/7: Men In Black Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/caea3169bb73201eb962cb380bdf93ab.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Men In Black Movies
+#EXTINF:-1 tvg-id="tvg-id-channel460" tvg-name="24/7: Men In Black Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/caea3169bb73201eb962cb380bdf93ab.jpg" group-title="ENG - 24/7 Movies",24/7: Men In Black Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/b1a99467-5c0d-4508-a7ce-99e4dabafe60.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel469" tvg-name="24/7: Mission Impossible Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/2e37bd1e99a9e3cf4c7fff5ba13f9916.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Mission Impossible Movies
+#EXTINF:-1 tvg-id="tvg-id-channel469" tvg-name="24/7: Mission Impossible Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/2e37bd1e99a9e3cf4c7fff5ba13f9916.jpg" group-title="ENG - 24/7 Movies",24/7: Mission Impossible Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/6cbaca4a-681b-4293-8cdd-4cff8d573deb.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel506" tvg-name="24/7: Night at the Museum Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/31401c5a601ae276295c4bd2e1e85aca.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Night at the Museum Movies
+#EXTINF:-1 tvg-id="tvg-id-channel506" tvg-name="24/7: Night at the Museum Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/31401c5a601ae276295c4bd2e1e85aca.jpg" group-title="ENG - 24/7 Movies",24/7: Night at the Museum Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/836f6169-8300-482c-b7dd-b6463346c58c.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel512" tvg-name="24/7: Oceans Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/db9cc9f68d5dab805edba4ec0a5497c2.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Oceans Movies
+#EXTINF:-1 tvg-id="tvg-id-channel512" tvg-name="24/7: Oceans Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/db9cc9f68d5dab805edba4ec0a5497c2.jpg" group-title="ENG - 24/7 Movies",24/7: Oceans Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/97d5d4d6-bb5e-43be-ad2c-12646215f9c5.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel544" tvg-name="24/7: Pirates of the Caribbean Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/a59070e6eaced23020aee80b34d37bd5.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Pirates of the Caribbean Movies
+#EXTINF:-1 tvg-id="tvg-id-channel544" tvg-name="24/7: Pirates of the Caribbean Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/a59070e6eaced23020aee80b34d37bd5.jpg" group-title="ENG - 24/7 Movies",24/7: Pirates of the Caribbean Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/f0b8b43c-93d2-4922-b2f3-90a2bf511776.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel547" tvg-name="24/7: Planet of the Apes Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/261cce52535bd892b277f121b6409b1e.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Planet of the Apes Movies
+#EXTINF:-1 tvg-id="tvg-id-channel547" tvg-name="24/7: Planet of the Apes Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/261cce52535bd892b277f121b6409b1e.jpg" group-title="ENG - 24/7 Movies",24/7: Planet of the Apes Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/4d3124d8-2d48-4ae2-9672-f2210f2ae3e5.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel550" tvg-name="24/7: Police Academy Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/c2f9be61ce5b22f602555424724ce070.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Police Academy Movies
+#EXTINF:-1 tvg-id="tvg-id-channel550" tvg-name="24/7: Police Academy Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/c2f9be61ce5b22f602555424724ce070.jpg" group-title="ENG - 24/7 Movies",24/7: Police Academy Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/05371ed6-db7c-4088-8b71-ac179ea8e86a.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel587" tvg-name="24/7: RoboCop Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/71f00ce1a92481ae15db77a2c31ee349.jpg" group-title="ENG - 24/7 Movie Collection",24/7: RoboCop Movies
+#EXTINF:-1 tvg-id="tvg-id-channel587" tvg-name="24/7: RoboCop Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/71f00ce1a92481ae15db77a2c31ee349.jpg" group-title="ENG - 24/7 Movies",24/7: RoboCop Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/958d46cc-2ceb-4701-9e99-0f3abbe59932.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel591" tvg-name="24/7: Rocky Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/34653da432b05086a59a871d11c42f96.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Rocky Movies
+#EXTINF:-1 tvg-id="tvg-id-channel591" tvg-name="24/7: Rocky Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/34653da432b05086a59a871d11c42f96.jpg" group-title="ENG - 24/7 Movies",24/7: Rocky Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/dd7e5a45-257b-435e-8214-87f121431c30.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel609" tvg-name="24/7: Saw Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/be52e3a88a31b05f4f6b14ba1a0a5c6a.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Saw Movies
+#EXTINF:-1 tvg-id="tvg-id-channel609" tvg-name="24/7: Saw Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/be52e3a88a31b05f4f6b14ba1a0a5c6a.jpg" group-title="ENG - 24/7 Movies",24/7: Saw Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/8820ac92-1383-4dcd-9f46-38f310f6305b.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel612" tvg-name="24/7: Scream Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/aeebdcfe5ba1889e9ca322668329b579.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Scream Movies
+#EXTINF:-1 tvg-id="tvg-id-channel612" tvg-name="24/7: Scream Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/aeebdcfe5ba1889e9ca322668329b579.jpg" group-title="ENG - 24/7 Movies",24/7: Scream Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/269b65e0-a598-4847-88cf-1d79c15bab59.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel631" tvg-name="24/7: Shrek Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/0d0c3719b8959cbe37495dbebab23992.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Shrek Movies
+#EXTINF:-1 tvg-id="tvg-id-channel631" tvg-name="24/7: Shrek Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/0d0c3719b8959cbe37495dbebab23992.jpg" group-title="ENG - 24/7 Movies",24/7: Shrek Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/8fbb1713-3ed2-4d63-8c84-255fce329b33.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel654" tvg-name="24/7: Spider Man Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/a6e3206a5a0b08a42feddd9d6854c104.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Spider Man Movies
+#EXTINF:-1 tvg-id="tvg-id-channel654" tvg-name="24/7: Spider Man Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/a6e3206a5a0b08a42feddd9d6854c104.jpg" group-title="ENG - 24/7 Movies",24/7: Spider Man Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/6f745006-4726-4e7c-ae65-d46c54309239.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel662" tvg-name="24/7: Star Trek Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/afa08a1a780f2366bdd56d5486bb07d6.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Star Trek Movies
+#EXTINF:-1 tvg-id="tvg-id-channel662" tvg-name="24/7: Star Trek Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/afa08a1a780f2366bdd56d5486bb07d6.jpg" group-title="ENG - 24/7 Movies",24/7: Star Trek Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/7a805262-32e0-40e1-861e-21951b03abe5.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel671" tvg-name="24/7: Star Wars Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/c96579f24de4b261a1efa5955a3cb148.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Star Wars Movies
+#EXTINF:-1 tvg-id="tvg-id-channel671" tvg-name="24/7: Star Wars Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/c96579f24de4b261a1efa5955a3cb148.jpg" group-title="ENG - 24/7 Movies",24/7: Star Wars Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/b67d6cd0-a749-4e32-bbfe-65f6205851fe.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel689" tvg-name="24/7: Superman Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/cb48bfc8aeffed675a401425609f73c4.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Superman Movies
+#EXTINF:-1 tvg-id="tvg-id-channel689" tvg-name="24/7: Superman Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/cb48bfc8aeffed675a401425609f73c4.jpg" group-title="ENG - 24/7 Movies",24/7: Superman Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/82c7c29c-8801-4b9f-9c30-80908aab278a.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel711" tvg-name="24/7: Terminator Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/ed0185b909f69da8133ad098a60bbc3e.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Terminator Movies
+#EXTINF:-1 tvg-id="tvg-id-channel711" tvg-name="24/7: Terminator Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/ed0185b909f69da8133ad098a60bbc3e.jpg" group-title="ENG - 24/7 Movies",24/7: Terminator Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/5a1228dd-874d-4bb2-9d12-2d9d18dc6e97.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel742" tvg-name="24/7: The Bourne Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/31bfa1567bd9a8bf18c9227d5d278499.jpg" group-title="ENG - 24/7 Movie Collection",24/7: The Bourne Movies
+#EXTINF:-1 tvg-id="tvg-id-channel742" tvg-name="24/7: The Bourne Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/31bfa1567bd9a8bf18c9227d5d278499.jpg" group-title="ENG - 24/7 Movies",24/7: The Bourne Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/ad9874be-abfa-4880-9237-a241f132d55f.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel744" tvg-name="24/7: The Chronicles of Narnia Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/d63609cac4e4b643ef75f4e37c0f8c12.jpg" group-title="ENG - 24/7 Movie Collection",24/7: The Chronicles of Narnia Movies
+#EXTINF:-1 tvg-id="tvg-id-channel744" tvg-name="24/7: The Chronicles of Narnia Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/d63609cac4e4b643ef75f4e37c0f8c12.jpg" group-title="ENG - 24/7 Movies",24/7: The Chronicles of Narnia Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/1b3067fd-f0e2-43be-91b9-3c537a2e511c.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel764" tvg-name="24/7: The Godfather Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/ae8a68a0d38d5c562e21720aff7760d9.jpg" group-title="ENG - 24/7 Movie Collection",24/7: The Godfather Movies
+#EXTINF:-1 tvg-id="tvg-id-channel764" tvg-name="24/7: The Godfather Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/ae8a68a0d38d5c562e21720aff7760d9.jpg" group-title="ENG - 24/7 Movies",24/7: The Godfather Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/46d2e0c0-94dc-4bc8-ba38-6698232d1053.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel776" tvg-name="24/7: The Hobbit Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/e93892c89ac530ffa2b2ab28bd9a25bd.jpg" group-title="ENG - 24/7 Movie Collection",24/7: The Hobbit Movies
+#EXTINF:-1 tvg-id="tvg-id-channel776" tvg-name="24/7: The Hobbit Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/e93892c89ac530ffa2b2ab28bd9a25bd.jpg" group-title="ENG - 24/7 Movies",24/7: The Hobbit Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/b939dc6c-c8ca-472c-80c7-a1a6011d936d.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel783" tvg-name="24/7: The Karate Kid Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/3d6890ac738b6cd11fc339fa9c099334.jpg" group-title="ENG - 24/7 Movie Collection",24/7: The Karate Kid Movies
+#EXTINF:-1 tvg-id="tvg-id-channel783" tvg-name="24/7: The Karate Kid Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/3d6890ac738b6cd11fc339fa9c099334.jpg" group-title="ENG - 24/7 Movies",24/7: The Karate Kid Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/7644a580-32d6-4b49-8b0c-25b6f610ea02.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel792" tvg-name="24/7: The Librarian Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/44181bed4a181d5e46fc7d880c2d433c.jpg" group-title="ENG - 24/7 Movie Collection",24/7: The Librarian Movies
+#EXTINF:-1 tvg-id="tvg-id-channel792" tvg-name="24/7: The Librarian Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/44181bed4a181d5e46fc7d880c2d433c.jpg" group-title="ENG - 24/7 Movies",24/7: The Librarian Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/b187f490-5c2d-4525-b1c9-5811c769eee7.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel797" tvg-name="24/7: The Lord of the Rings Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/a0fbf9e79d0a4f3bd26f66727a14a8ff.jpg" group-title="ENG - 24/7 Movie Collection",24/7: The Lord of the Rings Movies
+#EXTINF:-1 tvg-id="tvg-id-channel797" tvg-name="24/7: The Lord of the Rings Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/a0fbf9e79d0a4f3bd26f66727a14a8ff.jpg" group-title="ENG - 24/7 Movies",24/7: The Lord of the Rings Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/0fdc262a-0f8f-425e-af2a-29cefd65c40e.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel804" tvg-name="24/7: The Matrix Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/ad402b7a94de8e9617b4421606b9b573.jpg" group-title="ENG - 24/7 Movie Collection",24/7: The Matrix Movies
+#EXTINF:-1 tvg-id="tvg-id-channel804" tvg-name="24/7: The Matrix Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/ad402b7a94de8e9617b4421606b9b573.jpg" group-title="ENG - 24/7 Movies",24/7: The Matrix Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/f811bc51-8dcc-4b97-a508-cce0030fb332.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel810" tvg-name="24/7: The Mummy Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/ae12879fca420a6571a09d1bc38efd87.jpg" group-title="ENG - 24/7 Movie Collection",24/7: The Mummy Movies
+#EXTINF:-1 tvg-id="tvg-id-channel810" tvg-name="24/7: The Mummy Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/ae12879fca420a6571a09d1bc38efd87.jpg" group-title="ENG - 24/7 Movies",24/7: The Mummy Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/a491b56a-c425-427e-bfbb-de2b01a6df0c.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel815" tvg-name="24/7: The NeverEnding Story Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/48b03b48dee8885cf3345e0c86e45d18.jpg" group-title="ENG - 24/7 Movie Collection",24/7: The NeverEnding Story Movies
+#EXTINF:-1 tvg-id="tvg-id-channel815" tvg-name="24/7: The NeverEnding Story Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/48b03b48dee8885cf3345e0c86e45d18.jpg" group-title="ENG - 24/7 Movies",24/7: The NeverEnding Story Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/91fbfb08-2615-4e96-984f-da9614ebee13.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel861" tvg-name="24/7: The Santa Clause Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/65a64fb77c1f6d140e5b0814a3d088e9.jpg" group-title="ENG - 24/7 Movie Collection",24/7: The Santa Clause Movies
+#EXTINF:-1 tvg-id="tvg-id-channel861" tvg-name="24/7: The Santa Clause Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/65a64fb77c1f6d140e5b0814a3d088e9.jpg" group-title="ENG - 24/7 Movies",24/7: The Santa Clause Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/411239fa-0e76-4a94-a829-a836f2e50ff7.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel912" tvg-name="24/7: Toy Story Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/84a59aca59555299e7787413b18114f3.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Toy Story Movies
+#EXTINF:-1 tvg-id="tvg-id-channel912" tvg-name="24/7: Toy Story Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/84a59aca59555299e7787413b18114f3.jpg" group-title="ENG - 24/7 Movies",24/7: Toy Story Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/bcb713eb-99bc-45fb-a729-e93c38617b92.m3u
-#EXTINF:-1 tvg-id="tvg-id-channel916" tvg-name="24/7: Transformers Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/9d3f463a7b984828c63990c9bb8747ae.jpg" group-title="ENG - 24/7 Movie Collection",24/7: Transformers Movies
+#EXTINF:-1 tvg-id="tvg-id-channel916" tvg-name="24/7: Transformers Movies" tvg-logo="http://onlytimewilltell.xyz:2086/images/9d3f463a7b984828c63990c9bb8747ae.jpg" group-title="ENG - 24/7 Movies",24/7: Transformers Movies
 http://mains.services/live/tmo247line/65s4d64vgfdfbae4/91054f69-23c7-4571-bee8-fe3c0bd582cc.m3u
 
 
